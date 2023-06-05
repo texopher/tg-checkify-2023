@@ -3,6 +3,7 @@ i              June 2023
 i  -------------------------------------
 i
 1June 05, 2023 (All)	_R_/a/2023/06/05/index.txt	__SERVER_HOST__	__SERVER_PORT__ 
+1June 05, 2023 (Trends)	_R_/t/2023/06/05/index.txt	__SERVER_HOST__	__SERVER_PORT__ 
 i
 i
 i=========================================
