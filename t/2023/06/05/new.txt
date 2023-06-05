@@ -1,0 +1,3100 @@
+i
+i=========================================
+i              LOCALIZATION
+i  -------------------------------------
+i
+i
+i             Northern America
+i        -------------------------
+i
+i              United States
+i              -------------
+i
+i
+i[ UFC ]
+i
+i[1 : new] https://mmajunkie.usatoday.com/2023/06/dana-white-offers-tyson-fury-ufc-fight-against-jon-jones-baddest-man-on-the-planet-title-fight
+i[3 : new] https://www.ufc.com/
+i[4 : new] https://www.ufc.com/events
+i[8 : new] https://www.ufcfightpass.com/
+i[11 : new] https://www.mmafighting.com/ufc
+i
+i[ Real Madrid ]
+i
+i[1 : new] https://www.realmadrid.com/en
+i[2 : new] https://www.realmadrid.com/en/football
+i[3 : new] https://www.realmadrid.com/en/news/2023/06/04/real-madrid-presented-the-basketball-undecima-to-the-santiago-bernabeu
+i
+i[ Spanish Grand Prix ]
+i
+i[1 : new] https://www.formula1.com/en/latest/article.5-winners-and-5-losers-from-the-spanish-grand-prix-who-shone-in-spain.6r4xNdnmHiRndG6BYCCv28.html
+i[2 : new] https://www.formula1.com/en/racing/2023/Spain.html
+i[3 : new] https://www.formula1.com/en/latest/article.formula-1-aws-gran-premio-de-espana-2023-timetable.3IX2h08WxIBOQNafrm2rMD.html
+i[4 : new] https://www.formula1.com/en/latest/article.live-coverage-formula-1-aws-gran-premio-de-espana-2023.2PWgv7kevoILOta3h!1I.html
+i[7 : new] https://www.sportingnews.com/us/formula-1/news/formula-1-live-results-highlights-spanish-grand-prix-2023/qp9z2ynclewtjj7naijlndh2
+i[8 : new] https://theathletic.com/live-blogs/f1-spain-gp-live-race-qualifying-updates/On4OVvGoaFZB/
+i[10 : new] https://www.skysports.com/f1/grandprix/spain
+i[11 : new] https://talksport.com/sport/motorsport/1440457/f1-spanish-grand-prix-live-times-qualifying-hamilton/
+i
+i[ Heat vs Nuggets ]
+i
+i[3 : new] https://sportstar.thehindu.com/basketball/miami-heat-vs-denver-nuggets-live-score-game-2-nba-finals-updates-highlights/article66932165.ece
+i[6 : new] https://www.usatoday.com/story/sports/nba/2023/06/04/nba-finals-game-2-live-updates-heat-nuggets/70286144007/
+i[9 : new] https://theathletic.com/live-blogs/nba-finals-game-2-nuggets-heat/LU21N1CtamYQ/
+i
+i[ Nuggets vs Heat ]
+i
+i[8 : new] https://www.usatoday.com/story/sports/nba/2023/06/04/nba-finals-game-2-live-updates-heat-nuggets/70286144007/
+i[11 : new] https://www.sportingnews.com/us/nba/news/nuggets-heat-score-highlights-game-2-nba-finals/x7byx3oxxel97xjkdsqnryot
+i
+i[ India train accident ]
+i
+i[1 : new] https://www.independent.co.uk/asia/india/odisha-train-accident-cause-death-toll-latest-b2351336.html
+i[3 : new] https://www.cbsnews.com/news/india-train-accident-error-signaling-system-cause-railway-official/
+i[4 : new] https://www.reuters.com/world/india/indian-train-crash-death-toll-jumps-233-900-injured-2023-06-03/
+i[9 : new] https://apnews.com/article/india-passenger-train-derail-deadly-accident-dceafe2a5fe9c287f2ebd8b6cce37f93
+i
+i[ Florida Panthers ]
+i
+i[1 : new] https://www.nhl.com/panthers
+i[2 : new] https://www.nhl.com/panthers/news/recap-panthers-falter-in-third-period-as-knights-take-game-1-of-scf/c-344721708
+i[3 : new] https://www.nhl.com/panthers/news/5-takeaways-golden-knights-5-panthers-2/c-344728692
+i[12 : new] https://www.flalivearena.com/florida-panthers
+i[13 : new] https://theathletic.com/nhl/team/fla-panthers/
+i
+i[ FA Cup ]
+i
+i[4 : new] https://www.thefa.com/competitions/thefacup
+i[8 : new] https://www.thefa.com/competitions/thefacup
+i[14 : new] https://theathletic.com/football/fa-cup/
+i
+i[ Odisha train accident ]
+i
+i[1 : new] https://timesofindia.indiatimes.com/india/odisha-coromandel-express-train-accident-news-live-several-dead-injured-as-odisha-bahanaga-train-derails-june-4/liveblog/100733123.cms
+i[4 : new] https://www.independent.co.uk/asia/india/odisha-train-accident-cause-death-toll-latest-b2351336.html
+i[5 : new] https://economictimes.indiatimes.com/news/india/odisha-train-crash-explained-how-tragedy-unfolded-in-balasore-killing-nearly-300-people/videoshow/100724250.cms
+i[8 : new] https://www.ndtv.com/india-news/live-updates-odisha-train-tragedy-odisha-balasore-train-accident-indian-railways-4092493
+i[12 : new] https://www.cnbctv18.com/india/odisha-train-accident-live-updates-balasore-coromandel-express-death-toll-bengaluru-howrah-16844271.htm
+i
+i[ Diablo 4 ]
+i
+i[1 : new] https://diablo4.blizzard.com/
+i[2 : new] https://news.blizzard.com/en-us/diablo4/23964909/diablo-iv-patch-notes
+i[3 : new] https://news.blizzard.com/en-us/diablo4/23964909/diablo-iv-patch-notes
+i[7 : new] https://www.pcgamesn.com/diablo-4/release-date
+i[9 : new] https://www.forbes.com/sites/paultassi/2023/06/03/five-things-i-wish-i-knew-when-i-started-diablo-4/
+i[10 : new] https://us.shop.battle.net/en-us/product/diablo-iv
+i[11 : new] https://www.cnet.com/tech/gaming/diablo-4-release-date-pc-specs-and-everything-to-know-about-the-darker-dungeon-crawler/
+i
+i[ Spider-Verse ]
+i
+i[10 : new] https://marvel.fandom.com/wiki/Spider-Verse
+i[12 : new] https://www.acrossthespiderverse.movie/
+i[13 : new] https://www.sonypictures.com/movies/spidermanacrossthespiderverse
+i
+i                  Canada
+i              -------------
+i
+i
+i[ Karim Benzema Real Madrid ]
+i
+i[4 : new] https://www.realmadrid.com/en/football/squad/karim-benzema
+i[5 : new] https://www.skysports.com/football/news/11095/12896165/karim-benzema-real-madrid-confirm-french-strikers-departure-after-14-years-at-the-bernabeu
+i[8 : new] https://www.reuters.com/sports/soccer/benzema-leaves-real-madrid-after-14-year-career-2023-06-04/
+i[13 : new] https://www.transfermarkt.us/karim-benzema/leistungsdaten/spieler/18922
+i
+i[ Miami Heat ]
+i
+i[11 : new] https://theathletic.com/nba/team/heat/
+i[12 : new] https://www.foxsports.com/nba/miami-heat-team
+i
+i[ Coupe Memorial 2023 ]
+i
+i[3 : new] https://www.oursportscentral.com/services/releases/coupe-memorial-2023--finale-seavsque--zachary-bolduc-4-0/n-5970556
+i[4 : new] https://www.sportingnews.com/us/nhl/news/memorial-cup-2023-results-standings-times-schedule-tv-channels/cdusiugsotsjyqakyk7zsknw
+i[5 : new] https://chlmemorialcup.ca/2023-schedule/
+i[9 : new] https://blazerhockey.com/2023-memorial-cup
+i[10 : new] https://www.reddit.com/r/hockey/comments/140ydy7/les_remparts_de_qu%C3%A9bec_remportent_la_coupe/
+i[11 : new] https://chl.ca/memorialcup
+i
+i[ Real Madrid ]
+i
+i[1 : new] https://www.realmadrid.com/en
+i[2 : new] https://www.realmadrid.com/en/football
+i[3 : new] https://www.realmadrid.com/en/news/2023/06/04/real-madrid-presented-the-basketball-undecima-to-the-santiago-bernabeu
+i
+i[ Heat vs Nuggets ]
+i
+i[3 : new] https://sportstar.thehindu.com/basketball/miami-heat-vs-denver-nuggets-live-score-game-2-nba-finals-updates-highlights/article66932165.ece
+i[6 : new] https://www.usatoday.com/story/sports/nba/2023/06/04/nba-finals-game-2-live-updates-heat-nuggets/70286144007/
+i[9 : new] https://theathletic.com/live-blogs/nba-finals-game-2-nuggets-heat/LU21N1CtamYQ/
+i
+i[ Whitecaps ]
+i
+i[1 : new] https://www.milb.com/west-michigan
+i[2 : new] https://www.milb.com/west-michigan/schedule
+i[3 : new] https://www.whitecapsfc.com/
+i[7 : new] https://www.whitecapsfc.com/
+i[8 : new] https://whitecaps.milbstore.com/
+i[9 : new] https://theprovince.com/sports/soccer/mls/vancouver-whitecaps/whitecaps-1-sporting-kc-1-refereeing-dominates-discussion
+i[11 : new] https://www.facebook.com/wmwcaps/
+i[12 : new] https://theprovince.com/sports/soccer/mls/vancouver-whitecaps/whitecaps-1-sporting-kc-1-refereeing-dominates-discussion
+i
+i[ Spanish Grand Prix ]
+i
+i[1 : new] https://www.formula1.com/en/latest/article.5-winners-and-5-losers-from-the-spanish-grand-prix-who-shone-in-spain.6r4xNdnmHiRndG6BYCCv28.html
+i[2 : new] https://www.formula1.com/en/racing/2023/Spain.html
+i[3 : new] https://www.formula1.com/en/latest/article.formula-1-aws-gran-premio-de-espana-2023-timetable.3IX2h08WxIBOQNafrm2rMD.html
+i[4 : new] https://www.formula1.com/en/latest/article.live-coverage-formula-1-aws-gran-premio-de-espana-2023.2PWgv7kevoILOta3h!1I.html
+i[7 : new] https://www.sportingnews.com/us/formula-1/news/formula-1-live-results-highlights-spanish-grand-prix-2023/qp9z2ynclewtjj7naijlndh2
+i[8 : new] https://theathletic.com/live-blogs/f1-spain-gp-live-race-qualifying-updates/On4OVvGoaFZB/
+i[10 : new] https://www.skysports.com/f1/grandprix/spain
+i[11 : new] https://talksport.com/sport/motorsport/1440457/f1-spanish-grand-prix-live-times-qualifying-hamilton/
+i
+i[ Lionel Messi PSG ]
+i
+i[3 : new] https://www.forbes.com/sites/tomsanderson/2023/06/03/lionel-messi-announces-paris-saint-germain-exit/
+i[6 : new] https://store3.psg.fr/en/paris-saint-germain-lionel-messi/t-14209260+a-27058074+z-906-958790968
+i[7 : new] https://www.facebook.com/reel/1140943676586679/
+i[8 : new] https://clutchpoints.com/psg-news-thierry-henry-gets-honest-on-lionel-messi-legacy-with-ligue-1-side
+i[9 : new] https://www.foxsports.com/stories/soccer/coach-confirms-lionel-messis-last-match-for-psg-this-weekend
+i[11 : new] https://news.sky.com/story/lionel-messis-final-game-for-psg-ends-in-defeat-as-speculation-ramps-up-over-his-next-move-12896018
+i
+i[ Michael Keaton ]
+i
+i[13 : new] https://www.themoviedb.org/person/2232-michael-keaton?language=en-US
+i[14 : new] https://www.thewrap.com/michael-keaton-beetlejuice-2-production-details/
+i[15 : new] https://www.britannica.com/biography/Michael-Keaton
+i[16 : new] http://britannica.com/topic/Kent-State-University
+i[17 : new] https://www.crowrivermedia.com/national/entertainment/michael-keaton-beetlejuice-2-will-be-made-as-close-as-possible-to-the-original/article_0263c8d6-03ed-546c-b47e-bf77a147c1bc.html
+i
+i[ North Korea Kim Jong Un ]
+i
+i[1 : new] https://www.nbcnews.com/politics/2024-election/gop-candidates-criticize-trump-praising-kim-jong-un-rcna87642
+i[4 : new] https://www.politico.com/news/2023/06/03/mike-pence-trump-north-korea-kim-jong-un-00100094
+i[6 : new] https://www.britannica.com/biography/Kim-Jong-Eun
+i[7 : new] http://britannica.com/topic/Korean-Workers-Party
+i[8 : new] https://www.aljazeera.com/tag/kim-jong-un/
+i[9 : new] https://www.aljazeera.com/news/2023/5/8/meet-n-koreas-crown-princess-and-possible-heir-to-kim-jong-un
+i[10 : new] https://www.brookings.edu/essay/the-education-of-kim-jong-un/
+i[13 : new] https://www.rand.org/blog/2023/04/how-kim-jong-uns-fears-shape-north-koreas-nuclear-weapons.html
+i
+i[ Florida Panthers ]
+i
+i[1 : new] https://www.nhl.com/panthers
+i[2 : new] https://www.nhl.com/panthers/news/recap-panthers-falter-in-third-period-as-knights-take-game-1-of-scf/c-344721708
+i[3 : new] https://www.nhl.com/panthers/news/5-takeaways-golden-knights-5-panthers-2/c-344728692
+i[12 : new] https://www.flalivearena.com/florida-panthers
+i[13 : new] https://theathletic.com/nhl/team/fla-panthers/
+i
+i                  Mexico
+i              -------------
+i
+i
+i[ Noticias de hoy ]
+i
+i[1 : new] https://eldiariony.com/
+i[2 : new] https://cnnespanol.cnn.com/
+i[3 : new] https://cnnespanol.cnn.com/seccion/estados-unidos/
+i[4 : new] https://cnnespanol.cnn.com/seccion/estados-unidos/
+i[5 : new] https://cnnespanol.cnn.com/category/inmigracion/
+i[6 : new] https://www.telemundo.com/noticias
+i[7 : new] https://elpais.com/
+i[8 : new] https://elpais.com/ultimas-noticias/
+i[11 : new] https://www.elmundo.es/internacional.html
+i
+i[ Noticias de Hoy ]
+i
+i[1 : new] https://eldiariony.com/
+i[2 : new] https://cnnespanol.cnn.com/
+i[3 : new] https://cnnespanol.cnn.com/seccion/estados-unidos/
+i[4 : new] https://cnnespanol.cnn.com/seccion/estados-unidos/
+i[5 : new] https://cnnespanol.cnn.com/category/inmigracion/
+i[6 : new] https://www.telemundo.com/noticias
+i[7 : new] https://elpais.com/
+i[8 : new] https://elpais.com/ultimas-noticias/
+i[11 : new] https://www.elmundo.es/internacional.html
+i
+i[ INE ]
+i
+i[2 : new] https://ine.com/
+i[3 : new] https://my.ine.com/
+i[4 : new] https://ine.com/learning/courses
+i[5 : new] https://ine.mx/
+i[8 : new] https://ine.com/pricing
+i[9 : new] https://ineentertainment.com/
+i[10 : new] https://en.wiktionary.org/wiki/-ine
+i[11 : new] https://apps.apple.com/us/app/ine/id1466766473
+i
+i[ PREP Estado de mexico ]
+i
+i[1 : new] https://www.ieem.org.mx/
+i[2 : new] https://www.ieem.org.mx/numeralia/result_elect.html
+i[3 : new] https://larepublica.pe/mundo/mexico/2023/06/04/prep-edomex-2023-quien-va-ganando-en-los-resultados-preliminares-de-las-elecciones-prep-ine-2023-resultados-preliminares-estados-de-mexico-edomex-2023-mexico-lrtmc-363648
+i[4 : new] https://www.eluniversal.com.mx/elecciones/quien-va-ganando-en-el-estado-de-mexico-inicia-conteo-del-prep/
+i[5 : new] https://www.excelsior.com.mx/nacional/prep-en-edomex-quien-va-ganando-en-la-eleccion-del-estado-de-mexico/1590531
+i[6 : new] https://www.infobae.com/mexico/2023/06/04/resultados-prep-edomex-2023-quien-gano-elecciones-a-gobernadora/
+i[7 : new] https://aristeguinoticias.com/0406/mexico/prep-edomex-revisa-aqui-los-resultados-preliminares-de-la-eleccion-2023/
+i[8 : new] https://depor.com/mexico/local-mx/resultados-prep-de-elecciones-2023-en-edomex-y-coahuila-quien-gano-las-votaciones-delfina-gomez-o-alejandra-del-moral-prep-en-estado-de-mexico-elecciones-2023-conteo-rapido-video-coahuila-edomex-mx-trends-noticia/
+i[9 : new] https://www.milenio.com/politica/elecciones/quien-gano-elecciones-gobernador-edomex-2023-resultados
+i[10 : new] https://www.unotv.com/estados/estado-de-mexico/elecciones-2023-de-estado-de-mexico-resultados-del-prep-al-momento/
+i[11 : new] https://www.eleconomista.com.mx/politica/Consulta-el-PREP-de-las-Elecciones-del-Estado-de-Mexico-20230604-0079.html
+i
+i[ Real Madrid Athletic ]
+i
+i[1 : new] https://theathletic.com/football/team/real-madrid/
+i[4 : new] https://www.realmadrid.com/en/football/games/vs/real-madrid---athletic
+i[5 : new] https://en.as.com/soccer/real-madrid-vs-athletic-bilbao-live-online-score-goals-stats-and-updates-laliga-santander-2022-23-n/
+i[7 : new] https://www.sofascore.com/real-madrid-athletic-club/AgbsEgb
+i[9 : new] https://sportstar.thehindu.com/football/real-madrid-athletic-bilbao-live-score-la-liga-2023-scores-lineups-updates-highlights-benzema/article66930602.ece
+i
+i[ Ricardo Rocha ]
+i
+i[6 : new] https://www.infobae.com/mexico/2023/06/04/murio-ricardo-rocha-a-los-76-anos/
+i[8 : new] https://www.r-rocha.com/
+i[10 : new] https://www.biology.ox.ac.uk/people/ricardo-rocha
+i[11 : new] https://ricardorocha.io/
+i
+i[ Celta de Vigo Barcelona ]
+i
+i[5 : new] https://www.sofascore.com/celta-vigo-barcelona/rgbswgb
+i[6 : new] https://www.eurosport.com/football/liga/2022-2023/celta-vigo-v-barcelona-la-liga-live_sto9637100/story.shtml
+i[7 : new] https://www.barcablaugranes.com/2023/6/4/23748093/celta-vigo-barcelona-live-stream-lineups-time-tv-channel-how-to-watch-la-liga-online
+i[8 : new] https://www.forebet.com/en/predictions-tips-celta-de-vigo-barcelona-1720317
+i[9 : new] https://www.goal.com/en-us/news/celta-vigo-vs-fc-barcelona-lineups-live-updates/blt3ff3a64e8fdf876a
+i[10 : new] https://www.whoscored.com/Matches/1650920/Preview/Spain-LaLiga-2022-2023-Celta-Vigo-Barcelona
+i[11 : new] https://www.fctables.com/h2h/barcelona/celta-vigo/
+i
+i[ Real Madrid vs ]
+i
+i[4 : new] https://www.uefa.com/uefachampionsleague/match/2037800--man-city-vs-real-madrid/
+i[5 : new] https://www.realmadrid.com/en
+i[6 : new] https://www.realmadrid.com/en/real-madrid-tv
+i[7 : new] https://www.flashscore.com/team/real-madrid/W8mj7MDD/
+i[8 : new] https://www.sofascore.com/team/football/real-madrid/2829
+i[9 : new] https://www.managingmadrid.com/
+i[10 : new] https://sportstar.thehindu.com/football/real-madrid-athletic-bilbao-live-score-la-liga-2023-scores-lineups-updates-highlights-benzema/article66930602.ece
+i
+i[ Real Sociedad Sevilla ]
+i
+i[1 : new] https://www.sofascore.com/sevilla-real-sociedad/zgbsIgb
+i[4 : new] https://www.vavel.com/en-us/soccer/2023/06/04/1148445-real-sociedad-vs-sevilla-live-updates-score-stream-info-lineups-and-how-to-watch-laliga-2023-match.html
+i[5 : new] https://www.fctables.com/h2h/real-sociedad/sevilla/
+i[6 : new] https://www.eurosport.com/football/liga/2022-2023/live-real-sociedad-sevilla-fc_mtc1362702/live.shtml
+i[7 : new] https://fbref.com/en/matches/77a93c43/Real-Sociedad-Sevilla-June-4-2023-La-Liga
+i[8 : new] https://livescores.biz/h2h/real-sociedad-vs-sevilla
+i[9 : new] https://m.aiscore.com/head-to-head/soccer-real-sociedad-vs-sevilla
+i[10 : new] https://www.tsn.ca/soccer/video/laliga-real-sociedad-vs-sevilla~2697723
+i
+i[ Benzema ]
+i
+i[1 : new] https://ca.news.yahoo.com/real-madrid-focus-rebuilding-attack-105429293.html
+i[5 : new] https://www.reuters.com/sports/soccer/benzema-leaves-real-madrid-after-14-year-career-2023-06-04/
+i[8 : new] https://www.realmadrid.com/en/football/squad/karim-benzema
+i[9 : new] https://www.skysports.com/football/news/11095/12896165/karim-benzema-real-madrid-confirm-french-strikers-departure-after-14-years-at-the-bernabeu
+i[10 : new] https://fbref.com/en/players/70d74ece/Karim-Benzema
+i[11 : new] https://www.transfermarkt.us/karim-benzema/leistungsdaten/spieler/18922
+i[12 : new] https://www.facebook.com/KarimBenzema/
+i
+i[ Futbol Liga MX ]
+i
+i[1 : new] https://www.tudn.com/futbol/liga-mx/atletico-de-san-luis-pide-america-respeto-por-tecnico-andre-jardine
+i[2 : new] https://www.tudn.com/futbol/liga-mx
+i[3 : new] https://www.tudn.com/futbol/liga-mx/resultados
+i[6 : new] https://espndeportes.espn.com/futbol/liga/_/nombre/mex.1
+i[7 : new] https://www.mediotiempo.com/futbol/liga-mx
+i[10 : new] https://www.mediotiempo.com/futbol/liga-mx/estadisticas
+i[11 : new] https://us.as.com/resultados/futbol/mexico_clausura/jornada/
+i[12 : new] https://allstargame.ligamx.net/
+i[13 : new] https://www.flashscore.es/futbol/mexico/liga-mx/
+i
+i              South America
+i        -------------------------
+i
+i                Argentina
+i              -------------
+i
+i
+i[ Nikola Jokic ]
+i
+i[14 : new] https://www.foxsports.com/nba/nikola-jokic-player
+i
+i[ Freddie Mercury ]
+i
+i[6 : new] http://www.freddiemercury.com/
+i[7 : new] http://www.freddiemercury.com/en/biography
+i[8 : new] https://www.goldradiouk.com/hall-of-fame/freddie-mercury-queen-facts-death-family/
+i[10 : new] https://www.facebook.com/freddiemercury/
+i[11 : new] https://www.biography.com/musicians/freddie-mercury
+i[12 : new] https://www.loudersound.com/features/10-peculiar-facts-you-might-not-know-about-freddie-mercury
+i[13 : new] https://www.britannica.com/biography/Freddie-Mercury
+i[14 : new] http://britannica.com/place/London
+i
+i[ Independiente ]
+i
+i[2 : new] https://clubaindependiente.com.ar/
+i[5 : new] https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Independiente
+i[6 : new] http://es.wikipedia.org/wiki/Copa_Argentina_2022
+i[10 : new] https://www.ole.com.ar/independiente
+i[11 : new] https://www.transfermarkt.es/club-atletico-independiente/startseite/verein/1234
+i[14 : new] https://www.facebook.com/Independiente/?locale=es_LA
+i
+i[ Chipa So'o ]
+i
+i[2 : new] https://camilamade.com/paraguayan-chipa-soo/
+i[3 : new] https://www.recetasgratis.net/receta-de-chipa-so-o-52453.html
+i[4 : new] https://paraguayrecetas.com/receta/chipa-soo/
+i[7 : new] https://worldfood.guide/dish/chipa_soo/
+i[8 : new] https://www.pinterest.com/pin/chipa-soo-authentic-paraguayan-recipe--457326537167263556/
+i[9 : new] http://bicheli.com/cuisine/chipa-soo/463.html
+i[10 : new] https://www.ilovepy.com/products/chipa-soo
+i
+i[ Real Madrid Athletic ]
+i
+i[1 : new] https://theathletic.com/football/team/real-madrid/
+i[4 : new] https://www.realmadrid.com/en/football/games/vs/real-madrid---athletic
+i[5 : new] https://en.as.com/soccer/real-madrid-vs-athletic-bilbao-live-online-score-goals-stats-and-updates-laliga-santander-2022-23-n/
+i[7 : new] https://www.sofascore.com/real-madrid-athletic-club/AgbsEgb
+i[9 : new] https://sportstar.thehindu.com/football/real-madrid-athletic-bilbao-live-score-la-liga-2023-scores-lineups-updates-highlights-benzema/article66930602.ece
+i
+i[ Godoy Cruz Independiente ]
+i
+i[1 : new] https://www.tycsports.com/liga-profesional-de-futbol/argentina-liga-profesional-2023-godoy-cruz-vs-independiente-fecha-19-id515726.html
+i[4 : new] https://www.sofascore.com/es/godoy-cruz-independiente/jobszwc
+i[5 : new] https://tn.com.ar/deportes/futbol/2023/06/04/godoy-cruz-vs-independiente-fecha-19-liga-profesional/
+i[6 : new] https://www.fctables.com/h2h/godoy-cruz/independiente/
+i[7 : new] https://www.tap-sd.org/group/mysite-200-group/discussion/a032ddea-dbb2-40c1-95b7-f47f6b9e76b6?frxrl
+i[8 : new] https://www.whoscored.com/Matches/1703385/Preview/Argentina-Liga-Profesional-2023-Godoy-Cruz-Independiente
+i[9 : new] https://www.agileaustin.org/group/agile-austin-general-group/discussion/f293825e-41d4-4910-b11a-6e5559d28d83?hiocz
+i
+i[ Colon ]
+i
+i[2 : new] https://www.cancer.gov/publications/dictionaries/cancer-terms/def/colon
+i[3 : new] https://fascrs.org/patients/diseases-and-conditions/a-z/the-colon-what-it-is,-what-it-does
+i[4 : new] https://my.clevelandclinic.org/health/body/22134-colon-large-intestine
+i[5 : new] https://www.mayoclinic.org/diseases-conditions/colon-cancer/symptoms-causes/syc-20353669
+i[7 : new] https://www.verywellhealth.com/what-is-the-colon-796819
+i[8 : new] https://cancer.ca/en/cancer-information/cancer-types/colorectal/what-is-colorectal-cancer/the-colon-and-rectum
+i[9 : new] https://www.cuimc.columbia.edu/news/how-know-your-colon-healthy
+i[11 : new] https://www.webmd.com/balance/guide/natural-colon-cleansing-is-it-necessary
+i
+i[ Brasil Sub-20 ]
+i
+i[6 : new] https://www.besoccer.com/team/brasil-sub-20
+i[7 : new] https://ge.globo.com/futebol/brasileirao-sub-20/
+i[8 : new] https://ge.globo.com/futebol/copa-do-brasil-sub-20/jogo/12-11-2022/palmeiras-flamengo.ghtml
+i[9 : new] https://en.as.com/resultados/futbol/mundial_sub_20/2023/directo/cuartos_a_1_437740/
+i[10 : new] https://en.as.com/resultados/futbol/mundial_sub_20/2023/directo/octavos_a_1_437733/
+i[11 : new] https://www.transfermarkt.es/brasilien-u20/startseite/verein/7658
+i
+i[ Etcheverry ]
+i
+i[1 : new] https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/overview
+i[2 : new] https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/rankings-breakdown
+i[6 : new] https://www.atptour.com/en/news/etcheverry-roland-garros-2023-feature
+i[7 : new] https://www.eurosport.com/tennis/roland-garros/2023/coric-v-etcheverry-roland-garros-highlights_vid1924800/video.shtml
+i[9 : new] https://www.flashscore.com/player/etcheverry-tomas-martin/AXL5qpKa/
+i[10 : new] https://www.mlssoccer.com/players/marco-etcheverry/
+i[11 : new] https://www.rolandgarros.com/en-us/players/36989-tm.etcheverry
+i[12 : new] https://www.itftennis.com/en/players/tomas-martin-etcheverry/800432971/arg/mt/S/overview/
+i[13 : new] https://www.usopen.org/en_US/players/overview/atpea24.html
+i
+i[ Union ]
+i
+i[1 : new] https://store.unionlosangeles.com/
+i[2 : new] https://store.unionlosangeles.com/collections/new-releases
+i[3 : new] https://www.union.edu/
+i[4 : new] https://www.unionbank.com/
+i[5 : new] https://www.unionps.org/
+i[6 : new] https://www.unionps.org/231656_2
+i[7 : new] https://www.merriam-webster.com/dictionary/union
+i[8 : new] https://www.philadelphiaunion.com/
+i[9 : new] https://www.uu.edu/
+i[13 : new] https://www.uniontownship.com/
+i
+i[ Francisco Cerúndolo ]
+i
+i[2 : new] https://www.atptour.com/en/players/francisco-cerundolo/c0au/overview
+i[3 : new] https://www.atptour.com/en/players/francisco-cerundolo/c0au/player-activity
+i[4 : new] https://www.atptour.com/es/players/francisco-cerundolo/c0au/overview
+i[5 : new] https://www.atptour.com/es/players/juan-manuel-cer%C3%BAndolo/c0c8/overview
+i[6 : new] https://www.eurosport.com/tennis/roland-garros-men/2023/live-francisco-cerundolo-taylor-fritz_mtc1435397/live.shtml
+i[9 : new] https://www.flashscore.com/player/cerundolo-francisco/lWQ3G6gB/
+i[13 : new] http://m.espn.com/general/tennis/playercard?playerId=3700
+i[14 : new] https://www.infobae.com/deportes/2023/06/03/francisco-cerundolo-firmo-otro-batacazo-para-argentina-en-roland-garros-elimino-al-8-del-mundo-y-jugara-los-octavos-de-final/
+i
+i                  Brazil
+i              -------------
+i
+i
+i[ Feriado de Corpus Christi ]
+i
+i[3 : new] https://valor.globo.com/brasil/noticia/2023/06/01/corpus-christi-e-feriado-nacional-entenda.ghtml
+i[4 : new] https://g1.globo.com/trabalho-e-carreira/noticia/2023/06/02/corpus-christi-e-feriado-entenda-regras-sobre-trabalho-na-data.ghtml
+i[5 : new] https://www.calendarr.com/brasil/corpus-christi/
+i[6 : new] http://www.iglesia.cl/370-declaracion-sobre-feriado-de-corpus-christi.htm
+i[7 : new] https://noticias.uol.com.br/cotidiano/ultimas-noticias/2023/06/02/corpus-christi-e-feriado-em-2023-tem-folga-entenda-tudo-sobre-a-data.htm
+i[8 : new] https://gauchazh.clicrbs.com.br/comportamento/noticia/2023/06/corpus-christi-e-feriado-nacional-entenda-cligh64ui003l01658vpq9jvo.html
+i[9 : new] https://www.feriados.com.br/feriados-nacionais/corpus-christi.php
+i[10 : new] https://www1.folha.uol.com.br/mercado/2023/05/corpus-christi-saiba-o-dia-a-origem-da-data-e-por-que-nao-e-feriado-nacional.shtml
+i[11 : new] https://brasilescola.uol.com.br/datas-comemorativas/corpus-christi.htm
+i[12 : new] https://www.ilo.org/dyn/travail/docs/1169/Ley%20No.%2020148.pdf
+i
+i[ Real Madrid ]
+i
+i[1 : new] https://www.realmadrid.com/en
+i[2 : new] https://www.realmadrid.com/en/football
+i[3 : new] https://www.realmadrid.com/en/news/2023/06/04/real-madrid-presented-the-basketball-undecima-to-the-santiago-bernabeu
+i
+i[ Real Madrid x Ath bilbao ]
+i
+i[1 : new] https://www.managingmadrid.com/2023/6/4/23748404/real-madrid-vs-athletic-bilbao-2023-la-liga-live-online-stream
+i[5 : new] https://en.as.com/soccer/real-madrid-vs-athletic-bilbao-live-online-score-goals-stats-and-updates-laliga-santander-2022-23-n/
+i[6 : new] https://www.sofascore.com/real-madrid-athletic-club/AgbsEgb
+i[8 : new] https://www.vavel.com/en-us/soccer/2023/06/04/1148449-real-madrid-vs-athletic-club-live-updates-score-stream-info-lineups-and-how-to-watch-in-laliga-2023.html
+i[9 : new] https://sportstar.thehindu.com/football/real-madrid-athletic-bilbao-live-score-la-liga-2023-scores-lineups-updates-highlights-benzema/article66930602.ece
+i[10 : new] https://m.aiscore.com/head-to-head/soccer-athletic-bilbao-vs-real-madrid
+i
+i[ Benzema ]
+i
+i[1 : new] https://ca.news.yahoo.com/real-madrid-focus-rebuilding-attack-105429293.html
+i[5 : new] https://www.reuters.com/sports/soccer/benzema-leaves-real-madrid-after-14-year-career-2023-06-04/
+i[8 : new] https://www.realmadrid.com/en/football/squad/karim-benzema
+i[9 : new] https://www.skysports.com/football/news/11095/12896165/karim-benzema-real-madrid-confirm-french-strikers-departure-after-14-years-at-the-bernabeu
+i[10 : new] https://fbref.com/en/players/70d74ece/Karim-Benzema
+i[11 : new] https://www.transfermarkt.us/karim-benzema/leistungsdaten/spieler/18922
+i[12 : new] https://www.facebook.com/KarimBenzema/
+i
+i[ Real Madrid x Ath Bilbao ]
+i
+i[1 : new] https://www.managingmadrid.com/2023/6/4/23748404/real-madrid-vs-athletic-bilbao-2023-la-liga-live-online-stream
+i[5 : new] https://en.as.com/soccer/real-madrid-vs-athletic-bilbao-live-online-score-goals-stats-and-updates-laliga-santander-2022-23-n/
+i[6 : new] https://www.sofascore.com/real-madrid-athletic-club/AgbsEgb
+i[8 : new] https://www.vavel.com/en-us/soccer/2023/06/04/1148449-real-madrid-vs-athletic-club-live-updates-score-stream-info-lineups-and-how-to-watch-in-laliga-2023.html
+i[9 : new] https://sportstar.thehindu.com/football/real-madrid-athletic-bilbao-live-score-la-liga-2023-scores-lineups-updates-highlights-benzema/article66930602.ece
+i[10 : new] https://m.aiscore.com/head-to-head/soccer-athletic-bilbao-vs-real-madrid
+i
+i[ Etec ]
+i
+i[1 : new] https://www.cdc.gov/ecoli/etec.html
+i[4 : new] https://www.dhs.wisconsin.gov/publications/p01820.pdf
+i[5 : new] https://www.who.int/teams/immunization-vaccines-and-biologicals/diseases/enterotoxigenic-escherichia-coli-(etec)
+i[6 : new] https://www.eteconline.org/
+i[7 : new] https://www.eteconline.org/our-staff/
+i[8 : new] https://www.sciencedirect.com/topics/immunology-and-microbiology/enterotoxigenic-escherichia-coli
+i[9 : new] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6508951/
+i[10 : new] https://www.etec-sales.com/
+i[11 : new] https://www.jhsph.edu/research/centers-and-institutes/center-for-immunization-research/research/enteric_bacterial_infections/etec/
+i[12 : new] https://www.etec.coop/
+i
+i[ Fluminense x Bragantino ]
+i
+i[1 : new] https://www.sofascore.com/red-bull-bragantino-fluminense/lOsZO
+i[5 : new] https://www.fctables.com/h2h/bragantino/fluminense/
+i[6 : new] https://oddspedia.com/us/soccer/bragantino-fluminense-6868
+i[7 : new] https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/24-07-2022/fluminense-bragantino.ghtml
+i[8 : new] https://www.uol.com.br/esporte/futebol/ultimas-noticias/2023/06/04/fluminense-x-red-bull-bragantino.htm
+i
+i[ Raul Gil ]
+i
+i[6 : new] https://raul-gil.com/
+i[10 : new] https://open.spotify.com/artist/2S4FcgNSFq87zy4dVIAvvS
+i[11 : new] https://za.pinterest.com/mmevanniekerk1/raul-gil-singing-gospel/
+i[12 : new] https://www.sbt.com.br/auditorio/raul-gil
+i
+i[ América-MG x Corinthians ]
+i
+i[11 : new] https://www.meutimao.com.br/jogo/7631/brasileirao_2023/america-mg-x-corinthians
+i
+i[ Corinthians ]
+i
+i[1 : new] https://www.biblegateway.com/passage/?search=1%20Corinthians%201&version=NIV
+i[5 : new] https://www.biblestudytools.com/1-corinthians/
+i[6 : new] https://www.bible.com/bible/114/1CO.1.NKJV
+i[11 : new] https://bible.usccb.org/bible/1corinthians/0
+i[12 : new] https://www.bible.com/bible/116/1CO.1.NLT
+i[13 : new] https://biblia.com/bible/esv/1-corinthians/1
+i
+i[ Santos x Internacional ]
+i
+i[6 : new] https://www.uol.com.br/esporte/futebol/ultimas-noticias/2023/06/03/santos-x-inter---9-rodada-do-campeonato-brasileiro.htm
+i[7 : new] https://www.uol.com.br/esporte/videos/gols/2023/06/03/santos-x-internacional--quase.htm
+i[8 : new] https://globoplay.globo.com/v/11672528/?s=0s
+i[9 : new] https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/03-06-2023/santos-internacional.ghtml
+i[10 : new] https://www.vavel.com/br/futebol/2023/06/04/santos/1148382-santos-x-internacional-ao-vivo-onde-assistir-ao-jogo-em-tempo-real-pelo-brasileirao.html
+i[11 : new] https://internacional.com.br/noticias/cronica-santos-x-internacional-9a-rodada-brasileirao-2023
+i
+i                  Chile
+i              -------------
+i
+i
+i[ Real Madrid ]
+i
+i[1 : new] https://www.realmadrid.com/en
+i[2 : new] https://www.realmadrid.com/en/football
+i[3 : new] https://www.realmadrid.com/en/news/2023/06/04/real-madrid-presented-the-basketball-undecima-to-the-santiago-bernabeu
+i
+i[ Real Madrid vs ]
+i
+i[3 : new] https://www.realmadrid.com/en
+i[4 : new] https://www.uefa.com/uefachampionsleague/match/2037800--man-city-vs-real-madrid/
+i[6 : new] https://www.flashscore.com/team/real-madrid/W8mj7MDD/
+i[7 : new] https://www.sofascore.com/team/football/real-madrid/2829
+i[8 : new] https://www.managingmadrid.com/
+i[9 : new] https://sportstar.thehindu.com/football/real-madrid-athletic-bilbao-live-score-la-liga-2023-scores-lineups-updates-highlights-benzema/article66930602.ece
+i[10 : new] https://www.visitpasadena.com/events/real-madrid-vs-ac-milan-at-rose-bowl-stadium/
+i
+i[ Alcaraz ]
+i
+i[4 : new] https://www.atptour.com/en/players/carlos-alcaraz/a0e2/overview
+i[5 : new] https://www.atptour.com/en/news/musetti-roland-garros-2023-alcaraz-reaction
+i[9 : new] https://www.rolandgarros.com/en-us/players/44408-c.alcaraz
+i[10 : new] https://www.eurosport.com/tennis/roland-garros/2023/carlos-alcaraz-sweeps-aside-lorenzo-musetti-to-move-into-last-eight-of-french-open-at-roland-garros_sto9641995/story.shtml
+i[11 : new] http://www.hawaiinewsnow.com/sports/betting/2023/06/06/carlos-alcaraz-vs-stefanos-tsitsipas-tennis-prediction-betting-odds-french-open/
+i
+i[ Real Madrid Athletic ]
+i
+i[1 : new] https://theathletic.com/football/team/real-madrid/
+i[4 : new] https://www.realmadrid.com/en/football/games/vs/real-madrid---athletic
+i[5 : new] https://en.as.com/soccer/real-madrid-vs-athletic-bilbao-live-online-score-goals-stats-and-updates-laliga-santander-2022-23-n/
+i[7 : new] https://www.sofascore.com/real-madrid-athletic-club/AgbsEgb
+i[9 : new] https://sportstar.thehindu.com/football/real-madrid-athletic-bilbao-live-score-la-liga-2023-scores-lineups-updates-highlights-benzema/article66930602.ece
+i
+i[ Benzema ]
+i
+i[1 : new] https://ca.news.yahoo.com/real-madrid-focus-rebuilding-attack-105429293.html
+i[5 : new] https://www.reuters.com/sports/soccer/benzema-leaves-real-madrid-after-14-year-career-2023-06-04/
+i[8 : new] https://www.realmadrid.com/en/football/squad/karim-benzema
+i[9 : new] https://www.skysports.com/football/news/11095/12896165/karim-benzema-real-madrid-confirm-french-strikers-departure-after-14-years-at-the-bernabeu
+i[10 : new] https://fbref.com/en/players/70d74ece/Karim-Benzema
+i[11 : new] https://www.transfermarkt.us/karim-benzema/leistungsdaten/spieler/18922
+i[12 : new] https://www.facebook.com/KarimBenzema/
+i
+i[ Sewell ]
+i
+i[1 : new] https://maps.google.com/maps?hl=en&q=Sewell&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjy5o_zgaz_AhWqFFkFHWrNC-wQ_AUIBigB
+i[2 : new] https://www.sewell.com/
+i[3 : new] https://www.sewell.com/VehicleSearchResults?search=used%2Ccertified
+i[4 : new] https://sewelldirect.com/
+i[7 : new] https://sewell.house.gov/
+i[8 : new] https://sewell.house.gov/biography
+i[10 : new] https://www.facebook.com/RepSewell/
+i[11 : new] https://www.detroitlions.com/video/sewell-on-taking-on-leadership-role
+i
+i[ Racing ]
+i
+i[2 : new] https://www.roadracingworld.com/news/motoamerica-elias-announces-immediate-retirement-from-racing/
+i[5 : new] https://www.autoweek.com/racing/
+i[6 : new] https://racer.com/
+i[8 : new] https://www.racingamerica.com/
+i[10 : new] https://www.nhra.com/
+i[11 : new] https://www.racing-reference.info/
+i
+i[ Nicolás Jarry ]
+i
+i[2 : new] https://www.atptour.com/en/players/nicolas-jarry/j551/overview
+i[3 : new] https://www.atptour.com/en/players/nicolas-jarry/j551/bio
+i[6 : new] https://www.flashscore.com/player/jarry-nicolas/W24W9IyU/
+i[8 : new] https://www.sofascore.com/team/tennis/jarry-nicolas/89632
+i[9 : new] https://www.itftennis.com/en/players/nicolas-jarry/800327443/chi/mt/S/overview/
+i[10 : new] https://www.tennisexplorer.com/player/jarry/
+i[11 : new] https://www.usopen.org/en_US/players/overview/atpj551.html
+i[12 : new] https://www.rolandgarros.com/en-us/players/32019-n.jarry
+i[13 : new] http://www.tennisabstract.com/cgi-bin/player.cgi?p=NicolasJarry
+i
+i[ PSG Clermont ]
+i
+i[5 : new] https://en.psg.fr/teams/first-team/fixtures-and-results/202223/clermont-v-paris-saint-germain
+i[7 : new] https://www.sofascore.com/clermont-foot-paris-saint-germain/UHsFI
+i[8 : new] https://indianexpress.com/article/sports/football/psg-vs-clermont-ligue-1-live-score-updates-streaming-lionel-messi-last-match-8644162/
+i[9 : new] https://www.skysports.com/football/paris-saint-germain-vs-clermont/466747
+i[10 : new] https://www.sportingnews.com/us/soccer/news/psg-vs-clermont-live-score-result-ligue-1-messi/clegclbplbd5foao8ot8l77j
+i
+i[ Familia chilena muere en Argentina ]
+i
+i[1 : new] https://www.biobiochile.cl/noticias/internacional/america-latina/2023/06/02/familia-chilena-muere-en-tragico-accidente-en-argentina-tras-impactar-con-camion.shtml
+i[2 : new] https://www.emol.com/noticias/Nacional/2023/06/02/1096898/familia-chilena-muere-argentina-accidente.html
+i[3 : new] https://www.latercera.com/nacional/noticia/familia-chilena-fallece-en-accidente-de-transito-en-argentina/OKDFZG2DOVG45PGQ3DSGSGE73U/
+i[4 : new] https://www.theclinic.cl/2023/06/02/familia-chilena-murio-choque-camion-cordoba-argentina/
+i[5 : new] https://peru21.pe/mundo/america/argentina-familia-chilena-fallece-en-terrible-accidente-automovilistico-argentina-accidente-chileno-automovilismo-mundo-tragedia-noticia/
+i[6 : new] https://www.adnradio.cl/internacional/2023/06/02/tragedia-en-argentina-familia-chilena-muere-en-accidente-de-transito-luego-de-chocar-con-un-camion.html
+i[7 : new] https://www.24horas.cl/internacional/noticias/tragedia-en-argentina-familia-chilena-fallecio-tras-brutal-choque-con
+i[8 : new] https://www.chvnoticias.cl/internacional/familia-chilena-muere-accidente-transito-argentina_20230601/
+i[10 : new] https://www.meganoticias.cl/nacional/415898-choque-accidente-muere-familia-chilena-cordoba-argentina-pdp-02-06-2023.html
+i
+i[ Alianza Lima ]
+i
+i[2 : new] https://clubalianzalima.com.pe/
+i[3 : new] https://hazteintimo.clubalianzalima.com.pe/planes
+i[6 : new] https://es.wikipedia.org/wiki/Club_Alianza_Lima
+i[7 : new] https://www.facebook.com/ClubAlianzaLima/?locale=es_LA
+i[8 : new] https://clubalianzalima.com.pe/#/
+i[11 : new] https://depor.com/noticias/alianza-lima/
+i[12 : new] https://www.sofascore.com/es/equipo/futbol/alianza-lima/2311
+i[14 : new] https://libero.pe/futbol-peruano/alianza-lima/2023/06/03/alianza-lima-su-curiosa-publicacion-comunicado-fpf-121950
+i
+i                 Colombia
+i              -------------
+i
+i
+i[ Alianza Petrolera ]
+i
+i[1 : new] https://alianzapetrolerafc.com/
+i[2 : new] https://boleteria.alianzapetrolerafc.com/
+i[4 : new] https://www.sofascore.com/es/equipo/futbol/alianza-petrolera/89156
+i[5 : new] https://espndeportes.espn.com/futbol/colombia/nota/_/id/12153350/alianza-petrolera-vencio-a-pasto-y-lidera-el-grupo-a
+i[6 : new] https://us.soccerway.com/teams/colombia/alianza-petrolera/6936/
+i[7 : new] https://es.wikipedia.org/wiki/Alianza_Petrolera
+i[8 : new] https://es.wikipedia.org/wiki/Alianza_Petrolera#Historia_del_Alianza_Petrolera
+i[9 : new] https://colombia.as.com/futbol/alianza-petrolera-deportivo-pasto-en-vivo-online-liga-betplay-en-directo-n/
+i[11 : new] https://www.transfermarkt.es/alianza-petrolera/startseite/verein/22902
+i[12 : new] https://www.espn.com.co/futbol/equipo/_/id/9761/alianza-petrolera
+i
+i[ Águilas Doradas Atlético Nacional ]
+i
+i[3 : new] https://www.vavel.com/colombia/futbol-colombiano/2023/06/04/atletico-nacional/1148467-aguilas-doradas-vs-atletico-nacional-en-vivo-como-y-donde-ver-transmision-tv-online-por-liga-betplay.html
+i[4 : new] https://depor.com/colombia/liga-bet-play/win-sports-nacional-vs-aguilas-doradas-en-vivo-online-a-que-hora-y-donde-ver-gratis-transmision-del-partido-fecha-4-liguilla-betplay-2023-video-colombia-co-deportes-noticia/
+i[5 : new] https://elcomercio.pe/deporte-total/nacional-vs-aguilas-doradas-en-vivo-online-hoy-via-win-sports-futbol-libre-tv-horarios-canales-de-transmision-y-donde-ver-el-partido-gratis-pronostico-apuestas-video-noticia/
+i[6 : new] https://www.winsports.co/videos/mira-el-gol-de-nacional-que-elimino-aguilas-doradas
+i[7 : new] https://www.winsports.co/videos/en-vivo-aguilas-doradas-vs-nacional-previa-fecha-4
+i[8 : new] https://www.winsports.co/videos/borron-y-tarjeta-roja-banguero-dejo-con-10-atletico-nacional
+i[9 : new] https://gol.caracoltv.com/futbol-colombiano/liga/aguilas-doradas-vs-atletico-nacional-en-vivo-minuto-a-minuto-del-juego-del-futbol-colombiano-rg10
+i[10 : new] https://www.pulzo.com/deportes/aguilas-doradas-vs-nacional-como-va-partido-transmision-vivo-gratis-hoy-PP2837825
+i[11 : new] https://libero.pe/futbol-internacional/2023/06/03/aguilas-doradas-vs-atletico-nacional-en-vivo-liga-betplay-via-win-sports-online-cuando-juega-horario-canal-donde-ver-partido-hoy-colombia-co-lbev-86661
+i
+i[ Real Madrid ]
+i
+i[1 : new] https://www.realmadrid.com/en
+i[2 : new] https://www.realmadrid.com/en/football
+i[3 : new] https://www.realmadrid.com/en/news/2023/06/04/real-madrid-presented-the-basketball-undecima-to-the-santiago-bernabeu
+i
+i[ Real Madrid Athletic ]
+i
+i[1 : new] https://theathletic.com/football/team/real-madrid/
+i[4 : new] https://www.realmadrid.com/en/football/games/vs/real-madrid---athletic
+i[5 : new] https://en.as.com/soccer/real-madrid-vs-athletic-bilbao-live-online-score-goals-stats-and-updates-laliga-santander-2022-23-n/
+i[7 : new] https://www.sofascore.com/real-madrid-athletic-club/AgbsEgb
+i[9 : new] https://sportstar.thehindu.com/football/real-madrid-athletic-bilbao-live-score-la-liga-2023-scores-lineups-updates-highlights-benzema/article66930602.ece
+i
+i[ Benzema ]
+i
+i[1 : new] https://ca.news.yahoo.com/real-madrid-focus-rebuilding-attack-105429293.html
+i[5 : new] https://www.reuters.com/sports/soccer/benzema-leaves-real-madrid-after-14-year-career-2023-06-04/
+i[8 : new] https://www.realmadrid.com/en/football/squad/karim-benzema
+i[9 : new] https://www.skysports.com/football/news/11095/12896165/karim-benzema-real-madrid-confirm-french-strikers-departure-after-14-years-at-the-bernabeu
+i[10 : new] https://fbref.com/en/players/70d74ece/Karim-Benzema
+i[11 : new] https://www.transfermarkt.us/karim-benzema/leistungsdaten/spieler/18922
+i[12 : new] https://www.facebook.com/KarimBenzema/
+i
+i[ Loteria de boyaca 3 de junio 2023 ]
+i
+i[1 : new] https://www.bluradio.com/economia/juegos-de-azar/loteria-de-boyaca-resultados-de-hoy-sabado-3-de-junio-de-2023-so35
+i[2 : new] https://www.bluradio.com/economia/juegos-de-azar/loteria-de-boyaca-resultados-del-boyalotto-de-hoy-sabado-3-de-junio-de-2023-so35
+i[3 : new] https://www.wradio.com.co/2023/06/04/loteria-de-boyaca-resultados-del-3-de-junio-de-2023/
+i[4 : new] https://depor.com/colombia/local-co/resultados-de-la-loteria-de-boyaca-en-vivo-hoy-sabado-3-de-junio-de-2023-numeros-ganadores-del-sorteo-loteria-nacional-gana-diario-horarios-premio-mayor-transmision-online-via-facebook-y-youtube-loterias-medellin-cali-bogota-trends-colombia-co-noticia/
+i[5 : new] https://depor.com/colombia/local-co/loteria-de-boyaca-en-vivo-hoy-sabado-3-de-junio-de-2023-resultados-y-numeros-ganadores-del-sorteo-loteria-nacional-gana-diario-horario-premio-mayor-como-cobrar-transmision-en-facebook-y-youtube-loterias-medellin-cali-bogota-trends-colombia-co-noticia/
+i[6 : new] https://elcomercio.pe/respuestas/colombia/loteria-de-boyaca-en-vivo-resultados-de-hoy-sabado-3-de-junio-ver-premio-mayor-del-sorteo-4470-y-numeros-ganadores-secos-boyalloto-loterias-de-colombia-co-lbposting-noticia/
+i[7 : new] https://www.colombia.com/loterias/loteria-de-boyaca-resultado-de-hoy-sabado-3-de-junio-de-2023-405351
+i[8 : new] https://www.pulzo.com/economia/loteria-boyaca-ultimo-sorteo-hoy-3-junio-2023-resultado-PP2837141A
+i[9 : new] https://www.eltiempo.com/economia/finanzas-personales/loteria-de-boyaca-y-cauca-resultados-del-3-de-junio-de-2023-774627
+i[10 : new] https://www.lafm.com.co/colombia/loteria-de-boyaca-hoy-resultados-3-de-junio-de-2023
+i
+i[ Tabla de posiciones Liga ]
+i
+i[1 : new] https://www.tudn.com/futbol/liga-mx/posiciones
+i[2 : new] https://www.tudn.com/futbol/liga-mx/resultados
+i[3 : new] https://espndeportes.espn.com/futbol/posiciones/_/liga/esp.1
+i[4 : new] https://www.mediotiempo.com/futbol/liga-mx/tabla-general
+i[5 : new] https://www.telemundodeportes.com/la-liga/posiciones
+i[6 : new] https://www.sportingnews.com/mx/futbol/news/posiciones-la-liga-espana-2022-2023-partidos-resultados-goleadores/pditw4l8azrbzmfygpmrzwut
+i[7 : new] https://www.colombia.com/futbol/liga-colombiana/tabla-de-posiciones
+i[8 : new] https://www.futbolred.com/tabla-de-posiciones/liga-betplay
+i[9 : new] https://www.marca.com/mx/futbol/mls/posiciones.html
+i[10 : new] https://us.marca.com/soccer/la-liga/posiciones.html
+i[11 : new] https://resultados.lapaginamillonaria.com/futbol/liga-profesional-lpa-arg/clasificacion/
+i
+i[ Millonarios América ]
+i
+i[2 : new] https://colombia.as.com/futbol/millonarios-america-en-vivo-online-cuadrangulares-liga-betplay-en-directo-n/
+i[7 : new] https://www.winsports.co/videos/mira-los-goles-del-triunfo-de-millonarios-sobre-america
+i[8 : new] https://elcomercio.pe/deporte-total/colombia/win-sports-millonarios-vs-america-de-cali-en-vivo-hoy-gratis-por-cuadrangulares-semifinales-via-futbol-libre-y-rcn-nuestra-tele-a-que-hora-juegan-en-que-canal-tv-ver-y-donde-seguir-partido-online-por-liga-betplay-video-noticia/
+i[9 : new] https://depor.com/colombia/liga-bet-play/millonarios-vs-america-de-cali-en-vivo-en-directo-hoy-via-win-sports-y-futbol-libre-a-que-hora-juegan-y-donde-ver-transmision-online-por-semifinales-de-liga-betplay-alineaciones-deportes-noticia/
+i[10 : new] https://depor.com/colombia/liga-bet-play/win-sports-millonarios-vs-america-de-cali-en-vivo-hoy-links-y-canales-de-transmision-en-directo-online-por-la-liga-betplay-2023-alineaciones-video-co-noticia/
+i[11 : new] https://www.sofascore.com/es/millonarios-america-de-cali/cxcsrxc
+i
+i[ Brasil Sub-20 ]
+i
+i[6 : new] https://www.besoccer.com/team/brasil-sub-20
+i[7 : new] https://ge.globo.com/futebol/brasileirao-sub-20/
+i[8 : new] https://ge.globo.com/futebol/copa-do-brasil-sub-20/jogo/12-11-2022/palmeiras-flamengo.ghtml
+i[9 : new] https://en.as.com/resultados/futbol/mundial_sub_20/2023/directo/cuartos_a_1_437740/
+i[10 : new] https://en.as.com/resultados/futbol/mundial_sub_20/2023/directo/octavos_a_1_437733/
+i[14 : new] https://www.transfermarkt.es/brasilien-u20/startseite/verein/7658
+i
+i[ Brasil vs Israel Sub 20 ]
+i
+i[1 : new] https://en.as.com/soccer/israel-vs-brazil-times-how-to-watch-on-tv-stream-online-u20-world-cup-n-2/
+i[2 : new] https://www.vavel.com/en-us/soccer/2023/06/03/1148369-israel-vs-brazil-live-updates-score-stream-info-lineups-and-how-to-watch-u-20-world-cup-game.html
+i[6 : new] https://en.as.com/soccer/israel-u-20-brazil-u-20-live-online-score-stats-and-updates-fifa-u-20-world-cup-n/
+i[7 : new] https://espndeportes.espn.com/futbol/partido/_/juegoId/669419
+i[8 : new] https://www.timesofisrael.com/in-sensational-upset-israel-downs-brazil-3-2-to-reach-u-20-world-cup-semifinal/
+i[9 : new] https://supersport.com/football/fifa-u20-world-cup/video/cc23d45a-5466-43c3-94ef-4e02bef6abb5/israel-v-brazil-qf-match-highlights-fifa-u20-world-cup
+i[10 : new] https://www.infobae.com/deportes/2023/06/03/israel-brasil-y-colombia-italia-abren-los-cuartos-de-final-del-mundial-sub-20-hora-tv-y-formaciones/
+i
+i[ Brasil ]
+i
+i[4 : new] https://whc.unesco.org/en/statesparties/br
+i[6 : new] https://www.worldbank.org/en/country/brazil
+i[7 : new] https://www.brasilcafehouston.com/
+i[8 : new] https://www.brasilcafehouston.com/coffee
+i[9 : new] https://www.britannica.com/place/Brazil
+i[10 : new] https://www.oecd.org/brazil/
+i[11 : new] https://www.usnews.com/news/best-countries/brazil
+i[13 : new] https://www.usaid.gov/brazil
+i
+i                   Peru
+i              -------------
+i
+i
+i[ Celta de Vigo vs Barcelona ]
+i
+i[2 : new] https://www.barcablaugranes.com/2023/6/4/23748093/celta-vigo-barcelona-live-stream-lineups-time-tv-channel-how-to-watch-la-liga-online
+i[3 : new] https://www.sofascore.com/celta-vigo-barcelona/rgbswgb
+i[7 : new] https://www.fctables.com/h2h/barcelona/celta-vigo/
+i[8 : new] https://bleacherreport.com/articles/2571254-celta-vigo-vs-barcelona-winners-and-losers-from-la-liga
+i[10 : new] https://www.forebet.com/en/predictions-tips-celta-de-vigo-barcelona-1720317
+i[11 : new] https://www.chatsports.com/soccer/a/source/celta-vigo-vs-barcelona-la-liga-final-score-2-1-barca-finish-season-with-tough-defeat-on-the-road-17567623
+i
+i[ Real Madrid Athletic ]
+i
+i[1 : new] https://theathletic.com/football/team/real-madrid/
+i[4 : new] https://www.realmadrid.com/en/football/games/vs/real-madrid---athletic
+i[5 : new] https://en.as.com/soccer/real-madrid-vs-athletic-bilbao-live-online-score-goals-stats-and-updates-laliga-santander-2022-23-n/
+i[7 : new] https://www.sofascore.com/real-madrid-athletic-club/AgbsEgb
+i[9 : new] https://sportstar.thehindu.com/football/real-madrid-athletic-bilbao-live-score-la-liga-2023-scores-lineups-updates-highlights-benzema/article66930602.ece
+i
+i[ Celta de Vigo Barcelona ]
+i
+i[5 : new] https://www.sofascore.com/celta-vigo-barcelona/rgbswgb
+i[6 : new] https://www.eurosport.com/football/liga/2022-2023/celta-vigo-v-barcelona-la-liga-live_sto9637100/story.shtml
+i[7 : new] https://www.barcablaugranes.com/2023/6/4/23748093/celta-vigo-barcelona-live-stream-lineups-time-tv-channel-how-to-watch-la-liga-online
+i[8 : new] https://www.forebet.com/en/predictions-tips-celta-de-vigo-barcelona-1720317
+i[9 : new] https://www.goal.com/en-us/news/celta-vigo-vs-fc-barcelona-lineups-live-updates/blt3ff3a64e8fdf876a
+i[10 : new] https://www.whoscored.com/Matches/1650920/Preview/Spain-LaLiga-2022-2023-Celta-Vigo-Barcelona
+i[11 : new] https://www.fcbarcelona.com/en/matches/77886/fc-barcelona-celta-de-vigo-la-liga-2022-2023
+i
+i[ Real Madrid vs ]
+i
+i[4 : new] https://www.uefa.com/uefachampionsleague/match/2037800--man-city-vs-real-madrid/
+i[5 : new] https://www.realmadrid.com/en
+i[6 : new] https://www.realmadrid.com/en/real-madrid-tv
+i[7 : new] https://www.flashscore.com/team/real-madrid/W8mj7MDD/
+i[8 : new] https://www.sofascore.com/team/football/real-madrid/2829
+i[9 : new] https://www.managingmadrid.com/
+i[10 : new] https://sportstar.thehindu.com/football/real-madrid-athletic-bilbao-live-score-la-liga-2023-scores-lineups-updates-highlights-benzema/article66930602.ece
+i
+i[ Real Madrid ]
+i
+i[1 : new] https://www.realmadrid.com/en
+i[2 : new] https://www.realmadrid.com/en/football
+i[3 : new] https://www.realmadrid.com/en/news/2023/06/04/real-madrid-presented-the-basketball-undecima-to-the-santiago-bernabeu
+i
+i[ Benzema ]
+i
+i[1 : new] https://ca.news.yahoo.com/real-madrid-focus-rebuilding-attack-105429293.html
+i[5 : new] https://www.reuters.com/sports/soccer/benzema-leaves-real-madrid-after-14-year-career-2023-06-04/
+i[8 : new] https://www.realmadrid.com/en/football/squad/karim-benzema
+i[9 : new] https://www.skysports.com/football/news/11095/12896165/karim-benzema-real-madrid-confirm-french-strikers-departure-after-14-years-at-the-bernabeu
+i[10 : new] https://fbref.com/en/players/70d74ece/Karim-Benzema
+i[11 : new] https://www.transfermarkt.us/karim-benzema/leistungsdaten/spieler/18922
+i[12 : new] https://www.facebook.com/KarimBenzema/
+i
+i[ Luna llena junio 2023 ]
+i
+i[1 : new] https://www.elmundo.es/yodona/lifestyle/2023/06/04/6474aab921efa032108b45a7.html
+i[2 : new] https://as.com/actualidad/sociedad/luna-llena-junio-2023-cuando-es-y-a-que-hora-se-puede-ver-la-luna-de-fresa-n/
+i[3 : new] https://larepublica.pe/ciencia/2023/06/03/luna-llena-de-junio-2023-la-luna-de-fresa-cuando-es-a-que-hora-comienza-y-por-que-se-llama-asi-164685
+i[4 : new] https://www.diainternacionalde.com/calendario-lunar/2023/junio
+i[5 : new] https://www.elconfidencial.com/tecnologia/ciencia/2023-06-03/luna-llena-de-fresa-2023-julio-como-ver-hora_3657258/
+i[6 : new] https://redgol.cl/tendencias/cuando-hay-luna-llena-este-es-el-calendario-lunar-de-junio-del-2023-20230603-RDG-14973.html
+i[7 : new] https://depor.com/mexico/local-mx/luna-de-fresa-2023-en-vivo-desde-mexico-hoy-domingo-4-de-junio-a-que-hora-y-como-ver-el-fenomeno-desde-el-cielo-luna-llena-de-junio-2023-trends-cdmx-mx-noticia/
+i[8 : new] https://depor.com/colombia/local-co/a-que-hora-y-como-ver-la-luna-de-fresa-de-junio-2023-que-es-y-cuando-sera-la-luna-llena-desde-colombia-superluna-co-trends-noticia/
+i[9 : new] https://www.cosmopolitan.com/es/horoscopo/extra/a44063555/luna-llena-fresa-junio-2023/
+i[10 : new] https://www.tutiempo.net/luna/fases-junio-2023.htm
+i
+i[ Karim Benzema ]
+i
+i[7 : new] https://www.realmadrid.com/en/football/squad/karim-benzema
+i[8 : new] https://www.skysports.com/football/news/11095/12896165/karim-benzema-real-madrid-confirm-french-strikers-departure-after-14-years-at-the-bernabeu
+i[9 : new] https://www.reuters.com/sports/soccer/benzema-leaves-real-madrid-after-14-year-career-2023-06-04/
+i[10 : new] https://www.facebook.com/KarimBenzema/
+i[11 : new] https://fbref.com/en/players/70d74ece/Karim-Benzema
+i[12 : new] https://www.foxsports.com/soccer/karim-benzema-player
+i
+i[ Celta de Vigo ]
+i
+i[5 : new] https://rccelta.es/en/
+i[6 : new] https://rccelta.es/en/abonados/
+i[8 : new] https://www.transfermarkt.us/celta-vigo/startseite/verein/940
+i[9 : new] https://us.soccerway.com/teams/spain/real-club-celta-de-vigo/2033/
+i[10 : new] https://theathletic.com/football/team/celta-de-vigo/
+i[11 : new] https://www.sofascore.com/team/football/celta-vigo/2821
+i[12 : new] https://www.flashscore.com/team/celta-vigo/8pvUZFhf/
+i
+i[ Cagliari ]
+i
+i[6 : new] https://www.lonelyplanet.com/italy/sardinia/cagliari
+i[7 : new] https://strictlysardinia.com/things-to-do-in-cagliari-sardinia/
+i[8 : new] https://strictlysardinia.com/things-to-do-in-cagliari-sardinia/#15_Not_To_Miss_Things_To_Do_In_Cagliari_Sardinia
+i[9 : new] https://www.tripadvisor.com/Tourism-g187881-Cagliari_Province_of_Cagliari_Sardinia-Vacations.html
+i[12 : new] https://www.meganstarr.com/things-to-do-in-cagliari-sardinia/
+i[13 : new] https://www.italia.it/en/sardinia/cagliari
+i[14 : new] https://myadventuresacrosstheworld.com/things-to-do-in-cagliari-sardinia/
+i[15 : new] https://www.forbes.com/sites/rebeccahughes/2023/02/28/cheese-pastries-cocktails-and-winter-sun-how-to-spend-36-hours-in-cagliari-sardinia/
+i[16 : new] https://www.britannica.com/place/Cagliari-Italy
+i
+i[ Final de la Champions ]
+i
+i[1 : new] https://es.uefa.com/uefachampionsleague/news/0271-142efda78688-4c68099fb6a5-1000--final-de-la-uefa-champions-league-2023-en-estambul-fecha-equ/
+i[2 : new] https://www.uefa.com/uefachampionsleague/final/
+i[3 : new] https://www.ole.com.ar/futbol-internacional/champions/juega-final-champions-league-hora-argentina-ver-vivo-manchester-city-inter_0_UYobIwR2l9.html
+i[4 : new] https://es.wikipedia.org/wiki/Final_de_la_Liga_de_Campeones_de_la_UEFA_2022-23
+i[5 : new] http://es.wikipedia.org/wiki/Turqu%C3%ADa
+i[6 : new] https://www.tycsports.com/champions-league/final-de-la-champions-league-2023-cuando-se-juega-horario-y-donde-ver-en-vivo-id511544.html
+i[8 : new] https://www.sportingnews.com/us-es/futbol/news/donde-es-final-champions-league-2022-2023-sede/pwj932uvx8tqujisbw91hkze
+i[9 : new] https://www.sportingnews.com/mx/futbol/news/cuando-es-final-champions-league-2023-dia-hora-sede/e73acf10mumc1kvkw77xzwes
+i[10 : new] https://cnnespanol.cnn.com/2023/05/17/cuando-y-donde-se-juega-la-final-de-la-champions-league-2022-2023-orix/
+i[11 : new] https://www.goal.com/es-mx/noticias/final-champions-league-2023-cuando-es-donde-sede-fecha-dia-hora/blte4a3af4a289742b8
+i
+i                North Asia
+i        -------------------------
+i
+i                  Russia
+i              -------------
+i
+i
+i[ Мистер сидр ]
+i
+i[2 : new] https://63.ru/text/incidents/2023/06/05/72369194/
+i[3 : new] https://ria.ru/20230605/sidr-1876178480.html
+i[4 : new] https://ria.ru/20230605/sidr-1876189216.html
+i[5 : new] https://www.vesti.ru/article/3388582
+i[6 : new] https://theins.ru/news/262305
+i[7 : new] https://www.rbc.ru/society/05/06/2023/647d97659a7947099ba3f7c7
+i[8 : new] https://www.perekrestok.ru/cat/428/p/sidr-mister-lis-sladkij-gazirovannyj-4-5-430ml-3669514
+i[9 : new] https://bloknot-samara.ru/news/smertelnyy-mister-sidr-6-zhiteley-ulyanovskoy-obla-1610444
+i[10 : new] https://www.bfm.ru/news/526855
+i[11 : new] https://pg21.ru/news/87542
+i
+i[ Риттер ]
+i
+i[2 : new] https://www.timesunion.com/churchill/article/scott-ritter-finds-new-audience-putin-s-russia-18130243.php
+i[5 : new] https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D1%82%D1%82%D0%B5%D1%80,_%D0%A1%D0%BA%D0%BE%D1%82%D1%82_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC
+i[6 : new] http://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BB%D0%B8%D0%BD%D0%B0_%D0%B8_%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BB%D0%BB%D0%B0
+i[8 : new] https://joshritter.com/
+i[9 : new] https://www.ritter-sport.com/ru
+i[12 : new] https://russian.rt.com/inotv/2023-06-03/Kolossalnaya-poezdka--Skott-Ritter
+i[13 : new] https://www.rittercommunications.com/
+i
+i[ Воинский учёт ]
+i
+i[1 : new] https://www.vedomosti.ru/society/news/2023/06/04/978546-minoboroni-predlagaet-stavit-na-voinskii-uchet-bez-yavki
+i[2 : new] https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%87%D1%91%D1%82_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8
+i[3 : new] https://www.consultant.ru/document/cons_doc_LAW_18260/810509897ba10195f02c2732864bf731ac580508/
+i[4 : new] https://www.svoboda.org/a/minoborony-predlagaet-stavitj-na-voinskiy-uchyot-bez-lichnogo-prisutstviya/32444120.html
+i[5 : new] https://ria.ru/20230604/minoborony-1876072935.html
+i[6 : new] https://www.interfax.ru/russia/904702
+i[7 : new] https://www.rbc.ru/politics/04/06/2023/647c6e059a79471d933d4799
+i[8 : new] https://www.gazeta.ru/army/2023/06/04/17088380.shtml
+i[9 : new] https://www.kommersant.ru/doc/6027368
+i[10 : new] https://lenta.ru/news/2023/06/04/uchettt/
+i
+i[ 5 июня праздник ]
+i
+i[2 : new] https://www.un.org/ru/observances/environment-day
+i[3 : new] https://kakoysegodnyaprazdnik.ru/baza/iyun/5
+i[4 : new] https://ntr.city/news/society/115817/
+i[5 : new] https://www.calend.ru/holidays/6-5/
+i[6 : new] https://ru.wikipedia.org/wiki/5_%D0%B8%D1%8E%D0%BD%D1%8F
+i[7 : new] https://1plus1.ua/ru/novyny/ake-sogodni-svato-5-cervna-den-svatogo-duha-so-ne-mozna-robiti
+i[8 : new] https://tsn.ua/ru/ukrayina/kakoy-zavtra-5-iyunya-prazdnik-vse-ob-etom-dne-kakoy-cerkovnyy-prazdnik-chto-zaprescheno-delat-2342104.html
+i[9 : new] https://www.rbc.ua/ukr/styler/klechalniy-ponedilok-2023-ke-sogodni-tserkovne-1685910977.html
+i[10 : new] https://berdsk-online.ru/news/v-strane/duhov-den-chto-mozhno-a-chego-nelzya-delat-5-iyunya/
+i[11 : new] https://www.unian.net/lite/holidays/kakoy-segodnya-cerkovnyy-prazdnik-o-chem-molitsya-i-chto-strogo-zapreshcheno-5-iyunya-12281208.html
+i
+i[ Троица ]
+i
+i[3 : new] https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0
+i[4 : new] https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0_(%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0_%D0%A0%D1%83%D0%B1%D0%BB%D1%91%D0%B2%D0%B0)
+i[5 : new] https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0_(%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0_%D0%A0%D1%83%D0%B1%D0%BB%D1%91%D0%B2%D0%B0)
+i[6 : new] https://www.kp.ru/family/prazdniki/troitsa/
+i[7 : new] https://www.pravmir.ru/svyataya-troica/
+i[8 : new] https://ria.ru/20230530/troitsa-1737298760.html
+i[9 : new] https://tass.ru/obschestvo/17774283
+i[10 : new] https://www.calend.ru/holidays/0/0/185/
+i[11 : new] https://azbyka.ru/svyataya-troica
+i[12 : new] https://lenta.ru/articles/2023/06/03/pyatidesyatnitsa/
+i[13 : new] https://www.unian.net/lite/holidays/troica-2023-data-tradicii-osobennosti-prazdnika-11929071.html
+i
+i[ Новая Таволжанка ]
+i
+i[1 : new] https://maps.google.com/maps?hl=en&q=Новая Таволжанка&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjF0cuJgqz_AhUTEFkFHeAnCbMQ_AUIBigB
+i[2 : new] https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%A2%D0%B0%D0%B2%D0%BE%D0%BB%D0%B6%D0%B0%D0%BD%D0%BA%D0%B0
+i[3 : new] http://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D0%B1%D0%B5%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD
+i[4 : new] https://yandex.ru/maps/geo/selo_novaya_tavolzhanka/53004114/
+i[5 : new] https://bel.ru/news/2023-06-05/utrom-5-iyunya-vsu-bolee-70-raz-udarili-iz-gradov-po-novoy-tavolzhanke-2947163
+i[6 : new] https://www.interfax.ru/russia/904726
+i[7 : new] https://newizv.ru/news/2023-06-04/v-belgorodskom-sele-novaya-tavolzhanka-idet-boy-s-drg-video-409340
+i[8 : new] https://eadaily.com/ru/news/2023/06/04/boy-v-novoy-tavolzhanke-pod-belgorodom-situaciya-ochen-tyazhyolaya-pogranichniki
+i[9 : new] https://tass.ru/proisshestviya/17924631
+i[10 : new] https://www.mk.ru/politics/2023/06/04/vse-uekhali-v-novoy-tavolzhanke-rasskazali-chto-proiskhodit-v-sele.html
+i[11 : new] https://iz.ru/1523316/2023-06-04/gubernator-belgorodskoi-oblasti-soobshchil-o-boe-s-ukrainskoi-drg-v-novoi-tavolzhanke
+i[12 : new] https://bel.ru/tags/novaya-tavolzhanka
+i
+i[ Реал Мадрид – Атлетик ]
+i
+i[1 : new] https://www.sports.ru/football/1115180136-real-atletik-onlajn-translyacziya-nachnetsya-v-1930.html
+i[2 : new] https://www.sports.ru/football/1115180136-real-atletik-onlajn-translyacziya-nachnetsya-v-1930.html
+i[3 : new] https://www.sports.ru/football/match/athletic-vs-real/
+i[5 : new] https://www.championat.com/football/news-5127083-real-madrid-atletik-b-slivochnye-sravnyali-schyot.html
+i[6 : new] https://soccer365.ru/live/match-atletik-real-madrid-smotret-onlayn/&tab=stats_games
+i[7 : new] https://soccer365.ru/live/match-atletik-real-madrid-smotret-onlayn/
+i[8 : new] https://news.sportbox.ru/Vidy_sporta/Futbol/Atletiko_Madrid_Real_Madrid
+i[9 : new] https://sport24.ru/football/leagues/primera-division/match/real_madrid-atletik-2023-06-04
+i[10 : new] https://odds.ru/football/match/real-madrid-vs-athletic-bilbao/21-295/
+i
+i[ ЗаБег.РФ ]
+i
+i[1 : new] https://xn--80acghh.xn--p1ai/
+i[2 : new] https://xn--80acghh.xn--p1ai/online
+i[3 : new] https://vk.com/zabegrf
+i[4 : new] https://iz.ru/1523267/2023-06-04/zavershivshiisia-v-rossii-polumarafon-zabegrf-sobral-rekordnye-160-tys-uchastnikov
+i[5 : new] https://russiarunning.com/event/ZabegRFPerm2023/
+i[6 : new] https://xn--90aivcdt6dxbc.xn--p1ai/articles/news/zabeg_rf_stal_samym_masshtabnym_polumarafonom_v_mire/
+i[7 : new] https://marathonec.ru/rezultaty-zabegrf-2023/
+i[8 : new] https://tverisport.ru/news/nazvany-absolyutnye-pobediteli-polumarafona-zabeg-rf-v-tveri/
+i[9 : new] https://get.run/races/europe/russia/moskovskaya/moskva/vserossiyskiy-polumarafon-zabeg-rf/
+i
+i[ 4 июня ]
+i
+i[2 : new] https://ru.wikipedia.org/wiki/4_%D0%B8%D1%8E%D0%BD%D1%8F
+i[3 : new] https://www.interfax.ru/world/904682
+i[5 : new] https://www.calend.ru/holidays/6-4/
+i[6 : new] https://kakoysegodnyaprazdnik.ru/baza/iyun/4
+i[11 : new] https://ru.euronews.com/video/2023/06/04/novosti-dnya-4-iyunya-vechernij-vypusk
+i[12 : new] https://www.fontanka.ru/2023/06/04/72368126/
+i
+i[ Муром ]
+i
+i[1 : new] https://maps.google.com/maps?hl=en&q=Муром&um=1&ie=UTF-8&sa=X&ved=0ahUKEwji7r2Mgqz_AhXGEFkFHQTXD1gQ_AUIBigB
+i[2 : new] https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D0%BE%D0%BC
+i[3 : new] https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D0%BE%D0%BC_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3)
+i[4 : new] http://murom.info/
+i[5 : new] https://ru.wikivoyage.org/wiki/%D0%9C%D1%83%D1%80%D0%BE%D0%BC
+i[6 : new] https://chemodan-tour.ru/obzor/murom/
+i[7 : new] https://wikiway.com/russia/murom/
+i[8 : new] https://lenta.ru/news/2023/06/03/murom/
+i[9 : new] https://www.gazeta.ru/army/news/2023/06/03/20589968.shtml
+i[10 : new] https://xn--24-7lcajlu.xn--p1ai/
+i[11 : new] https://101hotels.com/recreation/russia/murom/about
+i[12 : new] https://ria.ru/20230604/murom-1876018582.html
+i
+i[ UFC ]
+i
+i[1 : new] https://mmajunkie.usatoday.com/2023/06/dana-white-offers-tyson-fury-ufc-fight-against-jon-jones-baddest-man-on-the-planet-title-fight
+i[3 : new] https://www.ufc.com/
+i[4 : new] https://www.ufc.com/events
+i[8 : new] https://www.ufcfightpass.com/
+i[11 : new] https://www.mmafighting.com/ufc
+i
+i               Western Asia
+i        -------------------------
+i
+i                  Israel
+i              -------------
+i
+i
+i[ Zlatan ]
+i
+i[10 : new] https://fbref.com/en/players/4cde5509/Zlatan-Ibrahimovic
+i[12 : new] https://www.transfermarkt.us/zlatan-ibrahimovi%C4%87/profil/spieler/3455
+i[13 : new] https://bleacherreport.com/articles/10078219-zlatan-ibrahimovic-announces-retirement-after-22-year-career-with-ac-milan-more
+i[14 : new] https://www.facebook.com/ZlatanIbrahimovic/
+i
+i[ Nuggets vs Heat ]
+i
+i[8 : new] https://www.usatoday.com/story/sports/nba/2023/06/04/nba-finals-game-2-live-updates-heat-nuggets/70286144007/
+i[11 : new] https://www.sportingnews.com/us/nba/news/nuggets-heat-score-highlights-game-2-nba-finals/x7byx3oxxel97xjkdsqnryot
+i
+i[ לוסי אהריש ]
+i
+i[2 : new] https://he.wikipedia.org/wiki/%D7%9C%D7%95%D7%A1%D7%99_%D7%90%D7%94%D7%A8%D7%99%D7%A9
+i[3 : new] http://he.wikipedia.org/wiki/%D7%A6%D7%97%D7%99_%D7%94%D7%9C%D7%95%D7%99
+i[5 : new] https://celebs.walla.co.il/item/3583827
+i[6 : new] https://www.ice.co.il/social/news/article/965661
+i[7 : new] https://www.srugim.co.il/800969-%D7%9C%D7%95%D7%A1%D7%99-%D7%90%D7%94%D7%A8%D7%99%D7%A9-%D7%97%D7%95%D7%A9%D7%A4%D7%AA-%D7%90%D7%AA-%D7%9E%D7%A6%D7%91%D7%94-%D7%94%D7%A8%D7%A4%D7%95%D7%90%D7%99-%D7%94%D7%AA%D7%97%D7%9C%D7%AA
+i[8 : new] https://www.mako.co.il/entertainment-celebs/local-2023/Article-5b76901ee358881026.htm?sCh=3d385dd2dd5d4110&pId=1898243326
+i[10 : new] https://tmi.maariv.co.il/celebs-news/Article-1012248
+i[11 : new] https://www.facebook.com/LucyAharishFanPage/?locale=he_IL
+i[12 : new] https://www.israelhayom.co.il/tag/%D7%9C%D7%95%D7%A1%D7%99-%D7%90%D7%94%D7%A8%D7%99%D7%A9
+i[13 : new] https://www.ynet.co.il/topics/%D7%9C%D7%95%D7%A1%D7%99_%D7%90%D7%94%D7%A8%D7%99%D7%A9
+i
+i[ אושרי כהן ]
+i
+i[2 : new] https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A9%D7%A8%D7%99_%D7%9B%D7%94%D7%9F
+i[3 : new] http://he.wikipedia.org/wiki/11_%D7%91%D7%99%D7%A0%D7%95%D7%90%D7%A8
+i[7 : new] https://pplus.ynet.co.il/rechilut/article/rkpxbjqln
+i[8 : new] https://www.mako.co.il/entertainment-celebs/local-2023/Article-f4d4dd259f68881027.htm
+i[11 : new] https://tmi.maariv.co.il/celebs-news/Article-1012414
+i[12 : new] https://tmi.maariv.co.il/celebs-news/Article-977551
+i[13 : new] https://www.zohar-agency.com/actor/%D7%90%D7%95%D7%A9%D7%A8%D7%99-%D7%9B%D7%94%D7%9F/
+i[14 : new] https://www.facebook.com/OshriCohenOfficial/
+i[15 : new] https://celebs.walla.co.il/item/3583923
+i
+i[ אסף הרץ ]
+i
+i[2 : new] https://he.wikipedia.org/wiki/%D7%90%D7%A1%D7%A3_%D7%94%D7%A8%D7%A5
+i[3 : new] https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%9B%D7%96_%D7%97%D7%91%22%D7%93_%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%99_%E2%80%93_770
+i[4 : new] https://www.israelhayom.co.il/celebrities/local-celebrities/article/14235590
+i[5 : new] https://pplus.ynet.co.il/rechilut/article/byzf11s9l2
+i[7 : new] https://www.inn.co.il/news/603588
+i[8 : new] https://celebs.walla.co.il/item/3584001
+i[12 : new] https://tmi.maariv.co.il/celebs-news/Article-1012443
+i
+i[ חתונה ממבט ראשון ]
+i
+i[2 : new] https://www.mako.co.il/tv-married-at-first-sight
+i[3 : new] https://www.mako.co.il/mako-vod-keshet/wedding-at-first-sight
+i[4 : new] https://he.wikipedia.org/wiki/%D7%97%D7%AA%D7%95%D7%A0%D7%94_%D7%9E%D7%9E%D7%91%D7%98_%D7%A8%D7%90%D7%A9%D7%95%D7%9F
+i[5 : new] http://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%93%D7%95_%D7%A8%D7%95%D7%96%D7%A0%D7%91%D7%9C%D7%95%D7%9D
+i[6 : new] https://www.facebook.com/Married.at.first.sight.Keshet12/?locale=he_IL
+i[7 : new] https://www.israelhayom.co.il/culture/tv/article/14235971
+i[8 : new] https://www.ynet.co.il/entertainment/article/h100lzsi2
+i[11 : new] https://tmi.maariv.co.il/Tags/%D7%97%D7%AA%D7%95%D7%A0%D7%94-%D7%9E%D7%9E%D7%91%D7%98-%D7%A8%D7%90%D7%A9%D7%95%D7%9F
+i[12 : new] https://www.atmag.co.il/%D7%97%D7%AA%D7%95%D7%A0%D7%94-%D7%9E%D7%9E%D7%91%D7%98-%D7%A8%D7%90%D7%A9%D7%95%D7%9F-%D7%A2%D7%99%D7%A0%D7%91-%D7%95%D7%A8%D7%96/
+i
+i[ הרב מאיר כהנא ]
+i
+i[3 : new] https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%99%D7%A8_%D7%9B%D7%94%D7%A0%D7%90
+i[4 : new] http://he.wikipedia.org/wiki/5_%D7%91%D7%A0%D7%95%D7%91%D7%9E%D7%91%D7%A8
+i[5 : new] https://www.rabbikahane.org/
+i[6 : new] https://www.inn.co.il/news/603561
+i[7 : new] https://www.israelhayom.co.il/judaism/judaism-news/article/14234892
+i[8 : new] https://www.makorrishon.co.il/news/625771/
+i[9 : new] https://www.makorrishon.co.il/news/625685/
+i[10 : new] https://www.srugim.co.il/801054-%D7%9C%D7%90-%D7%A8%D7%A7-%D7%94%D7%A0%D7%A6%D7%97%D7%95%D7%9F-%D7%94%D7%94%D7%99%D7%A9%D7%92-%D7%94%D7%92%D7%93%D7%95%D7%9C-%D7%A9%D7%9C-%D7%94%D7%A8%D7%91-%D7%9E%D7%90%D7%99%D7%A8-%D7%9B%D7%94
+i[11 : new] https://www.maariv.co.il/news/politics/Article-1012413
+i[13 : new] https://www.bhol.co.il/news/1551755
+i
+i[ אייל גולן ]
+i
+i[2 : new] https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%9C_%D7%92%D7%95%D7%9C%D7%9F
+i[3 : new] https://he.wikipedia.org/wiki/%D7%93%D7%99%D7%A1%D7%A7%D7%95%D7%92%D7%A8%D7%A4%D7%99%D7%94_%D7%A9%D7%9C_%D7%90%D7%99%D7%99%D7%9C_%D7%92%D7%95%D7%9C%D7%9F
+i[4 : new] https://www.facebook.com/EyalGolanOfficial/
+i[11 : new] https://e.walla.co.il/item/3583761
+i[12 : new] https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U
+i[14 : new] https://www.facebook.com/EyalGolanOfficial/?locale=he_IL
+i[15 : new] https://2207.kupat.co.il/show/eyalgolan
+i[16 : new] https://www.mako.co.il/Tagit/%D7%90%D7%99%D7%99%D7%9C+%D7%92%D7%95%D7%9C%D7%9F
+i
+i[ מסי ]
+i
+i[4 : new] https://he.wikipedia.org/wiki/%D7%9C%D7%99%D7%95%D7%A0%D7%9C_%D7%9E%D7%A1%D7%99
+i[5 : new] https://he.wikipedia.org/wiki/%D7%A0%D7%99%D7%95%D7%90%D7%9C%27%D7%A1_%D7%90%D7%95%D7%9C%D7%93_%D7%91%D7%95%D7%99%D7%A1
+i[6 : new] https://www.sport5.co.il/articles.aspx?FolderID=496&docID=439350
+i[8 : new] https://www.one.co.il/Article/437689.html
+i[9 : new] https://www.israelhayom.co.il/sport/world-soccer/article/14231248
+i[10 : new] https://context.reverso.net/translation/hebrew-english/%D7%9E%D7%A1%D7%99
+i[11 : new] https://www.inn.co.il/news/603464
+i[12 : new] https://sports.walla.co.il/item/3583587
+i[13 : new] https://sports.walla.co.il/item/3582555
+i
+i[ הפועל תל אביב ]
+i
+i[1 : new] https://www.htafc.co.il/
+i[2 : new] https://www.htafc.co.il/%D7%AA%D7%90%D7%A8%D7%99%D7%9D-%D7%95%D7%94%D7%99%D7%A9%D7%92%D7%99%D7%9D/
+i[3 : new] https://he.wikipedia.org/wiki/%D7%94%D7%A4%D7%95%D7%A2%D7%9C_%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91_(%D7%9B%D7%93%D7%95%D7%A8%D7%92%D7%9C)
+i[4 : new] http://he.wikipedia.org/wiki/%D7%9E%D7%99%D7%99%D7%A7%D7%9C_%D7%95%D7%90%D7%9C%D7%A7%D7%90%D7%A0%D7%99%D7%A1
+i[5 : new] https://sport1.maariv.co.il/soccer/teams/40677/
+i[6 : new] https://www.facebook.com/HapoelTelAvivFC/?locale=he_IL
+i[10 : new] https://www.hapoeluta.org/
+i[12 : new] https://www.one.co.il/soccer/team/5
+i[13 : new] https://www.sport5.co.il/team.aspx?FolderID=164
+i[14 : new] https://sports.walla.co.il/item/3583786
+i[15 : new] https://www.ynet.co.il/topics/%D7%94%D7%A4%D7%95%D7%A2%D7%9C_%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91
+i
+i[ דור תורג'מן ]
+i
+i[1 : new] https://he.wikipedia.org/wiki/%D7%93%D7%95%D7%A8_%D7%AA%D7%95%D7%A8%D7%92%27%D7%9E%D7%9F
+i[2 : new] https://sport1.maariv.co.il/square/article/1114421/
+i[3 : new] https://sport1.maariv.co.il/israeli-soccer/national-team/article/1114255/
+i[5 : new] https://www.football.org.il/players/player/?player_id=126467&season_id=21
+i[6 : new] https://sports.walla.co.il/item/3583705
+i[7 : new] https://sports.walla.co.il/item/3583367
+i[8 : new] https://www.sport5.co.il/articles.aspx?FolderID=1504&docID=439367
+i[9 : new] https://www.sport5.co.il/articles.aspx?FolderID=1504&docID=439484
+i[10 : new] https://www.bizportal.co.il/sport/news/article/815138
+i
+i               Saudi Arabia
+i              -------------
+i
+i
+i[ جهاد أزعور ]
+i
+i[2 : new] https://www.imf.org/ar/About/senior-officials/Bios/jihad-azour
+i[3 : new] https://ar.wikipedia.org/wiki/%D8%AC%D9%87%D8%A7%D8%AF_%D8%A3%D8%B2%D8%B9%D9%88%D8%B1
+i[4 : new] https://www.aljazeera.net/news/2023/6/4/%D8%A7%D8%B9%D8%AA%D8%A8%D8%B1%D8%AA%D9%87-%D9%85%D8%B1%D8%B4%D8%AD%D8%A7-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B3%D8%AA%D9%81%D8%B2-%D8%A7%D9%84%D8%A3%D8%AD%D8%B2%D8%A7%D8%A8
+i[5 : new] https://www.alaraby.co.uk/politics/%D9%85%D9%86-%D9%87%D9%88-%D8%AC%D9%87%D8%A7%D8%AF-%D8%A3%D8%B2%D8%B9%D9%88%D8%B1-%D8%A7%D9%84%D8%B0%D9%8A-%D8%AA%D9%81%D8%B6%D9%84%D9%87-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9-%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D9%84%D8%A8%D9%86%D8%A7%D9%86
+i[9 : new] https://www.alarabiya.net/social-media/2023/06/05/%D8%AA%D8%B1%D8%B4%D9%8A%D8%AD-%D8%AC%D9%87%D8%A7%D8%AF-%D8%A3%D8%B2%D8%B9%D9%88%D8%B1-%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%8A%D9%82%D8%B3%D9%85-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A8%D9%8A%D9%86-%D9%85%D8%A4%D9%8A%D8%AF-%D9%88%D9%85%D8%B9%D8%A7%D8%B1%D8%B6
+i[11 : new] https://www.independentarabia.com/tags/%D8%AC%D9%87%D8%A7%D8%AF-%D8%A3%D8%B2%D8%B9%D9%88%D8%B1
+i
+i[ فينيسيوس ]
+i
+i[3 : new] https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D9%86%D9%8A%D8%B3%D9%8A%D9%88%D8%B3_%D8%AC%D9%88%D9%86%D9%8A%D9%88%D8%B1
+i[4 : new] https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%AF%D9%8A%D8%B1%D9%8A%D9%83%D9%88_%D9%81%D8%A7%D9%84%D9%81%D9%8A%D8%B1%D8%AF%D9%8A
+i[5 : new] https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D8%B1%D9%84%D9%88%D8%B3_%D9%81%D9%8A%D9%86%D9%8A%D8%B3%D9%8A%D9%88%D8%B3
+i[6 : new] https://www.kooora.com/?player=129674
+i[9 : new] https://www.aljazeera.net/encyclopedia/2023/6/4/%D9%84%D8%A7%D8%B9%D8%A8-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84%D9%8A-%D9%81%D9%8A%D9%86%D9%8A%D8%B3%D9%8A%D9%88%D8%B3
+i[10 : new] https://www.realmadrid.com/ar/football/squad/vinicius-paixao-de-oliveira-junior-
+i[11 : new] https://www.goal.com/ar/%D8%A7%D9%84%D9%84%D8%A7%D8%B9%D8%A8/%D9%81%D9%8A%D9%86%D9%8A%D8%B3%D9%8A%D9%88%D8%B3-%D8%AC%D9%88%D9%86%D9%8A%D9%88%D8%B1/b4witgokm49tidm1a83qcvbop
+i[12 : new] https://hihi2.com/tag/%D9%81%D9%8A%D9%86%D9%8A%D8%B3%D9%8A%D9%88%D8%B3
+i[13 : new] https://www.facebook.com/Selecaoforever5/photos/a.3258043557560847/3706497812715417/?type=3
+i
+i[ سعيد بن مسفر ]
+i
+i[2 : new] https://ar.wikipedia.org/wiki/%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A8%D9%86_%D9%85%D8%B3%D9%81%D8%B1
+i[3 : new] http://ar.wikipedia.org/wiki/1944
+i[7 : new] https://sabq.org/saudia/yrlae9a6hm
+i[8 : new] https://audio.islamweb.net/audio/index.php?page=lecview&sid=34
+i[10 : new] https://www.facebook.com/100037905291608/videos/%D9%82%D8%B5%D8%A9_%D9%88%D8%B9%D8%A8%D8%B1%D8%A9%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B3%D8%B9%D9%8A%D8%AF-%D8%A8%D9%86-%D9%85%D8%B3%D9%81%D8%B1-%D8%A7%D9%84%D9%82%D8%AD%D8%B7%D8%A7%D9%86%D9%8A/638928634681582/
+i[11 : new] https://shamela.ws/book/7736
+i[12 : new] https://midad.com/scholar/500/%D8%B3%D8%B9%D9%8A%D8%AF-%D8%A8%D9%86-%D9%85%D8%B3%D9%81%D8%B1-%D8%A7%D9%84%D9%82%D8%AD%D8%B7%D8%A7%D9%86%D9%8A
+i
+i[ الأهلي ضد الوداد الرياضي ]
+i
+i[7 : new] https://www.almasryalyoum.com/news/details/2902992
+i[8 : new] https://www.cairo24.com/1809897
+i[9 : new] https://www.ngmisr.com/sports/%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%89-%D8%B6%D8%AF-%D8%A7%D9%84%D9%88%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-%D9%81%D9%8A-%D8%B0%D9%87%D8%A7%D8%A8-%D9%86%D9%87%D8%A7%D8%A6%D9%8A
+i[10 : new] https://www.youm7.com/story/2023/6/5/%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%B6%D8%AF-%D8%A7%D9%84%D9%88%D8%AF%D8%A7%D8%AF-%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D9%87%D8%A7%D8%AC%D9%85-%D9%81%D8%A7%D9%86%D8%AF%D9%86%D8%A8%D8%B1%D9%88%D9%83-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A8%D9%88%D9%87%D8%B1%D8%A9/6202585
+i[11 : new] https://www1.elbadil.com/60414/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D9%88%D8%A7%D9%84%D9%88%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A/
+i
+i[ بنزيما ]
+i
+i[2 : new] https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D9%8A%D9%85_%D8%A8%D9%86%D8%B2%D9%8A%D9%85%D8%A7
+i[3 : new] https://ar.wikipedia.org/wiki/%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A%D9%83_%D9%84%D9%8A%D9%88%D9%86
+i[6 : new] https://www.kooora.com/?player=21490
+i[8 : new] https://arabic.cnn.com/sport/article/2023/06/04/karim-benzema-real-madrid-la-liga
+i[9 : new] https://arabic.cnn.com/sport/article/2023/06/04/karim-benzema-real-madrid-laliga
+i[11 : new] https://www.facebook.com/KarimBenzema/?locale=ar_AR
+i[12 : new] https://www.skynewsarabia.com/sport/1626836-%D8%AE%D8%A8%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A8%D9%86%D8%B2%D9%8A%D9%85%D8%A7-%D9%8A%D9%88%D9%82%D8%B9-%D8%B9%D9%82%D8%AF%D8%A7-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%AD%D8%AA%D9%89-2025
+i
+i[ ميسي ]
+i
+i[2 : new] https://ar.wikipedia.org/wiki/%D9%84%D9%8A%D9%88%D9%86%D9%8A%D9%84_%D9%85%D9%8A%D8%B3%D9%8A
+i[3 : new] https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A5%D9%86%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA_%D9%84%D9%8A%D9%88%D9%86%D9%8A%D9%84_%D9%85%D9%8A%D8%B3%D9%8A
+i[6 : new] https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-messi-manutd-30033749
+i[8 : new] https://www.kooora.com/?player=11204
+i[11 : new] https://arabic.cnn.com/tag/lywnyl-mysy
+i[13 : new] https://www.skynewsarabia.com/sport/1626697-%D9%85%D9%8A%D8%B3%D9%8A-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6-%D9%84%D8%A7%D9%95%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%B5%D9%81%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%82%D8%A8%D8%A9
+i[14 : new] https://www.fcbarcelona.com/en/football/first-team/players/4974/lionel-messi
+i
+i[ جامعة نجران ]
+i
+i[2 : new] https://www.nu.edu.sa/
+i[3 : new] https://edugate.nu.edu.sa/
+i[4 : new] https://edugate.nu.edu.sa/
+i[5 : new] https://www.nu.edu.sa/service
+i[6 : new] https://www.nu.edu.sa/en/1070
+i[7 : new] https://maps.google.com/maps?hl=en&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KUsLsLttLv8VMZ5dFFwXsSyk&daddr=Najran University, King Abdulaziz Rd, Najran Saudi Arabia&ved=2ahUKEwibnLGYgqz_AhX8FVkFHSAPBIYQlDt6BAgNEAM
+i[8 : new] https://www.nu.edu.sa/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9
+i[9 : new] https://www.nu.edu.sa/service
+i[10 : new] https://nu.edu.sa/web/guest/students
+i[12 : new] https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D9%86%D8%AC%D8%B1%D8%A7%D9%86
+i[13 : new] http://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9
+i[14 : new] https://www.topuniversities.com/universities/najran-university
+i[15 : new] https://play.google.com/store/apps/details?id=com.ats.android.najranuni.student.app&hl=ar&gl=US
+i
+i[ هازارد ]
+i
+i[5 : new] https://ar.wikipedia.org/wiki/%D8%A5%D8%AF%D9%8A%D9%86_%D9%87%D8%A7%D8%B2%D8%A7%D8%B1%D8%AF
+i[6 : new] https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D8%B1%D8%BA%D8%A7%D9%86_%D9%87%D8%A7%D8%B2%D8%A7%D8%B1%D8%AF
+i[8 : new] https://www.kooora.com/?player=39848
+i[9 : new] https://www.pinterest.com/pin/671177150707880593/
+i[10 : new] https://www.pinterest.com/pin/598204763015751357/
+i[11 : new] https://www.aljazeera.net/sport/2023/6/3/%D9%87%D8%A7%D8%B2%D8%A7%D8%B1%D8%AF-%D9%8A%D8%B1%D8%AD%D9%84-%D8%B9%D9%86-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D8%A8%D8%B9%D8%AF-4-%D9%85%D9%88%D8%A7%D8%B3%D9%85
+i[12 : new] https://www.realmadrid.com/ar/football/squad/eden-hazard
+i[13 : new] https://www.realmadrid.com/ar/news/2023/06/03/official-statement-hazard
+i[14 : new] https://www.alarabiya.net/sport/2023/06/03/%D8%A3%D8%AE%D9%8A%D8%B1%D9%8B%D8%A7-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D9%86%D8%AC%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D8%B5-%D9%85%D9%86-%D9%87%D8%A7%D8%B2%D8%A7%D8%B1%D8%AF
+i
+i[ المخدرات ]
+i
+i[2 : new] https://support.google.com/websearch?p=medical_conditions
+i[5 : new] https://www.moh.gov.sa/HealthAwareness/EducationalContent/AddictionandDrugs/Pages/default.aspx
+i[6 : new] https://www.moh.gov.sa/HealthAwareness/Campaigns/Antidrug/Pages/default.aspx
+i[7 : new] https://www.mayoclinic.org/ar/diseases-conditions/drug-addiction/symptoms-causes/syc-20365112
+i[8 : new] https://nida.nih.gov/
+i[9 : new] https://ar.wikipedia.org/wiki/%D8%AA%D8%B9%D8%A7%D8%B7%D9%8A_%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA
+i[10 : new] http://ar.wikipedia.org/wiki/%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8_%D8%AA%D8%B9%D8%A7%D8%B7%D9%8A_%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA
+i[11 : new] https://www.fda.gov/drugs
+i[12 : new] https://www.drugs.com/
+i[13 : new] https://www.dea.gov/
+i[14 : new] https://www.gov.il/ar/departments/general/drug-addiction
+i[15 : new] https://www.unodc.org/
+i
+i[ هاكان فيدان ]
+i
+i[2 : new] https://ar.wikipedia.org/wiki/%D9%87%D8%A7%D9%83%D8%A7%D9%86_%D9%81%D9%8A%D8%AF%D8%A7%D9%86
+i[4 : new] https://www.aljazeera.net/news/2023/6/4/%D9%87%D8%A7%D9%83%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AD%D9%83%D9%88%D9%85%D8%A9
+i[5 : new] https://www.alaraby.co.uk/politics/%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B9%D9%86%D9%8A-%D8%AA%D8%B9%D9%8A%D9%8A%D9%86-%D9%87%D8%A7%D9%83%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%88%D8%B2%D9%8A%D8%B1%D8%A7%D9%8B-%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7
+i[6 : new] https://www.alaraby.co.uk/politics/%D9%87%D8%A7%D9%83%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%85%D9%86-%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9
+i[9 : new] https://www.skynewsarabia.com/world/1626543-%D9%87%D8%A7%D9%83%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%83%D8%A7%D8%AA%D9%85-%D8%A7%D9%94%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A7%D9%94%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%8A%D8%AA%D9%88%D9%84%D9%89-%D8%AD%D9%82%D9%8A%D8%A8%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9
+i[10 : new] https://www.aa.com.tr/ar/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%87%D8%A7%D9%83%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%8A%D8%AA%D8%B3%D9%84%D9%85-%D9%85%D9%87%D8%A7%D9%85%D9%87-%D9%85%D9%86-%D8%B3%D9%84%D9%81%D9%87-%D8%AA%D8%B4%D8%A7%D9%88%D9%88%D8%B4-%D8%A3%D9%88%D8%BA%D9%84%D9%88/2914554
+i[11 : new] https://arabic.euronews.com/2023/06/04/turkey-erdogans-secret-keeper-hakan-fidan-replaced-cavusoglu-minister-foreign-affairs
+i
+i[ طائر الرفراف 35 ]
+i
+i[5 : new] https://esheek.cam/video/yali-capkini-35/
+i[6 : new] https://r.esseq.online/video/yali-capkini-35/
+i[7 : new] https://fo3.azureedge.net/watch.php?vid=ccef48f99
+i[8 : new] https://fabr24.azureedge.net/watch.php?vid=Fe4baa15f
+i[9 : new] https://www.dailymotion.com/video/x8lh0ms
+i[10 : new] https://www.dailymotion.com/video/x8lh5dx
+i[11 : new] https://www.dailymotion.com/video/x8lh5op
+i[12 : new] https://www.dailymotion.com/video/x8lh5dy
+i
+i                  Turkey
+i              -------------
+i
+i
+i[ Mayıs ayı enflasyon ]
+i
+i[1 : new] https://www.ntv.com.tr/turkiye/son-dakika-haberimayis-ayi-enflasyon-rakamlari-aciklandi,vLKVj6OxXESbBOteSeGk7A
+i[2 : new] https://www.trthaber.com/haber/ekonomi/mayis-ayi-enflasyon-rakamlari-aciklandi-772552.html
+i[3 : new] https://www.haberturk.com/son-dakika-mayis-ayi-enflasyonu-aciklandi-3597520-ekonomi
+i[4 : new] https://www.hurriyet.com.tr/ekonomi/mayis-ayi-enflasyon-rakamlari-aciklandi-42278752
+i[5 : new] https://www.fotomac.com.tr/haberler/2023/06/05/mayis-ayi-enflasyon-2023-enflasyon-orani-belli-oldu-tuik-mayis-enflasyonu-aylik-yillik-ne-kadar-oldu-mayis-tefe-tufe
+i[6 : new] https://finans.mynet.com/haber/detay/ekonomi/mayis-2023-enflasyon-orani-tuik-mayis-ayi-enflasyon-orani-aciklandi-mi-ne-zaman-aciklanir-saat-kacta-enflasyon-beklentisi-anketleri/465876/
+i[7 : new] https://www.sabah.com.tr/galeri/ekonomi/son-dakika-mayis-ayi-enflasyon-orani-aciklandi
+i[8 : new] https://www.cumhuriyet.com.tr/ekonomi/son-dakika-tuik-mayis-ayi-enflasyon-verisini-acikladi-2087766
+i[9 : new] https://www.cumhuriyet.com.tr/ekonomi/mayis-ayi-enflasyon-orani-aciklandi-mi-tuik-2023-mayis-enflasyon-orani-kac-2087765
+i[10 : new] https://www.memurlar.net/haber/1067187/mayis-ayi-enflasyon-rakamlari-aciklandi.html
+i
+i[ Kerem Aktürkoğlu ]
+i
+i[3 : new] https://www.transfermarkt.com.tr/kerem-akturkoglu/profil/spieler/382528
+i[4 : new] https://www.transfermarkt.com.tr/kerem-akturkoglu/leistungsdaten/spieler/382528
+i[9 : new] https://www.futhead.com/23/players/11171/kerem-akturkoglu/
+i[10 : new] https://www.sofascore.com/tr/oyuncu/kerem-akturkoglu/903324
+i[11 : new] https://www.fifacm.com/player/258580/kerem-akturkoglu
+i[12 : new] https://www.flashscore.com.tr/oyuncu/akturkoglu-muhammed-kerem/UDQZylXj/
+i[14 : new] https://www.footballcritic.com/kerem-akturkoclu/profile/279650
+i
+i[ Sacha Boey ]
+i
+i[3 : new] https://www.transfermarkt.us/sacha-boey/profil/spieler/475413
+i[4 : new] https://metro.co.uk/2023/06/03/galatasaray-set-asking-price-for-arsenal-transfer-target-sacha-boey-18891120/
+i[8 : new] https://www.football.london/arsenal-fc/transfer-news/sacha-boey-arsenal-transfer-brighton-27005446
+i[9 : new] https://fbref.com/en/players/6c8ddd52/Sacha-Boey
+i[10 : new] https://www.whoscored.com/Players/372280/Show/Sacha-Boey
+i[11 : new] https://www.eurosport.com/football/sacha-boey_prs529917/person.shtml
+i[12 : new] https://www.goal.com/en-us/lists/sacha-boey-arsenal-20m-transfer-targe-destined-premier-league/blt98911cc40493e7c1
+i
+i[ Ibrahimoviç ]
+i
+i[8 : new] https://www.transfermarkt.us/zlatan-ibrahimovi%C4%87/profil/spieler/3455
+i[11 : new] https://www.reuters.com/sports/soccer/ibrahimovic-retires-football-2023-06-04/
+i
+i[ Sigara zammı ]
+i
+i[1 : new] https://www.sabah.com.tr/fotohaber/yasam/sigaraya-zam-geldi-2023-sigara-zammi-ile-yeni-sigara-fiyatlari-ne-kadar-kac-tl-oldu
+i[2 : new] https://www.sabah.com.tr/fotohaber/yasam/sigaraya-zam-geldi-2023-sigara-zammi-ile-yeni-sigara-fiyatlari-ne-kadar-kac-tl-oldu/5
+i[3 : new] https://finans.mynet.com/haber/detay/ekonomi/sigaraya-zam-mi-geldi-sosyal-medyada-gundem-oldu-en-pahali-ve-en-dusuk-sigara-fiyatlari/465887/
+i[4 : new] https://halktv.com.tr/gundem/sigara-fiyatlarina-buyuk-zam-geldi-iste-guncel-sigara-fiyatlari-marlbora-744611h
+i[5 : new] https://t24.com.tr/haber/sigaraya-zam-geldi,1113766
+i[6 : new] https://www.cumhuriyet.com.tr/siyaset/bir-sigara-grubuna-daha-zam-geldi-2087746
+i[7 : new] https://www.aydinlik.com.tr/fotogaleri/sigara-fiyatlarina-dev-zam-iste-guncel-fiyatlar-sigara-zammi-sigaraya-zam-geldi-mi-sigaraya-zam-gelecek-misigara-fiyatlarisigara-zam-ne-zaman-2023-haziran-393805
+i[8 : new] https://www.odatv4.com/ekonomi/beklenen-sigara-zammi-geldi-35070082
+i[9 : new] https://www.yenicaggazetesi.com.tr/beklenen-dev-sigara-zammi-geldi-673006h.htm
+i[10 : new] https://www.takvim.com.tr/galeri/trend/5-haziran-2023-sigara-fiyatlari-ne-kadar-oldu-en-ucuz-en-pahali-sigara-kac-tl-oldu-iste-guncel-fiyat-listesi-son-dakika-sigaraya-5-tl-zam-mi-geldi
+i
+i[ Juan Mata ]
+i
+i[6 : new] https://fbref.com/en/players/29733c72/Juan-Mata
+i[7 : new] https://juanmata8.com/
+i[9 : new] https://www.manchestereveningnews.co.uk/all-about/juan-mata
+i[11 : new] https://www.transfermarkt.us/juan-mata/profil/spieler/44068
+i[12 : new] https://www.facebook.com/JuanMataOficial/
+i[13 : new] https://www.whoscored.com/Players/25363/Show/Juan-Mata
+i
+i[ Icardi ]
+i
+i[4 : new] https://www.transfermarkt.us/mauro-icardi/profil/spieler/68863
+i[5 : new] https://en.as.com/soccer/soccer-star-icardi-buys-the-most-expensive-car-in-the-world-n/
+i[7 : new] https://soccergator.io/mauro-icardi-drops-25-million-on-rare-rolls-royce-boat-tail-car/
+i[9 : new] https://fbref.com/en/players/43b78598/Mauro-Icardi
+i[10 : new] https://www.whoscored.com/Players/106964/Show/Mauro-Icardi
+i[11 : new] https://sempremilan.com/cm-icardi-milan-juventus-roma-psg
+i[12 : new] https://www.fotmob.com/players/282770/mauro-icardi
+i
+i[ TRT Spor ]
+i
+i[1 : new] https://www.trtspor.com.tr/
+i[2 : new] https://www.trtizle.com/canli/tv/trt-spor
+i[5 : new] https://logos.fandom.com/wiki/TRT_Spor
+i[6 : new] https://play.google.com/store/apps/details?id=com.trt.trtspor&hl=tr
+i[8 : new] https://canlitv.center/trt-spor-yildiz
+i[9 : new] https://tr.wikipedia.org/wiki/TRT_Spor
+i[10 : new] http://tr.wikipedia.org/wiki/TRT_1
+i
+i[ Murat Başaran ]
+i
+i[8 : new] https://www.last.fm/music/Murat+Ba%C5%9Faran
+i[9 : new] https://open.spotify.com/artist/4yN3WGIwkWg6kw7rF6Yh2M
+i[10 : new] https://www.deezer.com/us/artist/4368998
+i[11 : new] https://www.discogs.com/artist/1988427-Murat-Ba%C5%9Faran
+i[12 : new] https://www.discogs.com/artist/1988427-Murat-Ba%C5%9Faran?filter_anv=1&anv=M.+Ba%C5%A1aram
+i[13 : new] https://tr.wikipedia.org/wiki/Murat_Ba%C5%9Faran
+i[14 : new] http://tr.wikipedia.org/wiki/%C5%9Eahin_%C3%96zer
+i
+i[ Pınar Deniz ]
+i
+i[7 : new] https://www.turkishdrama.com/pinar-deniz.html
+i[8 : new] https://www.themoviedb.org/person/1935646-pinar-deniz?language=en-US
+i[10 : new] https://www.facebook.com/PinarDenizOfficial/
+i[11 : new] https://www.pinterest.com/pin/pnar-deniz-turkish-actress-and-model-ragga-love-vers--690950767811542875/
+i[12 : new] https://open.spotify.com/artist/77PcYQaqYz386A46ME4nC1
+i
+i[ Aboubakar ]
+i
+i[4 : new] https://www.transfermarkt.us/vincent-aboubakar/profil/spieler/147487
+i[6 : new] https://www.eurosport.com/football/vincent-aboubakar_prs237454/person.shtml
+i[7 : new] https://fbref.com/en/players/8637e09a/Vincent-Aboubakar
+i[8 : new] https://www.foxsports.com/soccer/vincent-aboubakar-player
+i[9 : new] https://us.soccerway.com/players/vincent-aboubakar/131021/
+i[11 : new] https://www.sportsmole.co.uk/people/vincent-aboubakar/
+i[12 : new] http://amp.sportsmole.co.uk/football/besiktas
+i
+i               Eastern Asia
+i        -------------------------
+i
+i                Hong Kong
+i              -------------
+i
+i
+i[ 金塊 對 熱火 ]
+i
+i[1 : new] https://tw.news.yahoo.com/nba-%E7%86%B1%E7%81%AB%E7%9C%BE%E5%B0%87%E5%9B%9E%E9%AD%82-%E4%B8%89%E5%88%86%E9%9B%A8%E9%80%86%E8%A5%B2-%E6%93%8A%E7%A0%B4%E9%87%91%E5%A1%8A%E4%B8%BB%E5%A0%B4-%E7%B3%BB%E5%88%97%E8%B3%BD1-024028578.html
+i[2 : new] https://www.sportsv.net/articles/103926
+i[3 : new] https://news.tvbs.com.tw/sports/2143222
+i[4 : new] https://udn.com/news/story/7002/7213106
+i[5 : new] https://udn.com/news/story/122629/7206566
+i[6 : new] https://tsna.com/article/73004
+i[7 : new] https://applealmond.com/posts/188231
+i[8 : new] https://tw.news.yahoo.com/nba-%E7%86%B1%E7%81%AB%E7%9C%BE%E5%B0%87%E5%9B%9E%E9%AD%82-%E4%B8%89%E5%88%86%E9%9B%A8%E9%80%86%E8%A5%B2-%E6%93%8A%E7%A0%B4%E9%87%91%E5%A1%8A%E4%B8%BB%E5%A0%B4-%E7%B3%BB%E5%88%97%E8%B3%BD1-024028578.html
+i[10 : new] https://www.nownews.com/news/6160649
+i
+i[ 蔡玉玲 ]
+i
+i[1 : new] https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20230605-%E4%BC%A0%E5%AA%92-%E6%9F%A5%E5%86%8C-%E7%BB%88%E6%9E%81%E8%83%9C%E8%AF%89-%E8%94%A1%E7%8E%89%E7%8E%B2-%E4%B8%8D%E5%B0%91%E6%B8%AF%E4%BA%BA%E4%B9%85%E8%BF%9D%E7%9A%84%E5%BC%80%E5%BF%83%E4%BA%8B-%E4%BF%9D%E8%B5%84%E8%AE%AF%E8%87%AA%E7%94%B1%E5%8F%AF%E4%BF%9D%E9%A6%99%E6%B8%AF%E5%8F%91%E5%B1%95
+i[3 : new] https://zh.wikipedia.org/wiki/%E8%94%A1%E7%8E%89%E7%8E%B2
+i[4 : new] https://zh.wikipedia.org/zh-hans/%E8%94%A1%E7%8E%89%E7%8E%B2
+i[5 : new] https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20230605/s00001/1685929827336/%E8%94%A1%E7%8E%89%E7%8E%B2%E6%9F%A5%E5%86%8A%E6%A1%88%E7%B5%82%E6%A5%B5%E4%B8%8A%E8%A8%B4%E5%BE%97%E7%9B%B4-%E6%92%A4%E9%8A%B7%E5%AE%9A%E7%BD%AA%E5%8F%8A%E5%88%A4%E7%BD%B0
+i[6 : new] https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/905167/%E8%94%A1%E7%8E%89%E7%8E%B2%E6%9F%A5%E5%86%8A%E6%A1%88-%E6%B3%95%E5%AE%98%E6%8C%87%E7%84%A1%E7%90%86%E7%94%B1%E5%B0%87%E7%9C%9F%E8%AA%A0%E8%AA%BF%E6%9F%A5%E6%8E%92%E9%99%A4%E5%9C%A8%E5%A4%96-%E7%B5%82%E6%A5%B5%E4%B8%8A%E8%A8%B4%E5%BE%97%E7%9B%B4
+i[7 : new] https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/904502/%E8%94%A1%E7%8E%89%E7%8E%B2%E6%8E%A1%E8%A8%AA%E6%9F%A5%E8%BB%8A%E7%89%8C%E8%A2%AB%E6%8C%87%E4%BD%9C%E8%99%9B%E5%81%87%E9%99%B3%E8%BF%B0-%E7%B5%82%E9%99%A2%E4%B8%8B%E5%91%A8%E4%B8%80%E9%A0%92%E4%B8%8B%E8%A3%81%E6%B1%BA
+i[8 : new] https://hk.on.cc/hk/bkn/cnt/news/20230605/bkn-20230605100459849-0605_00822_001.html
+i[9 : new] https://news.rthk.hk/rthk/ch/component/k2/1703527-20230605.htm
+i
+i[ WWDC ]
+i
+i[1 : new] https://developer.apple.com/wwdc23/
+i[2 : new] https://developer.apple.com/wwdc23/special-event/
+i[5 : new] https://www.macrumors.com/roundup/wwdc/
+i[6 : new] https://www.wired.com/story/apple-wwdc-2023-what-to-expect/
+i[7 : new] https://www.macworld.com/article/678333/wwdc-ios-macos-watchos-hardware-keynote.html
+i[8 : new] https://www.macworld.com/article/1939266/wwdc-2023-minute-by-minute-keynote-preview.html
+i[9 : new] https://arstechnica.com/gadgets/2023/06/liveblog-all-the-news-from-apples-wwdc-2023-keynote/
+i
+i[ 皇家馬德里 ]
+i
+i[3 : new] https://zh.wikipedia.org/wiki/%E7%9A%87%E5%AE%B6%E9%A9%AC%E5%BE%B7%E9%87%8C%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8
+i[4 : new] https://zh.wikipedia.org/wiki/%E4%BC%8A%E7%99%BB%C2%B7%E5%A4%8F%E8%96%A9%E7%89%B9
+i[5 : new] https://www.realmadrid.cn/
+i[6 : new] https://www.realmadrid.com/cs/Satellite?c=Page&cid=1389106063994&d=CK8YU7N7%27A%3D0&pagename=RealMadridResponsive%2FPage%2FRM_Home
+i[7 : new] https://baike.baidu.hk/item/%E7%9A%87%E5%AE%B6%E9%A6%AC%E5%BE%B7%E9%87%8C%E8%B6%B3%E7%90%83%E4%BF%B1%E6%A8%82%E9%83%A8/4606558
+i[8 : new] https://www.goal.com/zh-cn/%E7%90%83%E9%98%9F/%E7%9A%87%E5%AE%B6%E9%A9%AC%E5%BE%B7%E9%87%8C/%E8%B5%9B%E7%A8%8B-%E8%B5%9B%E6%9E%9C/3kq9cckrnlogidldtdie2fkbl
+i[9 : new] https://tw.sports.yahoo.com/soccer/teams/%E7%9A%87%E5%AE%B6%E9%A6%AC%E5%BE%B7%E9%87%8C/
+i[10 : new] https://www.jihai8.com/team/summary_82.html
+i[11 : new] https://www.welovewe.com/Data/Club/121
+i[12 : new] https://realmadridhkfc.org/about/realmadrid/
+i[13 : new] https://www.zhihu.com/topic/19604473
+i
+i[ 古巨基 ]
+i
+i[5 : new] https://zh.wikipedia.org/wiki/%E5%8F%A4%E5%B7%A8%E5%9F%BA
+i[6 : new] https://zh.wikipedia.org/zh-hans/%E5%8F%A4%E5%B7%A8%E5%9F%BA
+i[7 : new] http://zh.wikipedia.org/wiki/%E8%8B%B1%E5%B1%AC%E9%A6%99%E6%B8%AF
+i[8 : new] http://www.sohu.com/a/380817780_100099131
+i[9 : new] https://baike.baidu.com/item/%E5%8F%A4%E5%B7%A8%E5%9F%BA/239949
+i[12 : new] https://weibo.com/leokubi
+i[13 : new] https://www.facebook.com/leokufanpage/?locale=zh_CN
+i[14 : new] https://music.apple.com/us/artist/%E5%8F%A4%E5%B7%A8%E5%9F%BA/19346598?l=zh
+i[15 : new] https://www.kkbox.com/tw/tc/artist/TYVuxWJpHjUVwCsphT
+i
+i[ 楊丞琳 ]
+i
+i[1 : new] https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E4%B8%9E%E7%90%B3
+i[2 : new] http://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B
+i[7 : new] https://weibo.com/u/3511727907
+i[8 : new] https://www.mirrormedia.mg/story/20230604ent008/
+i[10 : new] https://baike.baidu.com/item/%E6%9D%A8%E4%B8%9E%E7%90%B3/299574
+i[13 : new] https://www.facebook.com/0604rainie/?locale=zh_TW
+i[14 : new] https://www.kkbox.com/tw/tc/artist/PX20oRGILmWjhcjoSy
+i[15 : new] https://tw.yahoo.com/trendr/%E6%A5%8A%E4%B8%9E%E7%90%B3%E4%BD%BF%E5%87%BA%E7%B5%95%E6%8A%80%E4%BA%BA%E9%AB%94%E5%A4%A7%E9%A2%A8%E8%BB%8A-%E7%B4%AF%E5%96%8A-%E6%BC%94%E5%94%B1%E6%9C%83%E5%B0%8F%E8%8F%9C-%E7%A2%9F-102304869.html
+i
+i[ 歐冠 ]
+i
+i[1 : new] https://zh.wikipedia.org/zh-hant/%E6%AC%A7%E6%B4%B2%E5%86%A0%E5%86%9B%E8%81%94%E8%B5%9B
+i[4 : new] https://sports.sohu.com/s/uefacl
+i[5 : new] https://sports.qq.com/ucl/
+i[6 : new] https://baike.baidu.com/item/%E6%AC%A7%E6%B4%B2%E5%86%A0%E5%86%9B%E8%81%94%E8%B5%9B/4256767
+i[7 : new] https://weibo.com/uefacn
+i[8 : new] https://sports.sina.cn/championsleague/
+i[9 : new] https://www.zhihu.com/topic/19587397
+i[10 : new] https://www.goal.com/zh-cn/%E6%AC%A7%E5%86%A0/%E8%B5%9B%E7%A8%8B-%E8%B5%9B%E6%9E%9C/4oogyu6o156iphvdvphwpck10
+i[11 : new] https://sports.cctv.com/championsleague/
+i[12 : new] https://www.sportsv.net/tags/%E6%AD%90%E5%86%A0
+i
+i[ 六四事件 ]
+i
+i[1 : new] https://zh.wikipedia.org/zh-hans/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6
+i[2 : new] https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20230604-%E8%8B%B1%E5%9B%BD%E4%BD%BF%E9%A6%86%E5%BE%AE%E5%8D%9A%E6%94%BE%E5%BD%93%E5%B9%B4-%E5%85%AD%E5%9B%9B-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%A4%B4%E7%89%88%E7%85%A7%E7%89%87
+i[3 : new] https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6
+i[4 : new] http://zh.wikipedia.org/wiki/%E8%83%A1%E8%80%80%E9%82%A6%E9%80%9D%E4%B8%96
+i[5 : new] https://www.voachinese.com/a/tiananmen-mothers-voice-out-for-truth-and-justice-prior-to-34th-anniversary-of-june-4th-incident-/7122168.html
+i[6 : new] https://www.voachinese.com/a/united-nations-alarmed-by-hong-kong-june-4-detentions-20230605/7123009.html
+i[8 : new] https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20230604-%E9%9D%A2%E5%AF%B9-%E5%85%AD%E5%9B%9B-%E5%8E%86%E5%8F%B2-%E4%B8%AD%E5%9B%BD%E4%BB%8D%E4%B8%8E%E4%B8%96%E7%95%8C%E8%84%B1%E9%92%A9
+i[9 : new] https://www.dw.com/zh/%E5%AE%A2%E5%BA%A7%E8%A9%95%E8%AB%96%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%82%BA%E7%94%9A%E9%BA%BC%E8%A6%81%E7%9F%A5%E9%81%93%E5%85%AD%E5%9B%9B/a-65818108
+i[10 : new] https://www.dw.com/zh/%E5%85%AD%E5%9B%9B34%E5%91%A8%E5%B9%B4%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2%E9%87%8D%E7%94%B3%E4%B8%89%E9%A1%B9%E8%AF%89%E6%B1%82/a-65820830
+i[11 : new] http://graphics.wsj.com/lists/TAM0530_CN
+i
+i[ 足球 ]
+i
+i[1 : new] https://zh.wikipedia.org/wiki/%E8%B6%B3%E7%90%83
+i[2 : new] https://zh.wikipedia.org/wiki/%E8%B6%B3%E7%90%83_(%E7%90%83)
+i[3 : new] https://www.sohu.com/a/682324076_362070?scm=1102.xchannel:1299:110036.0.1.0~9010.8000.0.0.6507&spm=smpc.channel_255.block8_113_dtFQbH_1_fd.1.1685962800010DA5oXoZ_1316
+i[4 : new] https://zh.wikipedia.org/zh-hans/%E8%B6%B3%E7%90%83
+i[5 : new] http://zh.wikipedia.org/wiki/%E8%B6%B3%E7%90%83%E5%A0%B4
+i[6 : new] https://soccer.hupu.com/
+i[7 : new] https://www.shutterstock.com/zh/search/%E8%B6%B3%E7%90%83
+i[8 : new] https://sports.163.com/world/
+i[10 : new] https://baike.baidu.com/item/%E8%B6%B3%E7%90%83/122380
+i[11 : new] https://www.goal.com/zh-cn
+i
+i[ 藍鯨 ]
+i
+i[3 : new] https://zh.wikipedia.org/zh-hant/%E8%93%9D%E9%B2%B8
+i[4 : new] https://baike.baidu.hk/item/%E8%97%8D%E9%AF%A8/85498
+i[5 : new] https://www.oca.gov.tw/ch/home.jsp?id=289&parentpath=0,5&mcustomize=ocamaritime_view.jsp&dataserno=202103120007
+i[7 : new] https://creation.com/%E8%93%9D%E9%B2%B8
+i[8 : new] https://www.shutterstock.com/zh-Hant/search/%E8%93%9D%E9%B2%B8
+i[9 : new] https://pansci.asia/archives/174976
+i[10 : new] http://www.cbcgdf.org/NewsShow/4854/22134.html
+i[11 : new] https://www.pinterest.com/as553697/%E8%97%8D%E9%AF%A8/
+i
+i[ 美孚 ]
+i
+i[1 : new] https://www.singtaousa.com/2023-06-02/%E7%BE%8E%E5%AD%9A%E6%96%B0%E9%82%A8%E7%94%B7%E5%AD%90%E6%8C%81%E9%9B%99%E5%88%80%E5%BE%98%E5%BE%8A-%E8%AD%A6%E6%8C%81%E6%A7%8D%E7%99%BB%E6%A8%93%E5%88%B6%E6%9C%8D%E5%B8%B6%E7%BD%B2/4514066
+i[3 : new] https://www.mobil.com.cn/zh-cn
+i[4 : new] https://www.mobil.com.cn/zh-cn/industrial/lubricants/categories/mobil-shc-synthetic-lubricants/products
+i[5 : new] https://zh.wikipedia.org/zh-hant/%E5%9F%83%E5%85%8B%E6%A3%AE%E7%BE%8E%E5%AD%9A
+i[6 : new] http://zh.wikipedia.org/wiki/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8
+i[7 : new] https://corporate.exxonmobil.com/
+i[8 : new] https://www.exxonmobilchemical.com.cn/zh-cn/
+i[9 : new] https://baike.baidu.com/item/%E5%9F%83%E5%85%8B%E6%A3%AE%E7%BE%8E%E5%AD%9A%E5%85%AC%E5%8F%B8/3476666
+i[10 : new] https://hk.news.yahoo.com/%E7%94%B7%E5%AD%90%E6%8C%81%E9%9B%99%E5%88%80%E5%BE%98%E5%BE%8A%E7%BE%8E%E5%AD%9A%E6%96%B0%E9%82%A8%E5%A4%A7%E5%BB%88%E8%B5%B0%E5%BB%8A-%E8%AD%A6%E5%93%A1%E6%8C%81%E6%A7%8D%E7%99%BB%E6%A8%93%E5%88%B6%E6%9C%8D-051617953.html
+i[11 : new] https://hk.news.yahoo.com/%E7%BE%8E%E5%AD%9A%E6%96%B0%E9%82%A8%E6%80%9D%E8%A6%BA%E5%A4%B1%E8%AA%BF%E7%94%B7%E7%A8%B1%E5%B1%8B%E5%A4%96%E5%82%B3%E7%95%B0%E9%9F%BF-%E6%8C%81%E9%9B%99%E5%88%80%E5%A4%A7%E5%BB%88%E8%B5%B0%E5%BB%8A%E5%BE%98%E5%BE%8A-035157871.html
+i[13 : new] http://stock.finance.sina.com.cn/usstock/quotes/xom.html
+i
+i                  Japan
+i              -------------
+i
+i
+i[ 棋聖戦 ]
+i
+i[1 : new] https://www.shogi.or.jp/kisen/kisei/
+i[2 : new] https://www.shogi.or.jp/match/kisei/94/hon.html
+i[3 : new] http://live.shogi.or.jp/kisei/
+i[5 : new] https://www3.nhk.or.jp/news/html/20230605/k10014090051000.html
+i[6 : new] https://ja.wikipedia.org/wiki/%E6%A3%8B%E8%81%96%E6%88%A6_(%E5%B0%86%E6%A3%8B)
+i[7 : new] https://www.sankei.com/tag/topic/life_3/
+i[8 : new] https://www.sankei.com/article/20230605-7FIM63N53ZJ7TB5L2WVBMMZG7M/
+i[9 : new] https://kisei.yomiuri.co.jp/
+i[10 : new] https://www.sanspo.com/article/20230605-O3TWJOGTYZCHJARFZ47DQ66VDU/
+i[11 : new] https://www.nikkansports.com/general/nikkan/news/202306050000319.html
+i
+i[ ベンゼマ ]
+i
+i[1 : new] https://news.yahoo.co.jp/articles/8041b4b1f82d14bc5ccbf8d2d6de0a58e5b70a50
+i[3 : new] https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%A0%E3%83%BB%E3%83%99%E3%83%B3%E3%82%BC%E3%83%9E
+i[4 : new] https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AC%E3%82%B9%E3%83%BB%E3%83%99%E3%82%A4%E3%83%AB
+i[5 : new] https://news.yahoo.co.jp/pickup/6465460
+i[7 : new] https://news.yahoo.co.jp/articles/e47ff56048e781f4da8ed0f02c666ca9f3cb138c
+i[8 : new] https://www.soccer-king.jp/news/world/esp/20230604/1773445.html
+i[9 : new] https://www.realmadrid.com/ja/football/squad/karim-benzema
+i[10 : new] https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/benzema-real-madrid-transfer-20230604/blt36f51800cfd638ef
+i[11 : new] https://www.goal.com/jp/%E9%81%B8%E6%89%8B/%E3%82%AB%E3%83%AA%E3%83%A0-%E3%83%99%E3%83%B3%E3%82%BC%E3%83%9E/c1mm3hdfcs78obhxmhailzidx
+i[12 : new] https://www.afpbb.com/articles/-/3466874
+i
+i[ 青森市長選挙 ]
+i
+i[1 : new] https://www3.nhk.or.jp/news/html/20230604/k10014089421000.html
+i[2 : new] https://www.nhk.or.jp/senkyo2/aomori/19999/skh54275.html
+i[3 : new] https://www.city.aomori.aomori.jp/senkyo-kanri/kengikai/050604tijisityou2.html
+i[4 : new] https://www.rab.co.jp/news/news108fnoeo2hp0xp66hsd.html
+i[5 : new] https://www.rab.co.jp/senkyo2023/aomorishi_0604.html
+i[6 : new] https://www.toonippo.co.jp/articles/-/1568978
+i[7 : new] https://newsdig.tbs.co.jp/articles/-/525310
+i[8 : new] https://news.yahoo.co.jp/articles/2e6645693761b5ba08247e9858deb26644b5bdf5
+i[9 : new] https://www.yomiuri.co.jp/election/20230604-OYT1T50116/
+i[10 : new] https://go2senkyo.com/local/senkyo/24563
+i
+i[ 安田記念 ]
+i
+i[1 : new] https://race.netkeiba.com/special/index.html?id=0062
+i[2 : new] https://ja.wikipedia.org/wiki/%E5%AE%89%E7%94%B0%E8%A8%98%E5%BF%B5
+i[3 : new] http://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E7%AB%B6%E9%A6%AC%E5%A0%B4
+i[5 : new] https://www.jra.go.jp/datafile/seiseki/g1/yasuda/index.html
+i[6 : new] https://www.jra.go.jp/datafile/seiseki/g1/yasuda/result/yasuda2023.html
+i[7 : new] https://news.yahoo.co.jp/articles/11e82541cb3958b30027638b19cb078f052162c4
+i[9 : new] https://news.yahoo.co.jp/articles/1c8f40aa3a06f94de903e4f4aabb965ddbac3159
+i[10 : new] https://www.keibalab.jp/db/race/202306040511/odds.html
+i[11 : new] https://umanity.jp/sp/racedata/graderace/0010/
+i
+i[ ガーシー ]
+i
+i[2 : new] https://ja.wikipedia.org/wiki/%E6%9D%B1%E8%B0%B7%E7%BE%A9%E5%92%8C
+i[3 : new] https://ja.wikipedia.org/wiki/%E9%98%AA%E5%8D%97%E5%A4%A7%E5%AD%A6
+i[6 : new] https://www3.nhk.or.jp/news/html/20230605/k10014090031000.html
+i[8 : new] https://news.yahoo.co.jp/articles/d23d04dd772b9ffcf36faf2162e5ef9abefc5f2d
+i[9 : new] https://news.yahoo.co.jp/articles/d2aae4b3d4dce1ef91369d04fd7e5205503ae2f4
+i[10 : new] https://www.nikkansports.com/general/nikkan/news/202306050000442.html
+i[12 : new] https://www.yomiuri.co.jp/national/20230604-OYT1T50137/
+i
+i[ クラフトビールとは ]
+i
+i[2 : new] https://www.fujizakura-beer.jp/craft-beer-difference/
+i[3 : new] https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%93%E3%83%BC%E3%83%AB
+i[4 : new] https://craftbeer-tokyo.info/about-craftbeer/
+i[5 : new] https://skywardplus.jal.co.jp/plus_one/other/craft_beer_recommend/
+i[6 : new] https://skywardplus.jal.co.jp/plus_one/other/craft_beer_recommend/#%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%93%E3%83%BC%E3%83%AB%E3%81%A8%E3%81%AF%EF%BC%9F
+i[7 : new] https://beergirl.net/what-is-craftbeer_c/
+i[8 : new] https://hitosara.com/season/drink/craftbeer2/
+i[9 : new] https://www.jbja.jp/archives/3522
+i[10 : new] https://mycraftbeers.com/about/about.html
+i[11 : new] https://otent-nankai.jp/category/topic/230509_craftbeer_908
+i
+i[ マンチェスターユナイテッド ]
+i
+i[1 : new] https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/manchester-united-jurrien-timber-202306042130/blt029d2e9832f65309
+i[4 : new] https://www.manutd.com/ja
+i[5 : new] https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89FC
+i[6 : new] http://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%83%86%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%95
+i[7 : new] https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/manchester-united-fred-202306042310/bltd42e7fe43b9cf474
+i[8 : new] https://soccer.yahoo.co.jp/ws/team/4080
+i[9 : new] https://manchesterutddaigaku.com/
+i[12 : new] https://www.transfermarkt.jp/manchester-united/startseite/verein/985
+i
+i[ 越谷市 ]
+i
+i[1 : new] https://maps.google.com/maps?hl=en&q=越谷市&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiu7-Svgqz_AhWAK1kFHcw9DnIQ_AUIBigB
+i[2 : new] https://www.city.koshigaya.saitama.jp/
+i[3 : new] https://www.city.koshigaya.saitama.jp/anzen_anshin/covid19/covid19_vaccine/index.html
+i[4 : new] https://ja.wikipedia.org/wiki/%E8%B6%8A%E8%B0%B7%E5%B8%82
+i[5 : new] http://ja.wikipedia.org/wiki/%E5%8D%97%E8%B6%8A%E8%B0%B7%E9%98%BF%E6%B3%A2%E8%B8%8A%E3%82%8A
+i[6 : new] https://www.koshigaya-sightseeing.jp/
+i[8 : new] https://www3.nhk.or.jp/lnews/saitama/20230604/1100016801.html
+i[9 : new] https://www.pref.saitama.lg.jp/bousai/mail/20230603_40.html
+i[10 : new] https://www.pref.saitama.lg.jp/theme/anzen/evacuation_site_open/22023060300863.html
+i[11 : new] https://news.yahoo.co.jp/articles/cf61414a695c87b4d946d59540d65aefa90a3d95
+i
+i[ 磐田市 ]
+i
+i[1 : new] https://maps.google.com/maps?hl=en&q=磐田市&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiuzbCwgqz_AhUFEFkFHepHAQ8Q_AUIBigB
+i[2 : new] https://www.city.iwata.shizuoka.jp/
+i[3 : new] https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/
+i[5 : new] https://ja.wikipedia.org/wiki/%E7%A3%90%E7%94%B0%E5%B8%82
+i[6 : new] https://ja.wikipedia.org/wiki/%E8%A2%8B%E4%BA%95%E5%B8%82
+i[7 : new] https://kanko-iwata.jp/
+i[8 : new] https://iju.pref.shizuoka.jp/390/iwata.html
+i[9 : new] https://www.sonicweb-asp.jp/iwata/
+i[10 : new] https://www.iwata-kaori.jp/
+i
+i[ 海街ダイアリー ]
+i
+i[3 : new] https://umimachi.gaga.ne.jp/
+i[4 : new] https://ja.wikipedia.org/wiki/%E6%B5%B7%E8%A1%97diary
+i[5 : new] http://ja.wikipedia.org/wiki/%E9%9D%92%E6%98%A5
+i[6 : new] https://ja.wikipedia.org/wiki/%E6%B5%B7%E8%A1%97diary_(%E6%98%A0%E7%94%BB)
+i[7 : new] https://movies.yahoo.co.jp/movie/349516/
+i[8 : new] https://flowers.shogakukan.co.jp/work/317/
+i[9 : new] https://filmarks.com/movies/58567
+i[10 : new] https://eiga.com/movie/80446/
+i[11 : new] https://www.amazon.co.jp/%E6%B5%B7%E8%A1%97diary-%E7%B6%BE%E7%80%AC%E3%81%AF%E3%82%8B%E3%81%8B/dp/B0193Z904E
+i[12 : new] https://www.fujitv.co.jp/b_hp/umimachi/
+i[13 : new] https://shogakukan-comic.jp/book-series?cd=19405
+i
+i[ FC東京 ]
+i
+i[1 : new] https://www.fctokyo.co.jp/
+i[2 : new] https://www.fctokyo.co.jp/players/
+i[3 : new] https://web.gekisaka.jp/news/jleague/detail/?385548-385548-fl
+i[6 : new] https://ja.wikipedia.org/wiki/FC%E6%9D%B1%E4%BA%AC
+i[7 : new] http://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0_(%E5%A4%9A%E7%9B%AE%E7%9A%84%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0)
+i[8 : new] https://www.jleague.jp/sp/club/ftokyo/day/
+i[9 : new] https://store.jleague.jp/club/ftokyo/
+i[10 : new] https://soccer.yahoo.co.jp/jleague/team/270
+i[11 : new] https://www.jleague-ticket.jp/club/to/
+i
+i               South Korea
+i              -------------
+i
+i
+i[ 현충일 ]
+i
+i[2 : new] https://ko.wikipedia.org/wiki/%ED%98%84%EC%B6%A9%EC%9D%BC
+i[3 : new] http://ko.wikipedia.org/wiki/%EC%98%81%EB%A0%B9_%EA%B8%B0%EB%85%90%EC%9D%BC
+i[4 : new] https://namu.wiki/w/%ED%98%84%EC%B6%A9%EC%9D%BC
+i[5 : new] https://www.mois.go.kr/html/taegeukgi/0606.html
+i[6 : new] https://overseas.mofa.go.kr/jp-osaka-ko/brd/m_20920/view.do?seq=1337022
+i[9 : new] https://www.korea.kr/news/policyNewsView.do?newsId=148816400
+i[10 : new] https://theme.archives.go.kr/next/anniversary/anniversary.do?anniversaryId=9840000000
+i[11 : new] https://www.khan.co.kr/politics/defense-diplomacy/article/202306051340001
+i[12 : new] https://encykorea.aks.ac.kr/Article/E0063445
+i
+i[ 신한은행 ]
+i
+i[1 : new] https://www.shinhan.com/
+i[2 : new] https://bank.shinhan.com/
+i[3 : new] http://www.shinhanbank.co.kr/
+i[4 : new] https://support.google.com/webmasters/answer/7489871?hl=en
+i[6 : new] https://namu.wiki/w/%EC%8B%A0%ED%95%9C%EC%9D%80%ED%96%89
+i[7 : new] https://play.google.com/store/apps/details?id=com.shinhan.sbanking&hl=en_US
+i[8 : new] https://apps.apple.com/jp/app/%EC%8B%A0%ED%95%9C-%EC%8F%A0-sol-%EC%8B%A0%ED%95%9C%EC%9D%80%ED%96%89-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%EB%B1%85%ED%82%B9/id357484932?l=en
+i[9 : new] http://www.s20.co.kr/
+i[11 : new] http://365hananet.koreadaily.com/yp/NY/9415
+i
+i[ 기업은행 ]
+i
+i[1 : new] https://www.ibk.co.kr/
+i[2 : new] https://support.google.com/webmasters/answer/7489871?hl=en
+i[3 : new] https://namu.wiki/w/%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89
+i[4 : new] https://www.facebook.com/IBK.bank.official/?locale=ko_KR
+i[5 : new] https://play.google.com/store/apps/details?id=com.ibkglobal.online.global&hl=ln
+i[6 : new] https://play.google.com/store/apps/details?id=com.ibkglobal.online.global&hl=ko&gl=US
+i[7 : new] https://bizbank.shinhan.com/
+i[8 : new] https://finance.naver.com/item/main.nhn?code=024110
+i[9 : new] https://www.kbstar.com/
+i
+i[ 김하성 ]
+i
+i[1 : new] https://namu.wiki/w/%EA%B9%80%ED%95%98%EC%84%B1
+i[2 : new] https://namu.wiki/w/%EA%B9%80%ED%95%98%EC%84%B1/%EC%84%A0%EC%88%98%20%EA%B2%BD%EB%A0%A5
+i[4 : new] https://imnews.imbc.com/replay/2023/nwdesk/article/6490335_36199.html
+i[5 : new] https://namu.wiki/w/%EA%B9%80%ED%95%98%EC%84%B1/%EC%84%A0%EC%88%98%20%EA%B2%BD%EB%A0%A5
+i[6 : new] https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%98%EC%84%B1
+i[7 : new] http://ko.wikipedia.org/wiki/2014%EB%85%84
+i[11 : new] https://sports.daum.net/player/mlb/1660680/record
+i[13 : new] https://news.koreadaily.com/2023/06/04/sports/mlb/20230604133117233.html
+i
+i[ 중국 ]
+i
+i[2 : new] https://namu.wiki/w/%EC%A4%91%EA%B5%AD
+i[3 : new] https://namu.wiki/w/%EC%A4%91%EA%B5%AD/%EB%AC%B8%ED%99%94
+i[5 : new] https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AD
+i[6 : new] http://ko.wikipedia.org/wiki/%EC%A4%91%ED%99%94%EC%9D%B8%EB%AF%BC%EA%B3%B5%ED%99%94%EA%B5%AD
+i[7 : new] https://ko.wikipedia.org/wiki/%EC%A4%91%ED%99%94%EC%9D%B8%EB%AF%BC%EA%B3%B5%ED%99%94%EA%B5%AD
+i[8 : new] https://www.mofa.go.kr/www/nation/m_3458/view.do?seq=4&titleNm=%EA%B5%AD%EA%B0%80%EC%A0%95%EB%B3%B4(%EC%A4%91%EA%B5%AD)
+i[9 : new] https://ko.bab.la/%EC%82%AC%EC%A0%84/%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%98%81%EC%96%B4/%EC%A4%91%EA%B5%AD
+i
+i[ 축구 ]
+i
+i[1 : new] https://www.hani.co.kr/arti/sports/soccer/1094602.html
+i[2 : new] https://sports.daum.net/soccer/
+i[3 : new] https://m.khan.co.kr/article/202306050551001
+i[4 : new] https://namu.wiki/w/%EC%B6%95%EA%B5%AC
+i[5 : new] http://namu.wiki/w/%EC%9C%A0%EB%8B%88%EC%96%B8+%EC%9E%AD
+i[6 : new] https://ko.wikipedia.org/wiki/%EC%B6%95%EA%B5%AC
+i[7 : new] https://www.nocutnews.co.kr/news/5953916
+i
+i[ 부산 돌려차기 가해자 신상 ]
+i
+i[2 : new] https://www.hani.co.kr/arti/society/society_general/1094663.html
+i[6 : new] https://www.seoul.co.kr/news/newsView.php?id=20230605500043
+i[7 : new] http://news.kmib.co.kr/article/view.asp?arcid=0018330157&code=61121211&sid1=eve
+i[8 : new] https://www.nocutnews.co.kr/news/5954287
+i[9 : new] https://www.hankookilbo.com/News/Read/A2023060507090002594
+i[10 : new] http://www.ikbc.co.kr/article/view/kbc202306050013
+i[11 : new] https://www.gukjenews.com/news/articleView.html?idxno=2734795
+i
+i[ 맨시티 ]
+i
+i[1 : new] https://namu.wiki/w/%EB%A7%A8%EC%B2%B4%EC%8A%A4%ED%84%B0%20%EC%8B%9C%ED%8B%B0%20FC
+i[2 : new] https://namu.wiki/w/%EB%A7%A8%EC%B2%B4%EC%8A%A4%ED%84%B0%20%EC%8B%9C%ED%8B%B0%20FC/2022-23%20%EC%8B%9C%EC%A6%8C
+i[3 : new] https://sports.news.nate.com/view/20230604n09346
+i[6 : new] https://kr.mancity.com/
+i[9 : new] https://sports.daum.net/team/EPL/258
+i[10 : new] https://ko.wikipedia.org/wiki/%EB%A7%A8%EC%B2%B4%EC%8A%A4%ED%84%B0_%EC%8B%9C%ED%8B%B0_FC
+i[11 : new] http://ko.wikipedia.org/wiki/%ED%94%84%EB%A6%AC%EB%AF%B8%EC%96%B4%EB%A6%AC%EA%B7%B8
+i
+i[ 디아블로 ]
+i
+i[2 : new] https://diablo4.blizzard.com/ko-kr/
+i[3 : new] https://diablo2.blizzard.com/ko-kr/
+i[7 : new] https://namu.wiki/w/%EB%94%94%EC%95%84%EB%B8%94%EB%A1%9C
+i[8 : new] https://namu.wiki/w/%EB%94%94%EC%95%84%EB%B8%94%EB%A1%9C%204
+i[9 : new] https://namu.wiki/w/%EB%94%94%EC%95%84%EB%B8%94%EB%A1%9C%20%EC%8B%9C%EB%A6%AC%EC%A6%88
+i[10 : new] https://news.blizzard.com/en-us/diablo4/23964909/diablo-iv-patch-notes
+i[11 : new] https://play.google.com/store/apps/details?id=com.blizzard.diablo.immortal&hl=ko&gl=US
+i[12 : new] https://kr.shop.battle.net/ko-kr/product/diablo-iv
+i[14 : new] https://kr.shop.battle.net/ko-kr/family/diablo-iv
+i[15 : new] https://www.playstation.com/ko-kr/games/diablo-iv/
+i
+i[ 김민재 ]
+i
+i[1 : new] https://namu.wiki/w/%EA%B9%80%EB%AF%BC%EC%9E%AC
+i[2 : new] https://namu.wiki/w/%EA%B9%80%EB%AF%BC%EC%9E%AC/%ED%81%B4%EB%9F%BD%20%EA%B2%BD%EB%A0%A5
+i[4 : new] https://www.donga.com/news/Sports/article/all/20230605/119620039/1
+i[5 : new] https://namu.wiki/w/%EA%B9%80%EB%AF%BC%EC%9E%AC(1979)
+i[8 : new] https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AF%BC%EC%9E%AC_(%EC%B6%95%EA%B5%AC_%EC%84%A0%EC%88%98)
+i[10 : new] http://www.fourfourtwo.co.kr/news/articleView.html?idxno=35102
+i
+i[ 박재범 ]
+i
+i[1 : new] https://namu.wiki/w/%EB%B0%95%EC%9E%AC%EB%B2%94
+i[2 : new] https://namu.wiki/w/%EB%B0%95%EC%9E%AC%EB%B2%94(%EB%8F%99%EB%AA%85%EC%9D%B4%EC%9D%B8)
+i[5 : new] https://ko.wikipedia.org/wiki/%EB%B0%95%EC%9E%AC%EB%B2%94
+i[6 : new] https://ko.wikipedia.org/wiki/%EB%B0%95%EC%9E%AC%EB%B2%94#2012:_New_Breed
+i[13 : new] https://m2.melon.com/artist/song.htm?artistId=443420
+i[14 : new] https://www.lingq.com/en/learn-korean-online/translate/ko/%EB%B0%95%EC%9E%AC%EB%B2%94/
+i
+i                 Taiwan
+i              -------------
+i
+i
+i[ 新光金 ]
+i
+i[1 : new] https://tw.stock.yahoo.com/quote/2888.TW
+i[2 : new] https://tw.stock.yahoo.com/quote/2888.TW/technical-analysis
+i[3 : new] https://tw.stock.yahoo.com/news/%E6%96%B0%E5%85%89%E9%87%91%E9%A3%867%E3%80%8C%E6%8A%BC%E5%AF%B6%E8%A1%8C%E6%83%85%E3%80%8D%EF%BC%9F%E9%96%8B%E7%9B%A4%E7%88%86%E5%B7%A8%E9%87%8F-%E5%88%86%E6%9E%90%E5%B8%AB%E9%80%99%E9%BA%BC%E7%9C%8B-015056133.html
+i[4 : new] https://www.cmoney.tw/forum/stock/2888
+i[5 : new] https://www.skfh.com.tw/
+i[6 : new] https://money.udn.com/money/story/5607/7212952
+i[7 : new] https://udn.com/news/story/7239/7212675
+i[8 : new] https://pchome.megatime.com.tw/stock/sid2888.html
+i[9 : new] https://goodinfo.tw/tw/StockDetail.asp?STOCK_ID=2888
+i[10 : new] https://www.cw.com.tw/article/5126051
+i
+i[ 華晨宇 ]
+i
+i[4 : new] https://www.worldjournal.com/wj/story/121233/7211618
+i[5 : new] https://zh.wikipedia.org/zh-hant/%E5%8D%8E%E6%99%A8%E5%AE%87
+i[6 : new] https://weibo.com/u/1624923463
+i[7 : new] https://baike.baidu.hk/item/%E8%8F%AF%E6%99%A8%E5%AE%87/6064097
+i[10 : new] https://tw.news.yahoo.com/%E4%BA%94%E6%9C%88%E5%A4%A9-%E8%8F%AF%E6%99%A8%E5%AE%87%E7%B2%89%E7%B5%B2%E9%96%8B%E6%88%B0-%E5%A5%B9%E6%80%92%E6%89%B9-%E4%B8%8D%E6%98%AF%E8%8A%B1%E9%8C%A2%E5%8E%BB%E7%9C%8B%E8%A8%8E%E5%8E%AD%E7%9A%84%E4%BA%BA-%E7%AB%9F%E9%87%A3%E7%91%AA%E8%8E%8E%E5%9B%9E%E6%87%89-061048432.html
+i[11 : new] https://www.chinatimes.com/realtimenews/20230604001213-260404
+i[12 : new] https://www.zhihu.com/topic/19875289
+i[13 : new] https://tw.nextapple.com/entertainment/20230604/92A18D54A8651D67B3E6F7571C0CA7DA
+i
+i[ 北投牛肉麵 ]
+i
+i[1 : new] https://maps.google.com/maps?hl=en&q=北投牛肉麵&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjKwbO7gqz_AhVAD1kFHZ-sAygQ_AUIBigB
+i[2 : new] https://news.tvbs.com.tw/life/2143057
+i[3 : new] https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%8C%97%E6%8A%95%E7%89%9B%E8%82%89%E9%BA%B5%E5%BA%97%E7%88%86%E6%8A%B9%E5%B8%83%E6%B0%B4%E7%85%AE%E9%BA%B5-%E6%80%A5%E6%9A%AB%E5%81%9C%E7%87%9F%E6%A5%AD-%E6%98%8E%E9%96%8B%E8%A8%98%E8%80%85%E6%9C%83-021129358.html
+i[4 : new] https://tw.news.yahoo.com/%E5%8C%97%E6%8A%95%E7%9F%A5%E5%90%8D%E7%89%9B%E8%82%89%E9%BA%B5-%E6%8A%B9%E5%B8%83%E6%B0%B4%E7%85%AE%E9%BA%B5-%E8%80%81%E9%97%86%E6%98%8E%E9%96%8B%E8%A8%98%E8%80%85%E6%9C%83-%E6%9C%89%E9%8C%AF%E6%9C%83%E9%81%93%E6%AD%89-%E9%A0%82%E5%A4%9A%E7%9F%B3%E7%89%8C%E5%BA%97%E4%B8%8D%E9%96%8B-054355859.html
+i[5 : new] https://ifoodie.tw/explore/%E5%8F%B0%E5%8C%97%E5%B8%82/list/%E5%8C%97%E6%8A%95%E7%89%9B%E8%82%89%E9%BA%B5
+i[6 : new] https://www.businesstoday.com.tw/article/category/183027/post/202306050008/
+i[7 : new] https://news.ltn.com.tw/news/life/breakingnews/4323633
+i[8 : new] https://tw.nextapple.com/life/20230605/AB41625B22197C939301016680FD703C
+i[9 : new] https://www.storm.mg/lifestyle/4801945
+i
+i[ 何志偉 ]
+i
+i[1 : new] https://zh.wikipedia.org/zh-hant/%E4%BD%95%E5%BF%97%E5%81%89
+i[3 : new] https://tw.news.yahoo.com/%E5%9C%A8%E6%89%8B%E8%87%82%E5%AF%AB%E9%9B%BB%E8%A9%B1%E8%99%9F%E7%A2%BC-%E8%A8%98%E5%BE%97%E4%BE%86%E6%89%BE%E6%88%91-%E4%BD%95%E5%BF%97%E5%81%89%E7%99%BC54%E5%AD%97%E9%81%93%E6%AD%89%E6%96%87%E6%BB%85%E7%81%AB-031013149.html
+i[6 : new] https://www.facebook.com/newdaytaipeiho/
+i[7 : new] https://tw.nextapple.com/politics/20230605/6D4DB26A0A907CC1D747D106E399D7D9
+i[9 : new] https://www.ly.gov.tw/Pages/List.aspx?nodeid=37267
+i[10 : new] https://dpptaipei.org.tw/publicservans/ho-chih-wei/
+i[11 : new] https://www.mirrormedia.mg/story/20230605edi001/
+i
+i[ 曾柏文 ]
+i
+i
+i[ 六四天安門 ]
+i
+i
+i[ 蕭敬騰 ]
+i
+i
+i[ 總統府資政 ]
+i
+i
+i[ SOMI ]
+i
+i
+i[ 陳昇 ]
+i
+i
+i                South Asia
+i        -------------------------
+i
+i                  India
+i              -------------
+i
+i
+i[ Yogi Adityanath ]
+i
+i
+i[ Celta Vigo vs Barcelona ]
+i
+i
+i[ World Environment Day ]
+i
+i
+i[ Sri Lanka vs Afghanistan ]
+i
+i
+i[ UAE vs West Indies ]
+i
+i
+i[ PSG vs Clermont Foot ]
+i
+i
+i[ JEE Advanced 2023 ]
+i
+i
+i[ Ruturaj Gaikwad ]
+i
+i
+i[ News today ]
+i
+i
+i[ Lionel Messi PSG ]
+i
+i
+i[ Novak Djokovic ]
+i
+i
+i              Southeast Asia
+i        -------------------------
+i
+i                Indonesia
+i              -------------
+i
+i
+i[ Ibrahimovic ]
+i
+i
+i[ Udinese vs Juventus ]
+i
+i
+i[ Villarreal vs Atlético Madrid ]
+i
+i
+i[ Milan vs Verona ]
+i
+i
+i[ Tawuran Jogja ]
+i
+i
+i[ Madrid vs Bilbao ]
+i
+i
+i[ Ucapan Waisak 2023 ]
+i
+i
+i[ Hasil Piala Dunia U-20 ]
+i
+i
+i[ Leipzig vs Eintracht Frankfurt ]
+i
+i
+i[ Hari Raya Waisak 2023 ]
+i
+i
+i[ Empoli vs Lazio ]
+i
+i
+i                 Malaysia
+i              -------------
+i
+i
+i[ Celta Vigo vs Barcelona ]
+i
+i
+i[ Zlatan ]
+i
+i
+i[ AC Milan ]
+i
+i
+i[ Milan vs Verona ]
+i
+i
+i[ Napoli vs Sampdoria ]
+i
+i
+i[ Man City vs Man United ]
+i
+i
+i[ Champions League ]
+i
+i
+i[ Torino vs Inter ]
+i
+i
+i[ PSG vs Clermont Foot ]
+i
+i
+i[ Odisha train accident ]
+i
+i
+i[ Wembley Stadium ]
+i
+i
+i               Philippines
+i              -------------
+i
+i
+i[ Jimmy Butler ]
+i
+i
+i[ Test ]
+i
+i
+i[ Demon Slayer Season 3 Episode 9 ]
+i
+i
+i[ Matty Healy ]
+i
+i
+i[ China ]
+i
+i
+i[ Toni Gonzaga ]
+i
+i
+i[ UFC ]
+i
+i
+i[ India train crash ]
+i
+i
+i[ Rafael Nadal ]
+i
+i
+i[ Holy Trinity ]
+i
+i
+i[ Compromise ]
+i
+i
+i                Singapore
+i              -------------
+i
+i
+i[ Zlatan ]
+i
+i
+i[ WWDC ]
+i
+i
+i[ The Idol ]
+i
+i
+i[ Real Madrid vs Athletic Club ]
+i
+i
+i[ UAE vs West Indies ]
+i
+i
+i[ Spanish gp ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ Champions League Final ]
+i
+i
+i[ Champions League final ]
+i
+i
+i[ Eden Hazard ]
+i
+i
+i[ Haaland ]
+i
+i
+i                Thailand
+i              -------------
+i
+i
+i[ ชัชชาติ ]
+i
+i
+i[ วอลเลย์บอล ]
+i
+i
+i[ Pride Month 2023 ]
+i
+i
+i[ ปุยเมฆ นภสร ]
+i
+i
+i[ Pride ]
+i
+i
+i[ จีน ]
+i
+i
+i[ วันกอดแมวสากล ]
+i
+i
+i[ แมนซิตี พบแมนยู ]
+i
+i
+i[ วันวิสาขบูชาคือ ]
+i
+i
+i[ สายสีเหลือง ]
+i
+i
+i[ นุ๊ก-สุทธิดา ]
+i
+i
+i                 Vietnam
+i              -------------
+i
+i
+i[ The Idol ]
+i
+i
+i[ Ibrahimovic ]
+i
+i
+i[ Bảng xếp hạng v.league ]
+i
+i
+i[ Hải Phòng – Hoàng Anh Gia Lai ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ Trấn Thành ]
+i
+i
+i[ V-League 2023 ]
+i
+i
+i[ Champions League ]
+i
+i
+i[ Torino – Inter ]
+i
+i
+i[ Hồ Ngọc Hà ]
+i
+i
+i[ Lazio ]
+i
+i
+i             Northern Europe
+i        -------------------------
+i
+i                 Denmark
+i              -------------
+i
+i
+i[ Zlatan Ibrahimovic ]
+i
+i
+i[ Denmark Constitution Day ]
+i
+i
+i[ Real Madrid ]
+i
+i
+i[ Tour de France 2023 ]
+i
+i
+i[ Criterium du Dauphine ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ Holger Rune ]
+i
+i
+i[ DFB Pokal ]
+i
+i
+i[ Rune ]
+i
+i
+i[ Wu Tang Clan ]
+i
+i
+i[ FA Cup finale 2023 ]
+i
+i
+i                 Finland
+i              -------------
+i
+i
+i[ The Idol ]
+i
+i
+i[ Lewis Hamilton ]
+i
+i
+i[ Belgorod ]
+i
+i
+i[ Sardinia ]
+i
+i
+i[ Elton John ]
+i
+i
+i[ Vegas Golden Knights ]
+i
+i
+i[ It follows ]
+i
+i
+i[ Noor Alfallah ]
+i
+i
+i[ Bruce Willis ]
+i
+i
+i[ James Bond ]
+i
+i
+i[ Daniel Craig ]
+i
+i
+i                 Ireland
+i              -------------
+i
+i
+i[ Ennui ]
+i
+i
+i[ The Idol ]
+i
+i
+i[ Britain Got Talent finalists ]
+i
+i
+i[ Bruno Tonioli ]
+i
+i
+i[ Viktor Hovland ]
+i
+i
+i[ Real Madrid vs Athletic Club ]
+i
+i
+i[ DP World Tour ]
+i
+i
+i[ Roy Keane ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ Bournemouth beach deaths ]
+i
+i
+i[ Rafael Nadal ]
+i
+i
+i                  Sweden
+i              -------------
+i
+i
+i[ PGA Tour ]
+i
+i
+i[ Jack Nicklaus ]
+i
+i
+i[ Explosion Västerås ]
+i
+i
+i[ Zlatan ]
+i
+i
+i[ Hammarby ]
+i
+i
+i[ AIK-Kalmar ]
+i
+i
+i[ Viktor Frisk ]
+i
+i
+i[ Tom Cruise ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ Matilda Djerf ]
+i
+i
+i[ Patti Smith ]
+i
+i
+i              United Kingdom
+i              -------------
+i
+i
+i[ FTSE 100 ]
+i
+i
+i[ The Idol ]
+i
+i
+i[ Arbor ]
+i
+i
+i[ Britain's Got Talent ]
+i
+i
+i[ Celtic ]
+i
+i
+i[ Ross County ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ Marcus Rashford ]
+i
+i
+i[ RB Leipzig ]
+i
+i
+i[ BGT final ]
+i
+i
+i[ Celtic vs Inverness CT ]
+i
+i
+i              Western Europe
+i        -------------------------
+i
+i                 Austria
+i              -------------
+i
+i
+i[ Peter Simonischek ]
+i
+i
+i[ Novak Djokovic ]
+i
+i
+i[ Ibrahimovic ]
+i
+i
+i[ Galatasaray ]
+i
+i
+i[ Unfall Ironman Hamburg ]
+i
+i
+i[ Michael Douglas ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ Eden Hazard ]
+i
+i
+i[ Ironman Hamburg ]
+i
+i
+i[ Besiktas ]
+i
+i
+i[ Marie Antoinette ]
+i
+i
+i                 Belgium
+i              -------------
+i
+i
+i[ Radio 1 ]
+i
+i
+i[ Kim Clijsters ]
+i
+i
+i[ Zlatan ]
+i
+i
+i[ American Gangster ]
+i
+i
+i[ Pavlyuchenkova ]
+i
+i
+i[ Union Saint-Gilloise – Club brugge ]
+i
+i
+i[ Alcaraz ]
+i
+i
+i[ Championnat belge ]
+i
+i
+i[ Messi ]
+i
+i
+i[ Shari Bossuyt ]
+i
+i
+i[ David Guetta ]
+i
+i
+i                  France
+i              -------------
+i
+i
+i[ Yannick Noah ]
+i
+i
+i[ Zlatan ]
+i
+i
+i[ Real Madrid – Ath Bilbao ]
+i
+i
+i[ Tsitsipas ]
+i
+i
+i[ Nagelsmann ]
+i
+i
+i[ Svitolina ]
+i
+i
+i[ Fête des mères ]
+i
+i
+i[ Pavlyuchenkova ]
+i
+i
+i[ David Guetta ]
+i
+i
+i[ The Voice ]
+i
+i
+i[ Eden Hazard ]
+i
+i
+i                 Germany
+i              -------------
+i
+i
+i[ DAX ]
+i
+i
+i[ Tatort ]
+i
+i
+i[ Ironman Hamburg ]
+i
+i
+i[ Real Madrid ]
+i
+i
+i[ Zverev ]
+i
+i
+i[ Galatasaray ]
+i
+i
+i[ Immer wieder sonntags ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ Triathlon Hamburg Ironman Unfall ]
+i
+i
+i[ Ironman Hamburg Unfall ]
+i
+i
+i[ Lionel Messi ]
+i
+i
+i               Netherlands
+i              -------------
+i
+i
+i[ Mark van Bommel ]
+i
+i
+i[ Twente Heerenveen ]
+i
+i
+i[ Harry Styles ]
+i
+i
+i[ Peter Bosz ]
+i
+i
+i[ Sparta ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ FBK Games ]
+i
+i
+i[ Ter Apel ]
+i
+i
+i[ Manchester City ]
+i
+i
+i[ Champions League-finale ]
+i
+i
+i[ Almere City ]
+i
+i
+i               Switzerland
+i              -------------
+i
+i
+i[ Outlook ]
+i
+i
+i[ SMI ]
+i
+i
+i[ Teams ]
+i
+i
+i[ Otto Waalkes ]
+i
+i
+i[ Lionel Messi PSG ]
+i
+i
+i[ Belgorod ]
+i
+i
+i[ Ironman Hamburg ]
+i
+i
+i[ Musetti ]
+i
+i
+i[ Unfall Ironman Hamburg ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ David Guetta ]
+i
+i
+i              Eastern Europe
+i        -------------------------
+i
+i                 Czechia
+i              -------------
+i
+i
+i[ Andrej Babiš ]
+i
+i
+i[ AC Milán – Verona ]
+i
+i
+i[ Udinese – Juventus ]
+i
+i
+i[ Terminator ]
+i
+i
+i[ Pardubice – Příbram ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ Vyškov – Zlín ]
+i
+i
+i[ Jahodový úplněk ]
+i
+i
+i[ Lionel Messi ]
+i
+i
+i[ František Nedvěd ]
+i
+i
+i[ FA Cup ]
+i
+i
+i                 Hungary
+i              -------------
+i
+i
+i[ K&H ]
+i
+i
+i[ Zlatan ]
+i
+i
+i[ Jumanji ]
+i
+i
+i[ Ibrahimovic ]
+i
+i
+i[ Trianon ]
+i
+i
+i[ Real madrid–bilbao ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ Empoli–Lazio ]
+i
+i
+i[ Nógrádi György ]
+i
+i
+i[ Manchester city–man utd ]
+i
+i
+i[ Torino–inter ]
+i
+i
+i                  Poland
+i              -------------
+i
+i
+i[ Niezalezna.pl ]
+i
+i
+i[ Niezalezna.PL ]
+i
+i
+i[ Zlatan Ibrahimović ]
+i
+i
+i[ Celta – FC Barcelona ]
+i
+i
+i[ KSW Colosseum 2 ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ Arka Gdynia ]
+i
+i
+i[ Paweł Pawlak ]
+i
+i
+i[ KSW 83 wyniki ]
+i
+i
+i[ Marian Ziółkowski ]
+i
+i
+i[ Michał Żebrowski ]
+i
+i
+i                 Romania
+i              -------------
+i
+i
+i[ Alcaraz ]
+i
+i
+i[ AS Roma ]
+i
+i
+i[ UTA Arad ]
+i
+i
+i[ Sabalenka ]
+i
+i
+i[ 4 iunie ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ Parma Cagliari ]
+i
+i
+i[ RB Leipzig ]
+i
+i
+i[ Zverev ]
+i
+i
+i[ Pogorarea sfantului Duh ]
+i
+i
+i[ Dinamo ]
+i
+i
+i                 Ukraine
+i              -------------
+i
+i
+i[ Ибрагимович ]
+i
+i
+i[ Гладков ]
+i
+i
+i[ Троица ]
+i
+i
+i[ Зі святом Святої Трійці ]
+i
+i
+i[ Металлист 1925 – Динамо Киев ]
+i
+i
+i[ Новая Таволжанка ]
+i
+i
+i[ Ту-95 ]
+i
+i
+i[ Кропивницький ]
+i
+i
+i[ Вітання з трійцею ]
+i
+i
+i[ Цой ]
+i
+i
+i[ Манчестер Сити – Манчестер Юнайтед ]
+i
+i
+i             Southern Europe
+i        -------------------------
+i
+i                  Greece
+i              -------------
+i
+i
+i[ Αμβρακικοσ ]
+i
+i
+i[ Zlatan ]
+i
+i
+i[ ERT ]
+i
+i
+i[ Μαίρη Συνατσάκη ]
+i
+i
+i[ Γιάννης Παπαμιχαήλ ]
+i
+i
+i[ Κοινωνικός τουρισμός ]
+i
+i
+i[ Καλομοιρα ]
+i
+i
+i[ City ]
+i
+i
+i[ Μητσοτακησ ]
+i
+i
+i[ FA Cup ]
+i
+i
+i                  Italy
+i              -------------
+i
+i
+i[ Btp Valore ]
+i
+i
+i[ Abraham ]
+i
+i
+i[ Noa ]
+i
+i
+i[ Roma Spezia ]
+i
+i
+i[ Milan-Verona ]
+i
+i
+i[ Sonego ]
+i
+i
+i[ Massimo Modugno ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ Danilo Rea ]
+i
+i
+i[ Osimo ]
+i
+i
+i[ Cremonese-Salernitana ]
+i
+i
+i                 Portugal
+i              -------------
+i
+i
+i[ Greve comboios ]
+i
+i
+i[ Certificados de aforro bancos ]
+i
+i
+i[ Certificados de Aforro bancos ]
+i
+i
+i[ Galatasaray ]
+i
+i
+i[ Real Madrid Ath Bilbao ]
+i
+i
+i[ RTP ]
+i
+i
+i[ Corinthians ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ Joao felix ]
+i
+i
+i[ Ugarte ]
+i
+i
+i[ América-MG x Corinthians ]
+i
+i
+i                  Spain
+i              -------------
+i
+i
+i[ Conference League ]
+i
+i
+i[ Ibrahimovic ]
+i
+i
+i[ Valladolid ]
+i
+i
+i[ Celta de Vigo Barcelona ]
+i
+i
+i[ Kane ]
+i
+i
+i[ Real Sociedad Sevilla ]
+i
+i
+i[ GP España ]
+i
+i
+i[ Mundial Sub-20 ]
+i
+i
+i[ Mundial Sub 20 ]
+i
+i
+i[ Julio Iglesias ]
+i
+i
+i[ Italia ]
+i
+i
+i                Australia
+i        -------------------------
+i
+i                Australia
+i            -----------------
+i
+i
+i[ Matt Shirvington ]
+i
+i
+i[ Foo Fighters ]
+i
+i
+i[ Jock Zonfrillo ]
+i
+i
+i[ UFC ]
+i
+i
+i[ Dylan Brown news ]
+i
+i
+i[ Parramatta Eels ]
+i
+i
+i[ Champions League final ]
+i
+i
+i[ PSG vs Clermont Foot ]
+i
+i
+i[ Britain Got Talent ]
+i
+i
+i[ Scottish Cup ]
+i
+i
+i[ FA Cup ]
+i
+i
+i               New Zealand
+i            -----------------
+i
+i
+i[ Foo Fighters nz ]
+i
+i
+i[ Nuggets vs Heat ]
+i
+i
+i[ Foo Fighters ]
+i
+i
+i[ India train crash ]
+i
+i
+i[ King's Birthday Honours NZ 2023 ]
+i
+i
+i[ The boss ]
+i
+i
+i[ Rangitoto College ]
+i
+i
+i[ Moana Pasifika ]
+i
+i
+i[ Jordan Peterson ]
+i
+i
+i[ President Joe Biden ]
+i
+i
+i[ FA Cup ]
+i
+i
+i             Northern Africa
+i        -------------------------
+i
+i                   Egypt
+i            -----------------
+i
+i
+i[ حسن يوسف ]
+i
+i
+i[ لبنان ]
+i
+i
+i[ ريال مدريد ]
+i
+i
+i[ مسجد الظاهر بيبرس ]
+i
+i
+i[ رياضة ]
+i
+i
+i[ بنزيما ]
+i
+i
+i[ اوكرانيا ]
+i
+i
+i[ هاكان فيدان ]
+i
+i
+i[ سوريا ]
+i
+i
+i[ مانشستر سيتي ]
+i
+i
+i[ هازارد ]
+i
+i
+i              Western Africa
+i        -------------------------
+i
+i                 Nigeria
+i            -----------------
+i
+i
+i[ Roma ]
+i
+i
+i[ Zlatan Ibrahimovic ]
+i
+i
+i[ Under 20 World Cup result ]
+i
+i
+i[ Real Madrid vs Athletic Club ]
+i
+i
+i[ Napoli vs Sampdoria ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ Karim Benzema ]
+i
+i
+i[ Rashford ]
+i
+i
+i[ Kogi News ]
+i
+i
+i[ Ferrari ]
+i
+i
+i[ PSG vs Clermont Foot ]
+i
+i
+i              Eastern Africa
+i        -------------------------
+i
+i                   Kenya
+i            -----------------
+i
+i
+i[ Zlatan ]
+i
+i
+i[ Roma ]
+i
+i
+i[ World Environment Day ]
+i
+i
+i[ Celta Vigo vs Barcelona ]
+i
+i
+i[ Manuel Ugarte ]
+i
+i
+i[ Real Madrid vs Athletic Club ]
+i
+i
+i[ CAF Confederation Cup ]
+i
+i
+i[ India train accident ]
+i
+i
+i[ PSG vs Clermont Foot ]
+i
+i
+i[ Leipzig vs Eintracht Frankfurt ]
+i
+i
+i[ Wembley Stadium ]
+i
+i
+i             Southern Africa
+i        -------------------------
+i
+i               South Africa
+i            -----------------
+i
+i
+i[ Pangolin ]
+i
+i
+i[ Nuggets vs Heat ]
+i
+i
+i[ Celta Vigo vs Barcelona ]
+i
+i
+i[ Benzema ]
+i
+i
+i[ Real Madrid vs Athletic Club ]
+i
+i
+i[ Eden Hazard ]
+i
+i
+i[ CAF Confederation Cup ]
+i
+i
+i[ Cape Town Spurs vs Maritzburg United ]
+i
+i
+i[ PSG vs Clermont Foot ]
+i
+i
+i[ Inter Milan ]
+i
+i
+i[ Torino vs Inter ]
+i
+i
+i
+Bt:     June 05, 2023 (Trends - New)
