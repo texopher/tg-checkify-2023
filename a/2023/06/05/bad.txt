@@ -1,0 +1,46 @@
+i=== www.bbc.com : BAD ===
+i
+i1. [ Good ] https://www.bbc.com/news/entertainment-arts-65669986
+i2. [ Bad : 0 : 5524 ] https://www.bbc.com/vietnamese/business-65674133?at_medium=RSS&at_campaign=KARANGA
+i
+i=== www.cbssports.com : BAD ===
+i
+i1. [ Bad : 0 : 5970 ] https://www.cbssports.com/nba/gametracker/boxscore/NBA_20230601_MIA%40DEN/
+i
+i=== www.foxsports.com : BAD ===
+i
+i1. [ Bad : 0 : 26140 ] 
+i
+i=== www.google.com : BAD ===
+i
+i1. [ Bad : 0 : 580 ] https://www.google.com/search?hl=en&q=Denny+Hamlin&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCtMSjIzEs9LLE5OLFIoSkxOVQAxUooyy1KLiqNEoBJJpUlJiQrliTk5QBWnGBFaoWxT4_Icg1OMXCB2lpFBjlEZlFOVVFFonAvlZBuUJBsZQjkZGSVmRkZQjlGVkbFpGswwi7ySJJhhVWWmBRanGHn10_UNDZNKKnIN00vKfjGK-zkGOzsGYbh4ESuPS2peXqWCR2JuTmbeLTZJhpJn12a5rfrVxxZyrtdGoWRWQeifhxP6IwwBiv_zcgMBAAA&sa=X&ved=2ahUKEwjhmZLDuIv_AhWSElkFHZ6MB3oQs9oBegQIBxAF
+i
+i=== www.imdb.com : BAD ===
+i
+i1. [ Good ] https://www.imdb.com/title/tt7660850/
+i2. [ Bad : 21072 : 21050 ] https://www.imdb.com/calendar/?ref_=nv_mv_cal
+i3. [ Good ] https://www.imdb.com/chart/top/?ref_=nv_mv_250
+i4. [ Bad : 9719 : 9703 ] https://www.imdb.com/chart/moviemeter/?ref_=nv_mv_mpm
+i
+i=== www.tiktok.com : BAD ===
+i
+i1. [ Bad : 7124 : 6762 ] https://www.tiktok.com/discover/Rashid-Buttar-Died-At-Age-Of-57
+i2. [ Bad : 6388 : 5450 ] https://www.tiktok.com/discover/Rashid-Buttar
+i
+i=== www.yahoo.com : BAD ===
+i
+i1. [ Bad : 0 : 2024 ] https://www.yahoo.com/entertainment/joe-jonas-shares-taylor-swift-212911667.html
+i
+i=== www.sec.gov : BAD ===
+i
+i1. [ Bad : 157297 : 157297 ] https://www.sec.gov/whistleblower/nocas
+i
+i=== quackwatch.org : BAD ===
+i
+i1. [ Bad : 0 : 140349 ] https://quackwatch.org/?s%26_sf_s=Rashid%2BA.%2BButtar
+i
+i=== en.m.wikipedia.org : BAD ===
+i
+i1. [ Bad : 0 : 8852 ] https://en.m.wikipedia.org/wiki/Leica_R8-R9#R9
+i
+Bt:     June 05, 2023 (All - Bad)
