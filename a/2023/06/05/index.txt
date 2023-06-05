@@ -72,14 +72,14 @@ i=== www.hindustantimes.com : GOOD ===
 i
 i1. [ Good ] https://www.hindustantimes.com/cricket/virat-kohlis-bombastic-reaction-to-shubman-gills-record-century-in-ipl-2023-qualifier-2-tie-vs-mumbai-indians-101685119271045.html
 i
-i=== www.huffpost.com : BAD ===
+i=== www.huffpost.com : GOOD ===
 i
-i1. [ Bad : 23776 : 23776 ] https://www.huffpost.com/entry/transformer-shortage_n_64645004e4b0005c6055c541
+i1. [ Good ] https://www.huffpost.com/entry/transformer-shortage_n_64645004e4b0005c6055c541
 i
 i=== www.imdb.com : BAD ===
 i
-i1. [ Bad : 4779 : 3832 ] https://www.imdb.com/title/tt7660850/
-i2. [ Bad : 21072 : 21073 ] https://www.imdb.com/calendar/?ref_=nv_mv_cal
+i1. [ Bad : 4779 : 3377 ] https://www.imdb.com/title/tt7660850/
+i2. [ Good ] https://www.imdb.com/calendar/?ref_=nv_mv_cal
 i3. [ Bad : 18794 : 18772 ] https://www.imdb.com/chart/top/?ref_=nv_mv_250
 i4. [ Good ] https://www.imdb.com/chart/moviemeter/?ref_=nv_mv_mpm
 i
@@ -163,7 +163,7 @@ i
 i=== www.tiktok.com : BAD ===
 i
 i1. [ Bad : 7124 : 6545 ] https://www.tiktok.com/discover/Rashid-Buttar-Died-At-Age-Of-57
-i2. [ Bad : 6388 : 5439 ] https://www.tiktok.com/discover/Rashid-Buttar
+i2. [ Bad : 6388 : 5450 ] https://www.tiktok.com/discover/Rashid-Buttar
 i
 i=== m.timesofindia.com : GOOD ===
 i
@@ -252,10 +252,10 @@ i=== www.lutontown.co.uk : GOOD ===
 i
 i1. [ Good ] https://www.lutontown.co.uk/
 i
-i=== truyenfull.vn : BAD ===
+i=== truyenfull.vn : GOOD ===
 i
 i1. [ Good ] https://truyenfull.vn/tao-tac/
-i2. [ Bad : 15128 : 15128 ] https://truyenfull.vn/tao-tac/chuong-1/
+i2. [ Good ] https://truyenfull.vn/tao-tac/chuong-1/
 i
 i=== tuoitre.vn : GOOD ===
 i
