@@ -1,0 +1,16 @@
+i=========================================
+i              June 2023
+i  -------------------------------------
+i
+i
+i
+i=========================================
+i                Others
+i  -------------------------------------
+i
+1About	_R_/about.txt	__SERVER_HOST__	__SERVER_PORT__ 
+i
+1Works in progress	_R_/working.txt	__SERVER_HOST__	__SERVER_PORT__ 
+i
+i$
+Bt:    Status of World Wide Web in 2023
