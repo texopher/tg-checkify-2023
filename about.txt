@@ -1,0 +1,13 @@
+i=========================================
+1           ENTRANCE	_R_/	__SERVER_HOST__	__SERVER_PORT__
+i  -------------------------------------
+i
+i[ TRACK STATUS OF WORLD WIDE WEB ]
+i
+iThe purpose of this service is storing status of world wide web in 2023. 
+iFirst feature which is tracked is whether filter is good for being applied.
+iSecond feature which is tracked is whether domains (from search trends' 
+iresults) have filter.
+i
+i$
+Bt:         About this service
