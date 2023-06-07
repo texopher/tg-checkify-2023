@@ -1,2 +1,6 @@
 
 gophuser.txt
+index.txt
+both.txt
+new.txt
+old.txt
