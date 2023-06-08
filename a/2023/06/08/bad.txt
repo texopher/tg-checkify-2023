@@ -1,0 +1,69 @@
+i=== www.bbc.com : BAD ===
+i
+i1. [ Good ] https://www.bbc.com/news/entertainment-arts-65669986
+i2. [ Bad : 0 : 5524 ] https://www.bbc.com/vietnamese/business-65674133?at_medium=RSS&at_campaign=KARANGA
+i
+i=== www.cbssports.com : BAD ===
+i
+i1. [ Bad : 0 : 5970 ] https://www.cbssports.com/nba/gametracker/boxscore/NBA_20230601_MIA%40DEN/
+i
+i=== www.espncricinfo.com : BAD ===
+i
+i1. [ Bad : 2151 : 9689 ] https://www.espncricinfo.com/story/ipl-2023-qualifier-2-gt-vs-mi-for-shubman-gill-it-s-about-pushing-the-boundaries-1378602
+i
+i=== www.foxsports.com : BAD ===
+i
+i1. [ Bad : 0 : 28604 ] 
+i
+i=== www.google.com : BAD ===
+i
+i1. [ Bad : 0 : 621 ] https://www.google.com/search?hl=en&q=Denny+Hamlin&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCtMSjIzEs9LLE5OLFIoSkxOVQAxUooyy1KLiqNEoBJJpUlJiQrliTk5QBWnGBFaoWxT4_Icg1OMXCB2lpFBjlEZlFOVVFFonAvlZBuUJBsZQjkZGSVmRkZQjlGVkbFpGswwi7ySJJhhVWWmBRanGHn10_UNDZNKKnIN00vKfjGK-zkGOzsGYbh4ESuPS2peXqWCR2JuTmbeLTZJhpJn12a5rfrVxxZyrtdGoWRWQeifhxP6IwwBiv_zcgMBAAA&sa=X&ved=2ahUKEwjhmZLDuIv_AhWSElkFHZ6MB3oQs9oBegQIBxAF
+i
+i=== www.imdb.com : BAD ===
+i
+i1. [ Bad : 4779 : 3832 ] https://www.imdb.com/title/tt7660850/
+i2. [ Bad : 21072 : 22263 ] https://www.imdb.com/calendar/?ref_=nv_mv_cal
+i3. [ Bad : 18794 : 18784 ] https://www.imdb.com/chart/top/?ref_=nv_mv_250
+i4. [ Bad : 9719 : 9752 ] https://www.imdb.com/chart/moviemeter/?ref_=nv_mv_mpm
+i
+i=== www.tiktok.com : BAD ===
+i
+i1. [ Bad : 7124 : 6497 ] https://www.tiktok.com/discover/Rashid-Buttar-Died-At-Age-Of-57
+i2. [ Bad : 6388 : 5254 ] https://www.tiktok.com/discover/Rashid-Buttar
+i
+i=== www.yahoo.com : BAD ===
+i
+i1. [ Bad : 0 : 2024 ] https://www.yahoo.com/entertainment/joe-jonas-shares-taylor-swift-212911667.html
+i
+i=== maps.google.com : BAD ===
+i
+i1. [ Bad : 0 : 610 ] https://maps.google.com/maps?hl=en&q=Google\NMaps&um=1&ie=UTF-8&sa=X&ved=0ahUKEwj42dmF0K7_AhUunokEHZV8CTcQ_AUIBigB
+i2. [ Good ] https://maps.google.com/
+i
+i=== play.google.com : BAD ===
+i
+i1. [ Bad : 0 : 2245 ] https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en_US&gl=US
+i2. [ Bad : 0 : 2113 ] https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en_US&gl=US
+i
+i=== support.google.com : BAD ===
+i
+i1. [ Good ] https://support.google.com/docs/answer/7068618?hl=en&co=GENIE.Platform=Desktop
+i2. [ Bad : 1091 : 1273 ] https://support.google.com/docs/answer/7068618?hl=en&co=GENIE.Platform=Android
+i
+i=== theathletic.com : BAD ===
+i
+i1. [ Bad : 4002 : 4105 ] https://theathletic.com/nhl/team/fla-panthers/
+i
+i=== www.sec.gov : BAD ===
+i
+i1. [ Bad : 157297 : 157297 ] https://www.sec.gov/whistleblower/nocas
+i
+i=== quackwatch.org : BAD ===
+i
+i1. [ Bad : 0 : 140349 ] https://quackwatch.org/?s%26_sf_s=Rashid%2BA.%2BButtar
+i
+i=== en.m.wikipedia.org : BAD ===
+i
+i1. [ Bad : 0 : 8852 ] https://en.m.wikipedia.org/wiki/Leica_R8-R9#R9
+i
+Bt:     June 08, 2023 (All - Bad)
