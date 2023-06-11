@@ -1,0 +1,366 @@
+i=== www.al.com : GOOD ===
+i
+i1. [ Good ] https://www.al.com/motorsports/2023/05/bubba-wallace-gives-finger-on-tv-nascar-looking-into-hacked-radio-go-back-to-where-you-came-from.html
+i
+i=== www.basketball-reference.com : GOOD ===
+i
+i1. [ Good ] https://www.basketball-reference.com/playoffs/2023-nba-finals-heat-vs-nuggets.html
+i
+i=== www.bbc.com : BAD ===
+i
+i1. [ Good ] https://www.bbc.com/news/entertainment-arts-65669986
+i2. [ Bad : 0 : 5524 ] https://www.bbc.com/vietnamese/business-65674133?at_medium=RSS&at_campaign=KARANGA
+i
+i=== www.bubbawallace.com : GOOD ===
+i
+i1. [ Good ] https://www.bubbawallace.com/
+i
+i=== www.cbssports.com : BAD ===
+i
+i1. [ Bad : 0 : 5970 ] https://www.cbssports.com/nba/gametracker/boxscore/NBA_20230601_MIA%40DEN/
+i
+i=== www.cnbc.com : GOOD ===
+i
+i1. [ Good ] https://www.cnbc.com/2023/05/19/musk-buffett-china-taiwan-2024-election.html
+i
+i=== www.cnn.com : GOOD ===
+i
+i1. [ Good ] https://www.cnn.com/2023/05/21/entertainment/foo-fighters-drummer-josh-freese/index.html
+i
+i=== www.covers.com : GOOD ===
+i
+i1. [ Good ] https://www.covers.com/sport/basketball/nba/boxscore/285469
+i
+i=== www.cricbuzz.com : GOOD ===
+i
+i1. [ Good ] https://www.cricbuzz.com/profiles/11808/shubman-gill
+i
+i=== dknation.draftkings.com : GOOD ===
+i
+i1. [ Good ] https://dknation.draftkings.com/2023/6/1/23742693/nba-finals-2023-heat-vs-nuggets-game-1-live-updates-odds-stats-video-highlights-score-recap
+i
+i=== www.espn.com : GOOD ===
+i
+i1. [ Good ] https://www.espn.com/nba/story/_/id/37758399/jayson-tatum-hampered-ankle-injury-celtics-fail-make-history-game-7-loss-heat
+i
+i=== www.espncricinfo.com : GOOD ===
+i
+i1. [ Good ] https://www.espncricinfo.com/story/ipl-2023-qualifier-2-gt-vs-mi-for-shubman-gill-it-s-about-pushing-the-boundaries-1378602
+i
+i=== m.facebook.com : GOOD ===
+i
+i1. [ Good ] https://m.facebook.com/rashid.butta.75/
+i
+i=== www.fox5vegas.com : GOOD ===
+i
+i1. [ Good ] https://www.fox5vegas.com/2023/05/24/report-plane-crash-that-killed-two-near-las-vegas-went-down-minutes-after-takeoff/
+i
+i=== www.foxnews.com : GOOD ===
+i
+i1. [ Good ] https://www.foxnews.com/sports/bubba-wallace-appears-flip-off-camera-nascar-reportedly-investigating-apparent-hack-drivers-radio
+i2. [ Good ] https://www.foxnews.com/entertainment/nick-cannon-doesnt-pay-government-child-support-12-children?dicbo=v2-0otvxSb
+i
+i=== www.foxsports.com : BAD ===
+i
+i1. [ Bad : 0 : 28604 ] 
+i
+i=== www.google.com : BAD ===
+i
+i1. [ Bad : 0 : 580 ] https://www.google.com/search?hl=en&q=Denny+Hamlin&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCtMSjIzEs9LLE5OLFIoSkxOVQAxUooyy1KLiqNEoBJJpUlJiQrliTk5QBWnGBFaoWxT4_Icg1OMXCB2lpFBjlEZlFOVVFFonAvlZBuUJBsZQjkZGSVmRkZQjlGVkbFpGswwi7ySJJhhVWWmBRanGHn10_UNDZNKKnIN00vKfjGK-zkGOzsGYbh4ESuPS2peXqWCR2JuTmbeLTZJhpJn12a5rfrVxxZyrtdGoWRWQeifhxP6IwwBiv_zcgMBAAA&sa=X&ved=2ahUKEwjhmZLDuIv_AhWSElkFHZ6MB3oQs9oBegQIBxAF
+i
+i=== www.hindustantimes.com : GOOD ===
+i
+i1. [ Good ] https://www.hindustantimes.com/cricket/virat-kohlis-bombastic-reaction-to-shubman-gills-record-century-in-ipl-2023-qualifier-2-tie-vs-mumbai-indians-101685119271045.html
+i
+i=== www.huffpost.com : GOOD ===
+i
+i1. [ Good ] https://www.huffpost.com/entry/transformer-shortage_n_64645004e4b0005c6055c541
+i
+i=== www.imdb.com : BAD ===
+i
+i1. [ Bad : 4779 : 3434 ] https://www.imdb.com/title/tt7660850/
+i2. [ Bad : 21072 : 22183 ] https://www.imdb.com/calendar/?ref_=nv_mv_cal
+i3. [ Bad : 18794 : 18784 ] https://www.imdb.com/chart/top/?ref_=nv_mv_250
+i4. [ Bad : 9719 : 9752 ] https://www.imdb.com/chart/moviemeter/?ref_=nv_mv_mpm
+i
+i=== www.instagram.com : GOOD ===
+i
+i1. [ Good ] https://www.instagram.com/p/CDB--bsJSkY/
+i
+i=== www.linkedin.com : GOOD ===
+i
+i1. [ Good ] https://www.linkedin.com/in/shah-khurshid-qadri-21b643a3
+i
+i=== myfox8.com : GOOD ===
+i
+i1. [ Good ] https://myfox8.com/news/north-carolina/north-carolina-gov-roy-cooper-declares-state-of-emergency-for-public-education/
+i2. [ Good ] https://myfox8.com/news/north-carolina/former-north-carolina-nurse-gets-4-years-in-prison-for-tampering-with-painkillers/
+i
+i=== www.nascar.com : GOOD ===
+i
+i1. [ Good ] https://www.nascar.com/drivers/bubba-wallace
+i
+i=== www.nba.com : GOOD ===
+i
+i1. [ Good ] https://www.nba.com/player/1628369/jayson-tatum
+i
+i=== www.nytimes.com : GOOD ===
+i
+i1. [ Good ] https://www.nytimes.com/2023/05/22/arts/music/foo-fighters-drummer-freese-hawkins.html
+i2. [ Good ] https://www.nytimes.com/2023/05/29/sports/baseball/tom-bill-wambsganss-succession.html
+i
+i=== okmagazine.com : GOOD ===
+i
+i1. [ Good ] https://okmagazine.com/p/jamie-foxx-paralyzed-blind-blood-clot-brain-covid-19-vaccine/
+i
+i=== people.com : GOOD ===
+i
+i1. [ Good ] https://people.com/music/foo-fighters-josh-freese-new-drummer/
+i
+i=== pitchfork.com : GOOD ===
+i
+i1. [ Good ] https://pitchfork.com/news/foo-fighters-reveal-new-drummer-josh-freese-taylor-hawkins-successor/
+i
+i=== www.rollingstone.com : GOOD ===
+i
+i1. [ Good ] https://www.rollingstone.com/culture/culture-news/nascar-investigation-bubba-wallace-radio-hack-1234739603/
+i2. [ Good ] https://www.rollingstone.com/tv-movies/tv-movie-recaps/succession-season-4-episode-9-logan-roy-funeral-callback-missed-five-million-dollars-hbo-cousin-greg-mausoleum-1234740003/
+i
+i=== www.rottentomatoes.com : GOOD ===
+i
+i1. [ Good ] https://www.rottentomatoes.com/celebrity/jamie_foxx
+i
+i=== roycooper.com : GOOD ===
+i
+i1. [ Good ] https://roycooper.com/
+i2. [ Good ] https://roycooper.com/meet-roy/
+i
+i=== soundcloud.com : GOOD ===
+i
+i1. [ Good ] https://soundcloud.com/rashid-oneil
+i
+i=== stackoverflow.com : GOOD ===
+i
+i1. [ Good ] https://stackoverflow.com/questions/7821801/javascript-indexof
+i
+i=== www.thedailybeast.com : GOOD ===
+i
+i1. [ Good ] https://www.thedailybeast.com/nascar-driver-bubba-wallace-hit-with-more-racism
+i2. [ Good ] https://www.thedailybeast.com/obsessed/summer-movie-preview-2023-20-most-exciting-films
+i
+i=== www.thedrive.com : GOOD ===
+i
+i1. [ Good ] https://www.thedrive.com/news/youre-not-wanted-in-nascar-bubba-wallace-targeted-by-hateful-radio-hack
+i
+i=== www.theguardian.com : GOOD ===
+i
+i1. [ Good ] https://www.theguardian.com/music/2023/may/22/foo-fighters-announce-josh-freese-as-new-drummer-after-taylor-hawkins-death
+i
+i=== www.theverge.com : GOOD ===
+i
+i1. [ Good ] https://www.theverge.com/2023/6/4/23747110/apple-headset-augmented-reality-vr-industry-rumors-wwdc-2023
+i
+i=== www.tiktok.com : BAD ===
+i
+i1. [ Bad : 7124 : 6411 ] https://www.tiktok.com/discover/Rashid-Buttar-Died-At-Age-Of-57
+i2. [ Bad : 6388 : 5818 ] https://www.tiktok.com/discover/Rashid-Buttar
+i
+i=== m.timesofindia.com : GOOD ===
+i
+i1. [ Good ] https://m.timesofindia.com/sports/cricket/ipl/top-stories/destined-for-greatness-shubman-gill-sure-fits-the-bill/articleshow/100548192.cms
+i
+i=== www.today.com : GOOD ===
+i
+i1. [ Good ] https://www.today.com/popculture/music/foo-fighters-new-drummer-josh-freese-rcna85494
+i
+i=== twitter.com : GOOD ===
+i
+i1. [ Good ] https://twitter.com/danielmcfadin/status/1660431194129854465
+i2. [ Good ] https://twitter.com/tracey_thorn/status/1663117475439943682
+i
+i=== variety.com : GOOD ===
+i
+i1. [ Good ] https://variety.com/2023/music/news/foo-fighters-new-drummer-josh-freese-career-musical-history-1235617641/
+i
+i=== finance.yahoo.com : GOOD ===
+i
+i1. [ Good ] https://finance.yahoo.com/news/homebuyers-gobble-up-new-homes-in-april-amid-inventory-shortages-141151978.html
+i
+i=== news.yahoo.com : GOOD ===
+i
+i1. [ Good ] https://news.yahoo.com/mexico-popocatepetl-volcano-erupts-smoke-ash-evacuations-200659206.html
+i
+i=== sports.yahoo.com : GOOD ===
+i
+i1. [ Good ] https://sports.yahoo.com/nhl-playoffs-golden-knights-blank-stars-in-heated-game-3-024459910.html
+i
+i=== www.yahoo.com : BAD ===
+i
+i1. [ Bad : 0 : 2103 ] https://www.yahoo.com/entertainment/joe-jonas-shares-taylor-swift-212911667.html
+i
+i=== www.youtube.com : GOOD ===
+i
+i1. [ Good ] https://www.youtube.com/watch?v=d9KYpMW4Now
+i
+i=== www.apple.com : GOOD ===
+i
+i1. [ Good ] https://www.apple.com/apple-vision-pro/
+i2. [ Good ] https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/
+i3. [ Good ] https://www.apple.com/maps/
+i4. [ Good ] https://www.apple.com/
+i
+i=== www.reuters.com : GOOD ===
+i
+i1. [ Good ] https://www.reuters.com/technology/apple-expected-reveal-mixed-reality-headset-developer-conference-2023-06-05/
+i
+i=== techcrunch.com : GOOD ===
+i
+i1. [ Good ] https://techcrunch.com/2023/06/05/apple-headset/
+i2. [ Good ] https://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/
+i
+i=== marginalrevolution.com : GOOD ===
+i
+i1. [ Good ] https://marginalrevolution.com/marginalrevolution/2023/06/apple-vision-pro.html
+i
+i=== maps.google.com : BAD ===
+i
+i1. [ Bad : 0 : 610 ] https://maps.google.com/maps?hl=en&q=Google\NMaps&um=1&ie=UTF-8&sa=X&ved=0ahUKEwj42dmF0K7_AhUunokEHZV8CTcQ_AUIBigB
+i2. [ Good ] https://maps.google.com/
+i
+i=== play.google.com : BAD ===
+i
+i1. [ Bad : 0 : 2245 ] https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en_US&gl=US
+i2. [ Bad : 0 : 2113 ] https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en_US&gl=US
+i
+i=== apps.apple.com : GOOD ===
+i
+i1. [ Good ] https://apps.apple.com/us/app/google-maps/id585027354
+i2. [ Good ] https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640
+i
+i=== earth.google.com : GOOD ===
+i
+i1. [ Good ] https://earth.google.com/
+i
+i=== www.bing.com : GOOD ===
+i
+i1. [ Good ] https://www.bing.com/maps/
+i
+i=== www.mapquest.com : GOOD ===
+i
+i1. [ Good ] https://www.mapquest.com/
+i
+i=== www.mattrifeofficial.com : GOOD ===
+i
+i1. [ Good ] https://www.mattrifeofficial.com/
+i
+i=== www.ticketmaster.com : GOOD ===
+i
+i1. [ Good ] https://www.ticketmaster.com/matt-rife-tickets/artist/2431961
+i
+i=== deadline.com : GOOD ===
+i
+i1. [ Good ] https://deadline.com/2023/06/matt-rife-world-tour-live-nation-ashton-kutcher-mila-kunis-promo-watch-1235399272/
+i
+i=== www.facebook.com : GOOD ===
+i
+i1. [ Good ] https://www.facebook.com/ItsMattRife/
+i
+i=== docs.google.com : GOOD ===
+i
+i1. [ Good ] https://docs.google.com/
+i
+i=== support.google.com : BAD ===
+i
+i1. [ Good ] https://support.google.com/docs/answer/7068618?hl=en&co=GENIE.Platform=Desktop
+i2. [ Bad : 1091 : 1273 ] https://support.google.com/docs/answer/7068618?hl=en&co=GENIE.Platform=Android
+i
+i=== workspace.google.com : GOOD ===
+i
+i1. [ Good ] https://workspace.google.com/products/docs/
+i
+i=== www.nhl.com : GOOD ===
+i
+i1. [ Good ] https://www.nhl.com/panthers
+i2. [ Good ] https://www.nhl.com/panthers/schedule
+i
+i=== theathletic.com : BAD ===
+i
+i1. [ Bad : 4002 : 4510 ] https://theathletic.com/nhl/team/fla-panthers/
+i
+i=== governor.nc.gov : GOOD ===
+i
+i1. [ Good ] https://governor.nc.gov/
+i2. [ Good ] https://governor.nc.gov/about-first-family/roy-cooper
+i3. [ Good ] https://governor.nc.gov/about-first-family/north-carolina-first-lady-kristin-cooper
+i
+i=== www.sec.gov : BAD ===
+i
+i1. [ Bad : 157297 : 157523 ] https://www.sec.gov/whistleblower/nocas
+i
+i=== www.nyc.gov : GOOD ===
+i
+i1. [ Good ] https://www.nyc.gov/nyc-resources/nyc-maps.page
+i2. [ Good ] https://www.nyc.gov/office-of-the-mayor/index.page
+i
+i=== vnexpress.net : GOOD ===
+i
+i1. [ Good ] https://vnexpress.net/facebook-bi-phat-ky-luc-1-3-ty-usd-4608353.html
+i
+i=== www.nga.org : GOOD ===
+i
+i1. [ Good ] https://www.nga.org/governor/roy-cooper/
+i
+i=== quackwatch.org : BAD ===
+i
+i1. [ Bad : 0 : 140349 ] https://quackwatch.org/?s%26_sf_s=Rashid%2BA.%2BButtar
+i
+i=== en.wikipedia.org : GOOD ===
+i
+i1. [ Good ] http://en.wikipedia.org/wiki/National_Institute_of_Technology,_Srinagar
+i
+i=== en.m.wikipedia.org : BAD ===
+i
+i1. [ Bad : 0 : 8851 ] https://en.m.wikipedia.org/wiki/Leica_R8-R9#R9
+i
+i=== simple.m.wikipedia.org : GOOD ===
+i
+i1. [ Good ] https://simple.m.wikipedia.org/wiki/Austria
+i
+i=== simple.wikipedia.org : GOOD ===
+i
+i1. [ Good ] https://simple.wikipedia.org/wiki/Kelvin
+i
+i=== www.bbc.co.uk : GOOD ===
+i
+i1. [ Good ] https://www.bbc.co.uk/news/world-us-canada-65649471
+i
+i=== www.dailymail.co.uk : GOOD ===
+i
+i1. [ Good ] https://www.dailymail.co.uk/sport/nba/article-12150511/Miami-Heat-vs-Denver-Nuggets-LIVE-NBA-Finals-updates-report-reaction-Butler-faces-Jokic.html
+i
+i=== www.lutontown.co.uk : GOOD ===
+i
+i1. [ Good ] https://www.lutontown.co.uk/
+i
+i=== truyenfull.vn : GOOD ===
+i
+i1. [ Good ] https://truyenfull.vn/tao-tac/
+i2. [ Good ] https://truyenfull.vn/tao-tac/chuong-1/
+i
+i=== tuoitre.vn : GOOD ===
+i
+i1. [ Good ] https://tuoitre.vn/danh-nguoi-sau-va-cham-tai-xe-xe-hoi-bi-danh-lai-nut-so-20230522191912917.htm
+i
+i=== blog.google : GOOD ===
+i
+i1. [ Good ] https://blog.google/products/maps/
+i
+i=== new.mta.info : GOOD ===
+i
+i1. [ Good ] https://new.mta.info/maps
+i
+i=== maps.me : GOOD ===
+i
+i1. [ Good ] https://maps.me/
+i
+Bt:     June 11, 2023 (All - Both)
