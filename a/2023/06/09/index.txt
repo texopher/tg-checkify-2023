@@ -1,0 +1,5 @@
+i
+1Good	_R_/a/2023/06/09/good.txt	__SERVER_HOST__	__SERVER_PORT__
+1Bad	_R_/a/2023/06/09/bad.txt	__SERVER_HOST__	__SERVER_PORT__
+1Both	_R_/a/2023/06/09/both.txt	__SERVER_HOST__	__SERVER_PORT__
+Bt:     June 09, 2023 (All)
