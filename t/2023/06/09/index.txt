@@ -1,0 +1,5 @@
+i
+1New	_R_/t/2023/06/09/new.txt	__SERVER_HOST__	__SERVER_PORT__
+1Old	_R_/t/2023/06/09/old.txt	__SERVER_HOST__	__SERVER_PORT__
+1Both	_R_/t/2023/06/09/both.txt	__SERVER_HOST__	__SERVER_PORT__
+Bt:     June 09, 2023 (All)
