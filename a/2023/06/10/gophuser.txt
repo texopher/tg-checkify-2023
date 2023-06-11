@@ -1,2 +1,6 @@
 
 gophuser.txt
+index.txt
+both.txt
+good.txt
+bad.txt
