@@ -1,0 +1,1209 @@
+i
+i=========================================
+i              LOCALIZATION
+i  -------------------------------------
+i
+i
+i             Northern America
+i        -------------------------
+i
+i              United States
+i              -------------
+i
+i
+i[ Eminem ]
+i
+i[1 : new] http://www.eminem.com/
+i[2 : old] https://en.wikipedia.org/wiki/Eminem
+i[5 : new] https://www.eminem.com/
+i[6 : old] https://en.wikipedia.org/wiki/Eminem
+i[7 : old] https://en.wikipedia.org/wiki/Eminem_albums_discography
+i[8 : old] https://www.today.com/popculture/news/eminems-daughter-alaina-scott-gets-married-sister-hailie-mathers-bride-rcna89186
+i[9 : old] https://www.youtube.com/channel/UCfM3zsQsOnfWNUppiycmBuw
+i[10 : old] https://www.instagram.com/eminem/?hl=en
+i[11 : new] https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR
+i[12 : old] https://www.facebook.com/eminem/
+i[13 : old] https://twitter.com/Eminem
+i[14 : new] https://www.discogs.com/artist/38661-Eminem
+i[15 : new] https://rateyourmusic.com/artist/eminem
+i
+i                  Canada
+i              -------------
+i
+i
+i[ Nations League ]
+i
+i[2 : new] https://www.uefa.com/uefanationsleague/
+i[3 : new] https://www.uefa.com/uefanationsleague/news/0279-1632c4333a99-7f1af4781e69-1000--uefa-nations-league-finals-who-is-in-it-when-is-it-where-doe/
+i[4 : new] https://www.concacaf.com/nations-league/
+i[5 : new] https://www.concacaf.com/nations-league/schedule-results/
+i[6 : old] https://en.wikipedia.org/wiki/UEFA_Nations_League
+i[7 : old] https://en.wikipedia.org/wiki/UEFA_Nations_League#Adoption
+i[8 : old] https://www.bbc.com/sport/football/65871144
+i[9 : old] https://www.espn.com/soccer/standings/_/league/uefa.nations
+i[10 : new] https://www.ussoccer.com/competitions/concacaf-nations-league-2022-2023
+i[11 : old] https://www.espn.com/soccer/league/_/name/uefa.nations
+i[12 : new] https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-netherlands-vs-croatia-from-anywhere/
+i[13 : new] https://www.skysports.com/uefa-nations-league-table
+i[14 : old] https://www.reuters.com/sports/soccer/croatia-reach-nations-league-final-after-knocking-out-hosts-netherlands-2023-06-14/
+i
+i                  Mexico
+i              -------------
+i
+i
+i[ Futbol ]
+i
+i[2 : new] https://en.wiktionary.org/wiki/f%C3%BAtbol
+i[3 : new] https://en.wiktionary.org/wiki/f%C3%BAtbol#Galician
+i[4 : new] https://en.wiktionary.org/wiki/futbol
+i[5 : old] https://en.wikipedia.org/wiki/Football
+i[6 : old] https://en.wikipedia.org/wiki/Football#Common_elements
+i[7 : new] https://insidefutbol.com/2023/06/14/nottingham-forest-regard-player-as-priority-target/606825/
+i[8 : old] https://www.espn.com/soccer/
+i[9 : old] https://www.espn.com/watch/catalog/b8c6d70c-c441-4042-9eea-870f6eb4d668
+i[10 : new] https://m.interglot.com/es/en/f%C3%BAtbol
+i[11 : new] https://en.as.com/news/futbol/
+i[12 : new] https://www.shutterstock.com/search/futbol
+i[13 : new] https://www.collinsdictionary.com/us/dictionary/spanish-english/f%C3%BAtbol
+i[14 : new] https://bleacherreport.com/articles/58233-football-vs-futbol-which-is-better
+i
+i[ Mexico vs USA ]
+i
+i[1 : new] https://www.ussoccer.com/competitions/concacaf-nations-league-2022-2023/matches/united-states-vs-mexico-6-15-23
+i[2 : old] https://www.cbssports.com/soccer/news/usmnt-vs-mexico-live-stream-concacaf-nations-league-prediction-how-to-watch-usa-online-time-news-odds/
+i[3 : old] https://en.wikipedia.org/wiki/Mexico%E2%80%93United_States_soccer_rivalry
+i[4 : old] http://en.wikipedia.org/wiki/Mexico_national_football_team
+i[5 : new] https://www.mlssoccer.com/news/usa-vs-mexico-how-to-watch-stream-preview-of-nations-league-semifinal
+i[6 : old] https://www.youtube.com/watch?v=-eooXbR-mtU
+i[7 : new] https://m.aiscore.com/head-to-head/soccer-mexico-vs-usa
+i[9 : new] https://worldsoccertalk.com/usa-vs-mexico-where-to-watch-in-the-us/
+i[10 : old] https://www.espn.com/soccer/match/_/gameId/667374
+i[11 : new] https://www.sportsmole.co.uk/football/usa/preview/preview-usa-vs-mexico-prediction-team-news-lineups_516132.html
+i
+i              South America
+i        -------------------------
+i
+i                Argentina
+i              -------------
+i
+i
+i[ Argentina vs Australia ]
+i
+i[1 : old] https://www.cbssports.com/soccer/news/argentina-vs-australia-how-to-watch-odds-stream-2023-international-friendly-on-cbs-sports-golazo-network/
+i[2 : old] https://www.sportingnews.com/us/soccer/news/watch-argentina-vs-australia-live-stream-tv-channel-friendly/bedmnip2h29zlet515vgxgxj
+i[3 : old] https://www.espn.com/soccer/match/_/gameId/669280
+i[4 : new] https://www.sofascore.com/argentina-australia/QUbsuWb
+i[5 : new] https://en.as.com/soccer/argentina-vs-australia-times-how-to-watch-on-tv-stream-online-international-friendly-n/
+i[6 : new] https://www.fotmob.com/match/3370551/matchfacts/argentina-vs-australia
+i[7 : new] https://m.aiscore.com/head-to-head/soccer-argentina-vs-australia
+i[8 : new] https://www.vavel.com/en-us/soccer/2023/06/15/1149124-argentina-vs-australialive-updates-score-stream-info-lineups-and-how-to-watch-friendly-match-2023.html
+i[9 : new] https://www.sportsmole.co.uk/football/argentina/preview/preview-argentina-vs-australia-prediction-team-news-lineups_516170.html
+i[10 : new] https://www.socceroos.com.au/news/match-preview-argentina-vs-australia
+i
+i[ Inflacion mayo 2023 ]
+i
+i[1 : new] https://www.indec.gob.ar/uploads/informesdeprensa/ipc_06_2333B45061A5.pdf
+i[2 : new] https://www.tycsports.com/interes-general/inflacion-mayo-2023-de-cuanto-seria-y-cuando-se-anuncia-id517791.html
+i[3 : new] https://www.argentina.gob.ar/noticias/la-inflacion-de-mayo-de-2023
+i[4 : new] https://www.lanacion.com.ar/economia/la-inflacion-de-mayo-fue-de-78-y-llega-a-1142-en-doce-meses-nid14062023/
+i[5 : new] https://www.cronista.com/economia-politica/ipc-de-mayo-2023-el-indec-publico-la-inflacion-y-el-dato-volvio-a-ser-alto/
+i[6 : new] https://www.bloomberglinea.com/latinoamerica/argentina/inflacion-mayo-2023-de-cuanto-fue-segun-el-rem-del-bcra-y-a-cuanto-llegara-este-ano/
+i[7 : new] https://www.iprofesional.com/economia/383459-alerta-por-los-precios-esta-fue-la-inflacion-de-mayo-2023
+i[8 : new] https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176802&menu=ultiDatos&idp=1254735976607
+i[9 : new] https://tn.com.ar/economia/2023/06/14/inflacion-de-mayo-2023-como-quedaron-los-numeros-despues-del-dato-del-indec/
+i[10 : new] https://www.perfil.com/noticias/economia/cede-pero-no-afloja-la-inflacion-de-mayo-fue-del-xx-por-ciento.phtml
+i
+i                  Brazil
+i              -------------
+i
+i
+i[ Bellingham ]
+i
+i[1 : old] https://www.espn.com/soccer/story/_/id/37851149/real-madrid-confirm-signing-jude-bellingham-dortmund
+i[2 : old] https://twitter.com/BellinghamJude/status/1669061841371144198?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[4 : new] https://www.bellingham.org/
+i[5 : new] https://cob.org/
+i[6 : old] https://en.wikipedia.org/wiki/Bellingham,_Washington
+i[7 : old] https://en.wikipedia.org/wiki/Bellingham,_Washington#History
+i[8 : old] https://en.wikipedia.org/wiki/Jude_Bellingham
+i[9 : old] https://en.wikipedia.org/wiki/Jude_Bellingham#Early_life
+i[10 : new] https://www.downtownbellingham.com/
+i[11 : new] https://www.portofbellingham.com/
+i[12 : new] https://www.tripadvisor.com/Tourism-g58350-Bellingham_Washington-Vacations.html
+i
+i[ Santa Cruz ]
+i
+i[1 : old] https://maps.google.com/maps?hl=en&q=Santa Cruz&um=1&ie=UTF-8&sa=X&ved=0ahUKEwj71pDBl8T_AhUKXqQEHZDVAloQ_AUIBigB
+i[3 : new] https://www.cityofsantacruz.com/
+i[4 : new] https://www.cityofsantacruz.com/government/city-departments/parks-recreation/facilities/santa-cruz-wharf
+i[5 : new] https://www.santacruzbicycles.com/en-US
+i[6 : new] https://www.santacruzbicycles.com/en-US/bikes
+i[7 : new] https://www.santacruz.org/
+i[8 : new] https://www.santacruz.org/things-to-do/
+i[9 : new] https://santacruzskateboards.com/
+i[10 : new] https://beachboardwalk.com/
+i[12 : old] https://en.wikipedia.org/wiki/Santa_Cruz,_California
+i[13 : old] http://en.wikipedia.org/wiki/Area_code_831
+i[14 : new] https://www.co.santa-cruz.ca.us/
+i[15 : new] https://www.ucsc.edu/
+i[16 : new] https://www.scbt.com/home
+i
+i                  Chile
+i              -------------
+i
+i
+i[ Uruguay vs ]
+i
+i[1 : new] https://www.espn.co.uk/football/report/_/id/669426
+i[2 : new] https://www.vavel.com/en-us/soccer/2023/06/14/1149063-uruguay-vs-nicaragua-live-updates-score-stream-info-lineups-and-how-to-watch-friendly-match.html
+i[3 : new] https://www.sportskeeda.com/football/uruguay-vs-nicaragua-prediction-betting-tips-15th-june-2023
+i[4 : new] https://www.sportsmole.co.uk/football/uruguay/preview/preview-uruguay-vs-nicaragua-prediction-team-news-lineups_516097.html
+i[5 : new] https://www.flashscore.com/team/uruguay/xMk44orG/
+i[6 : old] https://www.youtube.com/watch?v=sWoSYq8Pfb0
+i[7 : old] https://www.youtube.com/watch?v=kPGE1jdOFEs
+i[8 : old] https://www.youtube.com/watch?v=dLrTH2hlhnI
+i[9 : new] https://en.as.com/soccer/uruguay-vs-israel-live-online-score-stats-updates-fifa-u20-world-cup-semi-final-n/
+i[10 : new] https://www.sofascore.com/uruguay-nicaragua/AUbsrLi
+i
+i[ Luis Miguel ]
+i
+i[1 : old] https://en.wikipedia.org/wiki/Luis_Miguel
+i[2 : old] https://en.wikipedia.org/wiki/Luis_Miguel:_The_Series
+i[3 : new] http://www.luismigueloficial.com/
+i[4 : old] https://en.wikipedia.org/wiki/Luis_Miguel
+i[7 : new] https://luismigueloficial.com/
+i[8 : new] https://luismigueloficial.com/registro
+i[9 : new] https://www.netflix.com/title/80191236
+i[10 : new] https://www.hola.com/us/tags/luis-miguel/
+i[11 : new] https://music.youtube.com/channel/UC36w0dhy-17arWxTEn3rWMg
+i[12 : old] https://www.imdb.com/title/tt8045690/
+i[13 : new] https://www.last.fm/music/Luis+Miguel
+i[14 : new] https://www.billboard.com/lists/luis-miguel-tour-biggest-pop-star-latin-america/
+i[15 : new] https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW
+i[16 : old] https://www.imdb.com/name/nm0586064/
+i
+i                 Colombia
+i              -------------
+i
+i
+i[ Gustavo Petro ]
+i
+i[1 : old] https://en.wikipedia.org/wiki/Gustavo_Petro
+i[2 : old] https://en.wikipedia.org/wiki/Iv%C3%A1n_Duque
+i[3 : old] https://en.wikipedia.org/wiki/Gustavo_Petro
+i[4 : old] https://twitter.com/petrogustavo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+i[5 : old] https://twitter.com/petrogustavo/status/1667548616272093184?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[6 : new] https://time.com/collection/100-most-influential-people-2023/6269847/gustavo-petro/
+i[7 : new] https://directoriolegislativo.org/en/post-electoral-presidential-elections-in-colombia/
+i[8 : new] https://www.britannica.com/biography/Gustavo-Petro
+i[9 : new] http://britannica.com/topic/Historic-Pact-for-Colombia
+i[10 : new] https://www.france24.com/en/tag/gustavo-petro/
+i[11 : new] https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/20/remarks-by-president-biden-and-president-gustavo-petro-of-colombia-before-bilateral-meeting/
+i[12 : new] https://www.wilsoncenter.org/event/gustavo-petro-and-new-role-colombia-venezuela-political-negotiations
+i[13 : new] https://www.americasquarterly.org/article/gustavo-petros-biggest-crisis-yet/
+i[14 : new] https://apnews.com/hub/gustavo-petro
+i
+i                   Peru
+i              -------------
+i
+i
+i[ España vs ]
+i
+i[1 : old] https://www.espn.com/soccer/story/_/id/37847824/spain-end-morata-joselu-scoring-woes-nations-league-semifinal-vs-italy
+i[2 : new] https://elcomercio.pe/deporte-total/espana/espana-vs-italia-en-vivo-hoy-via-la-1-tv-espn-futbol-libre-star-plus-rtve-tve-en-directo-canal-television-en-que-horario-y-donde-se-puede-ver-partido-de-hoy-por-semifinal-nations-league-2023-video-noticia/
+i[3 : new] https://elcomercio.pe/deporte-total/espana/a-que-hora-juega-espana-vs-italia-y-en-que-canal-ver-la-semifinal-de-nations-league-via-espn-star-plus-y-la-1-tv-video-noticia/
+i[4 : old] https://www.youtube.com/watch?v=r11PaX16usk
+i[5 : old] https://www.youtube.com/watch?v=Hk_75DQmTzY
+i[6 : new] https://www.tycsports.com/uefa-nations-league/uefa-nations-league-a-2022-2023-espana-vs-italia-semifinal-2-id517676.html
+i[7 : new] https://www.mediotiempo.com/futbol/seleccion-sub-23/resumen-partido-espana-vs-mexico-sub-23-amistoso-2023
+i[8 : new] https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/espana-vs-mexico-por-donde-y-a-que-hora-ver-el-partido-en
+i[9 : new] https://www.90min.com/es/posts/espana-vs-italia-como-verlo-en-tv-live-stream-noticias-lesiones-y-pronostico
+i[10 : new] https://es.uefa.com/uefanationsleague/match/2035582--spain-vs-italy/
+i
+i                North Asia
+i        -------------------------
+i
+i                  Russia
+i              -------------
+i
+i
+i[ Река Мацеста в Сочи ]
+i
+i[1 : old] https://maps.google.com/maps?hl=en&q=Река Мацеста в Сочи&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjlodvRl8T_AhUKUKQEHYuiCtUQ_AUIBigB
+i[2 : new] https://kuban24.tv/item/v-sochi-reka-matsesta-vyshla-iz-beregov-posle-nochnogo-livnya-video
+i[3 : new] https://v1.ru/text/incidents/2023/06/14/72396584/
+i[4 : new] https://ria.ru/20230614/matsesta-1877941891.html
+i[5 : old] https://en.wikipedia.org/wiki/Matsesta_(river)
+i[6 : new] https://meduza.io/news/2023/06/14/v-sochi-vyshla-iz-beregov-reka-matsesta-gorod-chastichno-zatopilo-plyazhi-zakryty
+i[7 : new] https://lenta.ru/news/2023/06/14/river/
+i[8 : old] https://www.youtube.com/watch?v=v1WnlnjGk
+i[9 : old] https://www.youtube.com/watch?v=Gzf1dLzcey0
+i[11 : new] https://www.fontanka.ru/2023/06/14/72396479/
+i[12 : new] https://www.interfax.ru/russia/906119
+i
+i               Western Asia
+i        -------------------------
+i
+i                  Israel
+i              -------------
+i
+i
+i[ נרקיס ]
+i
+i[2 : new] https://he.wikipedia.org/wiki/%D7%A0%D7%A8%D7%A7%D7%99%D7%A1_(%D7%96%D7%9E%D7%A8%D7%AA)
+i[3 : new] http://he.wikipedia.org/wiki/%D7%92%D7%99%D7%98%D7%A8%D7%94
+i[5 : new] https://he.wikipedia.org/wiki/%D7%A0%D7%A8%D7%A7%D7%99%D7%A1
+i[6 : new] http://he.wikipedia.org/wiki/%D7%A0%D7%A8%D7%A7%D7%99%D7%A1%D7%99%D7%99%D7%9D
+i[7 : old] https://www.youtube.com/watch?v=wSQCw8IEjOA
+i[8 : old] https://www.instagram.com/narkisofficial/?hl=en
+i[9 : old] https://www.facebook.com/NarkisOfficial/?locale=he_IL
+i[10 : new] https://www.srugim.co.il/802391-%D7%A0%D7%A8%D7%A7%D7%99%D7%A1-%D7%91%D7%A4%D7%95%D7%A1%D7%98-%D7%97%D7%A9%D7%95%D7%A3-%D7%9E%D7%94-%D7%94%D7%95%D7%91%D7%99%D7%9C-%D7%90%D7%95%D7%AA%D7%99-%D7%9C%D7%A9%D7%99%D7%A0%D7%95%D7%99-%D7%94
+i[11 : new] https://www.narkisshahaf.com/
+i[12 : new] https://he.wiktionary.org/wiki/%D7%A0%D7%A8%D7%A7%D7%99%D7%A1
+i[13 : new] https://en.wiktionary.org/wiki/%D7%A0%D7%A8%D7%A7%D7%99%D7%A1
+i[14 : new] https://narkis.bandcamp.com/
+i
+i[ קארין אלהרר ]
+i
+i[2 : new] https://he.wikipedia.org/wiki/%D7%A7%D7%90%D7%A8%D7%99%D7%9F_%D7%90%D7%9C%D7%94%D7%A8%D7%A8
+i[3 : new] https://he.wikipedia.org/wiki/%D7%93%D7%99%D7%9C%D7%95%D7%9C_%D7%A9%D7%A8%D7%99%D7%A8%D7%99%D7%9D
+i[4 : old] https://en.wikipedia.org/wiki/Karine_Elharrar
+i[5 : new] https://main.knesset.gov.il/mk/Apps/mk/mk-personal-details/860
+i[6 : old] https://www.facebook.com/karine.elharrar/?locale=he_IL
+i[7 : old] https://twitter.com/kelharrar?lang=en
+i[8 : new] https://www.srugim.co.il/804504-%D7%94%D7%AA%D7%A8%D7%92%D7%99%D7%9C-%D7%A0%D7%9B%D7%A9%D7%9C-%D7%A7%D7%90%D7%A8%D7%99%D7%9F-%D7%90%D7%9C%D7%94%D7%A8%D7%A8-%D7%A0%D7%91%D7%97%D7%A8%D7%94-%D7%9C%D7%A0%D7%A6%D7%99%D7%92%D7%AA-%D7%95
+i[9 : new] https://www.makorrishon.co.il/news/630135/
+i[10 : new] https://www.globes.co.il/news/article.aspx?did=1001162994
+i[11 : new] https://www.inn.co.il/news/604645
+i[12 : new] https://www.calcalist.co.il/local_news/article/byx2hkwp3
+i[13 : new] https://yeshatid.org.il/members/karin-elharar
+i
+i               Saudi Arabia
+i              -------------
+i
+i
+i[ والي غرب دارفور ]
+i
+i[2 : old] https://www.youtube.com/watch?v=5MpI_LV_Rtc
+i[3 : new] https://www.alarabiya.net/arab-and-world/sudan/2023/06/15/%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%A8%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D8%AA%D8%AA%D9%87%D9%85-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A8%D9%82%D8%AA%D9%84-%D9%88%D8%A7%D9%84%D9%8A-%D8%BA%D8%B1%D8%A8-%D8%AF%D8%A7%D8%B1%D9%81%D9%88%D8%B1-
+i[4 : new] https://www.aljazeera.net/news/2023/6/15/%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D9%83-%D8%AA%D8%AF%D8%AE%D9%84-%D8%B4%D9%87%D8%B1%D9%87%D8%A7-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D9%85%D9%82%D8%AA%D9%84-%D9%88%D8%A7%D9%84%D9%8A
+i[5 : new] https://mubasher.aljazeera.net/news/politics/2023/6/15/%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D9%88%D8%A7%D9%84%D9%8A-%D8%BA%D8%B1%D8%A8-%D8%AF%D8%A7%D8%B1%D9%81%D9%88%D8%B1-%D8%AE%D9%85%D9%8A%D8%B3-%D8%A3%D8%A8%D9%83%D8%B1
+i[6 : old] https://www.bbc.com/arabic/trending-65906393
+i[7 : new] https://www.alquds.co.uk/%D9%85%D9%82%D8%AA%D9%84-%D9%88%D8%A7%D9%84%D9%8A-%D8%BA%D8%B1%D8%A8-%D8%AF%D8%A7%D8%B1%D9%81%D9%88%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%86%D8%A9-%D8%B9%D9%84%D9%89-%D9%8A%D8%AF/
+i[8 : old] https://www.facebook.com/WestofDarfurGovernor/
+i[9 : new] https://www.raialyoum.com/%D8%A3%D9%86%D8%A8%D8%A7%D8%A1-%D8%B9%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D9%88%D8%A7%D9%84%D9%8A-%D8%BA%D8%B1%D8%A8-%D8%AF%D8%A7%D8%B1%D9%81%D9%88%D8%B1-%D8%AE%D9%85%D9%8A%D8%B3-%D8%A3%D8%A8%D9%83%D8%B1/
+i[10 : new] https://www.cairo24.com/1816028
+i[11 : new] https://www.elbalad.news/5809472
+i
+i[ سيلفيو برلسكوني ]
+i
+i[2 : old] https://en.wikipedia.org/wiki/Silvio_Berlusconi
+i[4 : new] https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D9%84%D9%81%D9%8A%D9%88_%D8%A8%D8%B1%D9%84%D8%B3%D9%83%D9%88%D9%86%D9%8A
+i[5 : new] https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D9%8A%D9%86%D8%A7_%D8%A8%D8%B1%D9%84%D8%B3%D9%83%D9%88%D9%86%D9%8A
+i[6 : old] https://www.bbc.com/arabic/world-65879131
+i[7 : old] https://www.bbc.com/arabic/media-65882513
+i[8 : new] https://www.aljazeera.net/news/2023/6/12/%D9%88%D9%81%D8%A7%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%82-%D8%B3%D9%8A%D9%84%D9%81%D9%8A%D9%88
+i[9 : old] https://www.cnn.com/2023/06/12/media/berlusconi-business-empire-explainer/index.html
+i[10 : new] https://arabic.cnn.com/world/article/2023/06/12/silvio-berlusconi-dies-86years
+i[11 : new] https://arabic.cnn.com/tag/sylfyw-brlskwny
+i[12 : new] https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20230612-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D9%88%D9%81%D8%A7%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82-%D8%B3%D9%8A%D9%84%D9%81%D9%8A%D9%88-%D8%A8%D8%B1%D9%84%D8%B3%D9%83%D9%88%D9%86%D9%8A-%D8%B9%D9%86-86-%D8%B9%D8%A7%D9%85%D8%A7
+i[13 : new] https://www.france24.com/ar/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20230614-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D8%AC%D9%86%D8%A7%D8%B2%D8%A9-%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D9%88%D8%AD%D8%AF%D8%A7%D8%AF-%D9%81%D9%8A-%D9%88%D8%AF%D8%A7%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%82-%D8%B3%D9%8A%D9%84%D9%81%D9%8A%D9%88-%D8%A8%D8%B1%D9%84%D8%B3%D9%83%D9%88%D9%86%D9%8A
+i
+i                  Turkey
+i              -------------
+i
+i
+i[ Tarzan Rıfkı ]
+i
+i[3 : old] https://www.youtube.com/watch?v=WE0tU8cJ1Ps
+i[5 : old] https://www.youtube.com/watch?v=J1xZ16ou8BI
+i[6 : old] https://www.youtube.com/watch?v=fOCVDS1JigE
+i[7 : old] https://www.imdb.com/title/tt0253790/
+i[8 : new] https://tr.wikipedia.org/wiki/TarzanA25C4%B1fk%C4%B1
+i[9 : old] https://www.facebook.com/gulsahfilmresmi/videos/tarzan-rifki-t%C3%BCrk-filmi-full-izle-kemal-sunal/120919993235208/
+i[10 : new] http://www.sinematurk.com/film/6243-tarzan-rifki
+i[11 : new] https://rateyourmusic.com/film/tarzan_rifki/
+i[12 : new] https://www.moviefone.com/movie/tarzan-rfk/e0b53Y3As8FkhBwtBZ4BA4/main/
+i[13 : new] https://letterboxd.com/film/tarzan-rfk/
+i
+i               Eastern Asia
+i        -------------------------
+i
+i                Hong Kong
+i              -------------
+i
+i
+i[ 習近平 ]
+i
+i[1 : new] https://zh.wikipedia.org/zh-hant/%E4%B9%A0%E8%BF%91%E5%B9%B3
+i[2 : new] https://tw.news.yahoo.com/%E5%BE%AE%E8%BB%9F%E5%89%B5%E8%BE%A6%E4%BA%BA%E8%93%8B%E8%8C%B2%E8%A8%AA%E4%B8%AD%E5%9C%8B-%E5%82%B316%E6%97%A5%E6%99%A4%E7%BF%92%E8%BF%91%E5%B9%B3-171134337.html
+i[3 : old] https://en.wikipedia.org/wiki/Xi_Jinping
+i[4 : new] https://baike.baidu.com/item/%E4%B9%A0%E8%BF%91%E5%B9%B3/515617
+i[5 : old] https://www.youtube.com/watch?v=6eT5lIaAfmU
+i[6 : old] https://www.youtube.com/watch?v=qasOGI-nCY4
+i[7 : old] https://www.youtube.com/watch?v=JoHr_lHQhmE
+i[8 : new] http://cpc.people.com.cn/BIG5/64192/105996/6463136.html
+i[9 : new] http://cpc.people.com.cn/BIG5/64192/105996/index.html
+i[10 : old] https://www.bbc.com/zhongwen/trad/topics/c8m3qnpme6wt
+i[11 : new] https://tw.news.yahoo.com/%E5%BC%B7%E7%83%88%E5%8D%B1%E6%A9%9F%E6%84%9F-%E7%BF%92%E8%BF%91%E5%B9%B310%E6%AC%A1%E8%AD%A6%E5%91%8A-%E5%B0%8F%E5%BF%83%E7%BF%BB%E8%88%B9-091333793.html
+i
+i                  Japan
+i              -------------
+i
+i
+i[ 広末涼子 ]
+i
+i[1 : new] https://ja.wikipedia.org/wiki/%E5%BA%83%E6%9C%AB%E6%B6%BC%E5%AD%90
+i[2 : new] https://ja.wikipedia.org/wiki/CANDLE_JUNE
+i[3 : new] https://www.flamme.co.jp/RyokoHirosue/
+i[4 : old] https://en.wikipedia.org/wiki/Ry%C5%8Dko_Hirosue
+i[6 : new] https://www.flamme.co.jp/RyokoHirosue/
+i[7 : old] https://www.instagram.com/hirosue_staff/
+i[8 : new] https://www.yomiuri.co.jp/culture/tv/20230614-OYT1T50149/
+i[9 : old] https://twitter.com/ryoko_staff
+i[10 : new] https://bunshun.jp/articles/-/63577
+i[11 : new] https://rentthemusical.jp/hirosueryoko-tobasyusaku/
+i[12 : new] https://eiga.com/person/59620/
+i[13 : new] https://news.yahoo.co.jp/pickup/6466538
+i[14 : new] https://miro2022.jp/hirosueryoko-rikon/
+i
+i[ FOMC ]
+i
+i[1 : new] https://www.federalreserve.gov/monetarypolicy/fomc.htm
+i[2 : new] https://www.barrons.com/livecoverage/fed-meeting-decision-interest-rates-powell-speech-today
+i[3 : new] https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+i[4 : new] https://www.federalreserve.gov/monetarypolicy/fomc.htm
+i[5 : new] https://www.federalreserve.gov/newsevents/pressreleases/monetary20230614a.htm
+i[6 : old] https://www.youtube.com/watch?v=L61NSlLRGe8
+i[7 : old] https://twitter.com/federalreserve?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+i[8 : old] https://twitter.com/federalreserve/status/1669042396678479888?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[9 : old] https://www.youtube.com/federalreserve
+i[10 : new] https://www.investopedia.com/terms/f/fomc.asp
+i[11 : new] https://www.philadelphiafed.org/education/a-day-in-the-life-of-the-fomc
+i[12 : new] https://www.dailyfx.com/fomc
+i
+i               South Korea
+i              -------------
+i
+i
+i[ 김민재 맨유 ]
+i
+i[2 : new] https://radiokorea.com/news/article.php?uid=421176
+i[3 : new] https://www.chosun.com/sports/world-football/2023/06/14/KYLYDYYA4H3X6TWFO2WHXL3TJQ/
+i[4 : new] https://biz.chosun.com/sports/football/2023/06/14/NA4PPBXJVKPRFQFVHCTIVZUT2A/
+i[5 : old] https://www.youtube.com/watch?v=J4vJOgxO4Gc
+i[6 : old] https://www.youtube.com/watch?v=bbjflEQGF-M
+i[7 : old] https://www.youtube.com/watch?v=YZyYSbjub5A
+i[8 : old] https://www.youtube.com/watch?v=l-TM_cdzb-4
+i[9 : new] http://www.interfootball.co.kr/news/articleView.html?idxno=608005
+i[10 : new] http://www.footballist.co.kr/news/articleView.html?idxno=168690
+i
+i[ 청년도약계좌 신청 ]
+i
+i[1 : new] https://www.jobaba.net/sprtPlcy/info/view.do?seq=10901&cntType=O
+i[2 : new] https://www.banksalad.com/articles/%EC%B2%AD%EB%85%84%EB%8F%84%EC%95%BD%EA%B3%84%EC%A2%8C-%EC%A1%B0%EA%B1%B4%EB%B6%80%ED%84%B0-%EC%8B%A0%EC%B2%AD%EA%B9%8C%EC%A7%80-%EB%AA%A8%EB%91%90-%EC%A0%95%EB%A6%AC
+i[3 : new] https://www.banksalad.com/articles/%EC%B2%AD%EB%85%84%EB%8F%84%EC%95%BD%EA%B3%84%EC%A2%8C-%EC%A1%B0%EA%B1%B4%EB%B6%80%ED%84%B0-%EC%8B%A0%EC%B2%AD%EA%B9%8C%EC%A7%80-%EB%AA%A8%EB%91%90-%EC%A0%95%EB%A6%AC#%EC%B2%AD%EB%85%84%EB%8F%84%EC%95%BD%EA%B3%84%EC%A2%8C%20%EA%B0%80%EC%9E%85%20%EC%A1%B0%EA%B1%B4
+i[4 : new] https://blog.naver.com/blogfsc/223126489820
+i[5 : new] https://www.korea.kr/news/policyNewsView.do?newsId=148916183
+i[6 : new] https://info.lifeinformation.co.kr/
+i[7 : new] https://www.donga.com/news/Economy/article/all/20230615/119775473/1
+i[8 : old] https://www.youtube.com/watch?v=x9egXxVdE7U
+i[9 : new] https://www.fsc.go.kr/no010101/80198
+i[10 : new] http://www.dailycc.net/news/articleView.html?idxno=746696
+i[11 : new] https://inf-news.com/entry/%EC%B2%AD%EB%85%84%EB%8F%84%EC%95%BD%EA%B3%84%EC%A2%8C
+i
+i                 Taiwan
+i              -------------
+i
+i
+i[ Fed ]
+i
+i[1 : old] https://www.cnbc.com/2023/06/14/fed-rate-decision-june-2023.html
+i[2 : new] https://www.federalreserve.gov/
+i[3 : new] https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+i[4 : old] https://twitter.com/federalreserve?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+i[5 : old] https://twitter.com/federalreserve/status/1669042396678479888?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[6 : old] https://www.cnn.com/business/live-news/stock-market-fed-inflation/index.html
+i[7 : new] https://www.newyorkfed.org/
+i[8 : new] https://www.usatoday.com/story/money/2023/06/14/fed-interest-rate-hike-live-updates/70313232007/
+i[9 : new] https://www.stlouisfed.org/en
+i[10 : new] https://www.ft.com/stream/e5533208-e5cc-4be5-aea1-c464a9a205e3
+i[11 : new] https://www.cbsnews.com/news/fed-interest-rate-meeting-decision/
+i
+i                South Asia
+i        -------------------------
+i
+i                  India
+i              -------------
+i
+i
+i[ Uniform Civil Code ]
+i
+i[1 : old] https://en.wikipedia.org/wiki/Uniform_Civil_Code
+i[2 : new] https://www.tribuneindia.com/news/nation/in-big-push-ahead-of-ls-poll-law-panel-seeks-public-view-on-ucc-517098
+i[3 : new] https://www.business-standard.com/about/what-is-uniform-civil-code
+i[4 : new] https://byjus.com/free-ias-prep/need-for-a-uniform-civil-code-in-a-secular-india/
+i[5 : old] https://www.bbc.com/news/world-asia-india-61589491
+i[6 : new] https://www.legalserviceindia.com/legal/article-773-uniform-civil-code.html
+i[7 : new] https://www.thehindu.com/news/national/law-commission-seeks-fresh-suggestions-on-uniform-civil-code/article66969329.ece
+i[9 : old] https://www.youtube.com/watch?v=7yixpSZKQKc
+i[10 : new] https://lawcommissionofindia.nic.in/notice/uniform-civil-code-public-notice/
+i
+i[ Tori Bowie died ]
+i
+i[1 : new] https://www.npr.org/2023/06/13/1181971448/tori-bowie-an-elite-olympic-athlete-died-of-complications-from-childbirth
+i[2 : old] https://www.cnn.com/2023/06/13/sport/tori-bowie-sprinter-childbirth-death-spt/index.html
+i[3 : new] https://www.cbsnews.com/news/tori-bowie-childbirth-death-complications-olympic-champion/
+i[4 : new] https://www.cbsnews.com/news/tori-bowie-childbirth-death-complications/
+i[5 : new] https://www.nbcnews.com/news/us-news/olympic-sprinter-tori-bowie-died-childbirth-complications-autopsy-rcna88995
+i[6 : new] https://abc7chicago.com/tori-bowie-cause-of-death-dies/13380591/
+i[7 : old] https://www.nytimes.com/2023/06/13/sports/olympics/tori-bowie-death-childbirth-pregnant.html
+i[8 : old] https://www.foxnews.com/sports/olympic-gold-medalist-tori-bowie-died-childbirth-complications-autopsy-finds
+i[9 : new] https://apnews.com/article/tori-bowie-autopsy-olympics-eecc4161f5326bbfb9a64b6ac9f6efb2
+i[10 : old] https://people.com/tori-bowie-died-from-childbirth-complications-rep-confirms-7503116
+i
+i              Southeast Asia
+i        -------------------------
+i
+i                Indonesia
+i              -------------
+i
+i
+i[ Stunting adalah ]
+i
+i[2 : new] https://rsudblora.blorakab.go.id/2022/12/15/mengenal-stunting-penyebab-hingga-cara-pencegahannya/
+i[3 : new] https://yankes.kemkes.go.id/view_artikel/1388/mengenal-apa-itu-stunting
+i[4 : new] https://djpb.kemenkeu.go.id/kppn/lubuksikaping/id/data-publikasi/artikel/3012-stunting,-apa,-penyebab-dan-upaya-penanganannya.html
+i[5 : new] https://www.siloamhospitals.com/informasi-siloam/artikel/apa-itu-stunting
+i[6 : new] https://www.siloamhospitals.com/informasi-siloam/artikel/apa-itu-stunting#mcetoc_1gs7m7g8em71
+i[7 : new] https://diskes.baliprov.go.id/cegah-stunting-untuk-masa-depan-anak-yang-lebih-baik/
+i[8 : new] https://hellosehat.com/parenting/kesehatan-anak/penyakit-pada-anak/stunting/
+i[9 : new] https://www.alodokter.com/stunting
+i[10 : new] https://www.halodoc.com/kesehatan/stunting
+i[11 : new] https://www.nestlehealthscience.co.id/artikel/masalah-stunting-anak
+i[12 : new] https://www.mitrakeluarga.com/artikel/artikel-kesehatan/penyebab-stunting
+i
+i[ Syahrul Yasin Limpo tersangka KPK ]
+i
+i[1 : new] https://nasional.tempo.co/read/1737446/terpopuler-nasional-mentan-syahrul-yasin-limpo-akan-jadi-tersangka-hingga-sandiaga-uno-bergabung-ke-ppp
+i[2 : new] https://www.beritasatu.com/nasional/1051248/dikabarkan-jadi-tersangka-kpk-mentan-syahrul-yasin-limpo-bungkam
+i[3 : new] https://www.jawapos.com/nasional/01975669/dikabarkan-jadi-tersangka-kpk-harta-kekayaan-mentan-syahrul-yasin-limpo-capai-rp-20-miliar
+i[4 : new] https://news.detik.com/berita/d-6772758/respons-mentan-yasin-limpo-soal-kpk-selidiki-dugaan-korupsi-di-kementan
+i[5 : new] https://metro.suara.com/read/2023/06/14/141949/mentan-syahrul-yasin-limpo-dikabarkan-jadi-tersangka-kpk
+i[6 : new] https://makassar.tribunnews.com/2023/06/14/mentan-syahrul-yasin-limpo-dikabarkan-tersangka-korupsi-kpk-ungkap-fakta-sebenarnya
+i[7 : new] https://jambi.tribunnews.com/2023/06/14/kader-nasdem-dikabarkan-jadi-tersangka-begini-penjelasan-kpk-terhadap-status-syahrul-yasin-limpo
+i[8 : new] https://www.cnnindonesia.com/nasional/20230614190517-12-961938/yasin-limpo-mengaku-tak-mengerti-soal-korupsi-kementerian-pertanian
+i[9 : new] https://www.kaltenglima.com/nasional/3519145778/kader-nasdem-mentan-syahrul-yasin-limpo-dikabarkan-jadi-tersangka-kpk
+i[10 : new] https://www.liputan6.com/news/read/5319075/kpk-usut-dugaan-korupsi-di-kementerian-pertanian-beredar-isu-syahrul-yasin-limpo-terlibat
+i
+i                 Malaysia
+i              -------------
+i
+i
+i[ Song Joong-ki ]
+i
+i[1 : new] https://www.allkpop.com/article/2023/06/song-joong-ki-announces-the-birth-of-his-son-with-a-photo-on-his-fan-cafe
+i[2 : old] https://en.wikipedia.org/wiki/Song_Joong-ki
+i[3 : old] https://en.wikipedia.org/wiki/Song_Joong-ki#Career
+i[4 : old] https://en.wikipedia.org/wiki/Song_Joong-ki
+i[7 : old] https://www.instagram.com/hi_songjoongki/?hl=en
+i[8 : old] https://www.imdb.com/name/nm3609366/
+i[9 : new] https://asianwiki.com/Song_Joong-Ki
+i[10 : new] https://www.viki.com/celebrities/14866pr-song-joong-ki?locale=en
+i[11 : new] https://mydramalist.com/people/431-song-joong-ki
+i[12 : old] https://www.hindustantimes.com/entertainment/others/song-joong-ki-and-wife-katy-blessed-with-baby-boy-101686759176746.html
+i[13 : new] https://www.britannica.com/biography/Song-Joong-Ki
+i[14 : new] https://cnalifestyle.channelnewsasia.com/entertainment/song-joong-ki-father-katy-louise-saunders-362101
+i
+i[ Bangladesh vs Afghanistan ]
+i
+i[1 : old] https://www.espncricinfo.com/series/afghanistan-in-bangladesh-2023-1377001/bangladesh-vs-afghanistan-only-test-1377011/full-scorecard
+i[2 : old] https://www.espncricinfo.com/series/afghanistan-in-bangladesh-2023-1377001
+i[3 : new] https://timesofindia.indiatimes.com/sports/cricket/one-off-test-bangladesh-vs-afghanistan-live-score-updates/liveblog/100981950.cms
+i[4 : new] https://www.icc-cricket.com/match/100492
+i[5 : new] https://www.icc-cricket.com/match/102173
+i[6 : old] https://www.cricbuzz.com/cricket-commentary/70996/ban-vs-afg-only-test-afghanistan-tour-of-bangladesh-2023
+i[7 : old] https://www.hindustantimes.com/cricket/live-scorecard-ban-vs-afg-afg-in-ban-only-test-2023-one-off-test-bangladesh-vs-afghanistan-test-live-score-baaf06142023227033/
+i[8 : new] https://www.independent.co.uk/sport/cricket/bangladesh-afghanistan-live-stream-score-updates-b2356316.html
+i[9 : new] https://sports.ndtv.com/cricket/bangladesh-vs-afghanistan-one-off-test-live-cricket-score-and-updates-4119382
+i[10 : new] https://www.tribuneindia.com/cricket/bangladesh-vs-afghanistan-series-will-be-played-in-two-phases-afghanistan-to-leave-for-india-mid-way-645e3e448815739a8a9f0b37
+i
+i               Philippines
+i              -------------
+i
+i
+i[ Nick Kyrgios ]
+i
+i[1 : old] https://en.wikipedia.org/wiki/Nick_Kyrgios
+i[2 : old] https://en.wikipedia.org/wiki/Nick_Kyrgios_career_statistics
+i[3 : old] https://www.foxnews.com/sports/nick-kyrgios-checked-into-mental-ward-after-2019-wimbledon-loss
+i[4 : old] https://en.wikipedia.org/wiki/Nick_Kyrgios
+i[5 : old] https://twitter.com/NickKyrgios?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+i[6 : old] https://twitter.com/NickKyrgios/status/1668681460256231424?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[7 : new] https://www.atptour.com/en/players/nick-kyrgios/ke17/overview
+i[8 : old] https://www.instagram.com/k1ngkyrg1os/?hl=en
+i[9 : new] https://nypost.com/2023/06/14/suicidal-nick-kyrgios-admitted-into-psych-ward-after-2019-wimbledon-loss/
+i[10 : old] https://www.theguardian.com/sport/2023/jun/14/nick-kyrios-wimbledon-rafael-nadal-tennis
+i[11 : old] https://www.espn.com/tennis/player/_/id/1984/nick-kyrgios
+i[12 : new] https://www.independent.co.uk/topic/nick-kyrgios
+i[13 : new] https://metro.co.uk/tag/nick-kyrgios/
+i
+i                Singapore
+i              -------------
+i
+i
+i[ FOMC ]
+i
+i[1 : new] https://www.federalreserve.gov/monetarypolicy/fomc.htm
+i[2 : new] https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+i[3 : new] https://www.federalreserve.gov/monetarypolicy/fomc.htm
+i[4 : new] https://www.barrons.com/livecoverage/fed-meeting-decision-interest-rates-powell-speech-today
+i[5 : new] https://www.federalreserve.gov/newsevents/pressreleases/monetary20230614a.htm
+i[6 : new] https://www.federalreserve.gov/live-broadcast.htm
+i[7 : old] https://twitter.com/federalreserve?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+i[8 : old] https://twitter.com/federalreserve/status/1669042396678479888?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[9 : new] https://www.federalreserve.gov/
+i[10 : new] https://www.federalreserve.gov/newsevents/calendar.htm
+i[11 : new] https://www.federalreserve.gov/newsevents.htm
+i[12 : old] https://www.youtube.com/watch?v=L61NSlLRGe8
+i
+i[ The Flash ]
+i
+i[1 : old] https://www.rottentomatoes.com/m/the_flash_2023
+i[4 : old] https://www.imdb.com/title/tt3107288/
+i[5 : old] https://www.imdb.com/title/tt0439572/
+i[6 : old] https://en.wikipedia.org/wiki/The_Flash_(film)
+i[7 : old] https://en.wikipedia.org/wiki/Sasha_Calle
+i[8 : old] https://variety.com/2023/film/news/ezra-miller-flash-premiere-speech-misconduct-dc-studios-1235641961/
+i[9 : old] https://www.youtube.com/watch?v=jprhe-cWKGs
+i[10 : old] https://www.youtube.com/watch?v=hebWYacbdvc
+i[11 : new] https://www.dc.com/theflash
+i[12 : old] https://www.rottentomatoes.com/m/the_flash_2023
+i[14 : new] https://www.netflix.com/title/80027042
+i
+i                Thailand
+i              -------------
+i
+i
+i[ ซงจุงกิ ]
+i
+i[2 : old] https://en.wikipedia.org/wiki/Song_Joong-ki
+i[5 : new] https://th.wikipedia.org/wiki/%E0%B8%8B%E0%B8%87_%E0%B8%88%E0%B8%B8%E0%B8%87-%E0%B8%81%E0%B8%B5
+i[6 : new] https://baby.kapook.com/view270135.html
+i[7 : new] https://www.korseries.com/song-joong-ki-personally-announces-welcome-a-baby-boy-in-rome/
+i[8 : new] https://entertainment.trueid.net/detail/gR5Eq09V94jR
+i[9 : old] https://www.instagram.com/hi_songjoongki/
+i[10 : new] https://asianwiki.com/Song_Joong-Ki
+i[11 : new] https://www.pptvhd36.com/news/%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87/189403
+i[12 : new] https://mgronline.com/entertainment/detail/9660000054451
+i[13 : old] https://www.youtube.com/watch?v=-l3JtRUlkGg
+i[14 : new] https://thestandard.co/10-contributions-of-song-joong-ki/
+i
+i                 Vietnam
+i              -------------
+i
+i
+i[ Hà Lan vs Croatia ]
+i
+i[2 : new] https://bongdaplus.vn/video/video-ban-thang-ha-lan-vs-croatia-2-2-hp-0-2-ban-ket-nations-league-2022-23-756362306.html
+i[3 : new] https://bongdaplus.vn/nations-league/ket-qua-ha-lan-vs-croatia-ha-lan-ngam-ngui-nhin-croatia-vao-chung-ket-nations-league-4027412306.html
+i[4 : new] https://thethao247.vn/456-truc-tiep-ha-lan-vs-croatia-1h45-ngay-15-6-link-hd-d289780.html
+i[5 : new] https://tienphong.vn/nhan-dinh-ha-lan-vs-croatia-01h45-ngay-156-dinh-cao-cuoi-cung-post1542912.tpo
+i[6 : new] https://vtc.vn/nhan-dinh-bong-da-ha-lan-vs-croatia-tranh-suat-chung-ket-nations-league-ar799531.html
+i[7 : new] https://vietnamnet.vn/ket-qua-ha-lan-2-4-croatia-nations-league-2022-23-2154817.html
+i[8 : new] https://bongda24h.vn/nhan-dinh-bong-da/nhan-dinh-ha-lan-vs-croatia-nations-league-344-355542.html
+i[9 : new] https://bongda24h.vn/truc-tiep/ha-lan-vs-croatia-uefa-nations-league-hom-nay-372-355587.html
+i[10 : new] https://thethao.sggp.org.vn/ha-lan-vs-croatia-2-4-kich-tinh-malen-mo-ban-kramaric-pasalic-nguoc-dong-lang-go-hoa-petkovic-modric-chot-ve-chung-ket-uefa-nations-league-post693723.html
+i[11 : new] https://zingnews.vn/ha-lan-thua-croatia-o-ban-ket-uefa-nations-league-post1439981.html
+i
+i             Northern Europe
+i        -------------------------
+i
+i                 Denmark
+i              -------------
+i
+i
+i[ Jude Bellingham ]
+i
+i[1 : old] https://twitter.com/BellinghamJude/status/1669061841371144198?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[2 : old] https://en.wikipedia.org/wiki/Jude_Bellingham
+i[3 : old] https://en.wikipedia.org/wiki/Jobe_Bellingham
+i[4 : old] https://www.espn.com/soccer/story/_/id/37851149/real-madrid-confirm-signing-jude-bellingham-dortmund
+i[5 : old] https://www.instagram.com/judebellingham/?hl=en
+i[6 : old] https://en.wikipedia.org/wiki/Jude_Bellingham
+i[7 : new] https://www.transfermarkt.us/jude-bellingham/profil/spieler/581678
+i[8 : new] http://transfermarkt.us/england/startseite/verein/3299
+i[9 : new] https://www.bundesliga.com/en/bundesliga/player/jude-bellingham
+i[10 : new] https://fbref.com/en/players/57d88cf9/Jude-Bellingham
+i[11 : old] https://www.theguardian.com/football/2023/jun/14/real-madrid-confirm-signing-of-jude-bellingham-from-borussia-dortmund
+i[12 : new] https://www.foxsports.com/soccer/jude-bellingham-player
+i[13 : old] https://theathletic.com/4593374/2023/06/14/jude-bellingham-real-madrid/
+i
+i                 Finland
+i              -------------
+i
+i
+i[ Die another day ]
+i
+i[2 : old] https://en.wikipedia.org/wiki/Die_Another_Day
+i[3 : old] https://en.wikipedia.org/wiki/Die_Another_Day_(song)
+i[4 : old] https://www.imdb.com/title/tt0246460/
+i[6 : old] https://www.rottentomatoes.com/m/die_another_day
+i[7 : old] https://www.youtube.com/watch?v=VlbaJA7aO9M
+i[8 : old] https://www.imdb.com/title/tt0246460/
+i[9 : new] https://www.amazon.com/Another-Pierce-Brosnan-James-Bond/dp/B0020Q099Y
+i[10 : new] https://www.007.com/the-films/die-another-day/
+i[11 : new] https://jamesbond.fandom.com/wiki/Die_Another_Day_(film)
+i[12 : new] https://ew.com/movies/movie-reviews/die-another-day-anniversary-james-bond-20th/
+i[13 : old] https://www.theguardian.com/film/2022/nov/22/die-another-day-james-bond-movie-anniversary
+i[14 : new] https://www.amazon.com/Die-Another-Special-Pierce-Brosnan/dp/B00008S2SF
+i
+i                 Ireland
+i              -------------
+i
+i
+i[ Netherlands vs Croatia ]
+i
+i[1 : old] https://theathletic.com/live-blogs/netherlands-croatia-live-score-updates-result-nations-league/CTSIitOn3ZLM/
+i[2 : new] https://www.foxsports.com/watch/play-67489781500069a
+i[3 : new] https://en.as.com/soccer/netherlands-vs-croatia-live-online-score-stats-updates-uefa-nations-league-semi-final-n/
+i[4 : old] https://www.youtube.com/watch?v=QDEFDywvqFU
+i[5 : new] https://www.vavel.com/en-us/soccer/2023/06/14/1149107-netherlands-vs-croatia-live-updates-score-streaminfo-lineups-and-how-to-watch-uefa-nations-league-2023-match.html
+i[6 : new] https://www.uefa.com/uefanationsleague/match/2035581--netherlands-vs-croatia/
+i[7 : old] https://www.espn.com/soccer/match/_/gameId/654360
+i[8 : new] https://www.marca.com/en/football/uefa-nations-league/paises-bajos-croacia/2023/06/14/01_0195_20230614_366_535-live.html
+i[9 : old] https://www.bbc.com/sport/live/football/65907796
+i[10 : new] https://www.standard.co.uk/sport/football/netherlands-vs-croatia-live-stream-nations-league-2023-latest-score-result-watch-tv-team-news-b1087882.html
+i
+i[ Lotto results ]
+i
+i[2 : new] https://lottoresults.app/
+i[3 : new] https://nylottery.ny.gov/
+i[4 : new] https://nylottery.ny.gov/all-winning-numbers
+i[5 : new] https://www.lotteryusa.com/new-york/
+i[6 : new] https://www.lotteryusa.com/new-york/midday-numbers/
+i[7 : new] https://www.illinoislottery.com/dbg/results/lotto
+i[8 : old] https://www.youtube.com/watch?v=7pU2qwTGnXg
+i[9 : new] https://www.nylottery.org/
+i[10 : new] https://www.lotteryusa.com/
+i[11 : new] https://www.palottery.state.pa.us/
+i[12 : old] https://apps.apple.com/us/app/lotto-results-lottery-in-us/id386505750
+i[13 : new] https://www.texaslottery.com/
+i
+i                  Sweden
+i              -------------
+i
+i
+i[ Nations League ]
+i
+i[2 : new] https://www.uefa.com/uefanationsleague/
+i[3 : new] https://www.uefa.com/uefanationsleague/news/0279-1632c4333a99-7f1af4781e69-1000--uefa-nations-league-finals-who-is-in-it-when-is-it-where-doe/
+i[4 : new] https://www.concacaf.com/nations-league/
+i[5 : new] https://www.concacaf.com/nations-league/schedule-results/
+i[6 : old] https://en.wikipedia.org/wiki/UEFA_Nations_League
+i[7 : old] https://en.wikipedia.org/wiki/UEFA_Nations_League#Adoption
+i[8 : old] https://www.bbc.com/sport/football/65871144
+i[9 : old] https://www.espn.com/soccer/standings/_/league/uefa.nations
+i[10 : new] https://www.ussoccer.com/competitions/concacaf-nations-league-2022-2023
+i[11 : old] https://www.espn.com/soccer/league/_/name/uefa.nations
+i[12 : new] https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-netherlands-vs-croatia-from-anywhere/
+i[13 : new] https://www.skysports.com/uefa-nations-league-table
+i[14 : old] https://www.reuters.com/sports/soccer/croatia-reach-nations-league-final-after-knocking-out-hosts-netherlands-2023-06-14/
+i
+i[ William Karlsson ]
+i
+i[1 : old] https://www.nhl.com/player/william-karlsson-8476448
+i[2 : old] https://www.espn.com/nhl/player/_/id/2563057/william-karlsson
+i[3 : old] https://en.wikipedia.org/wiki/William_Karlsson
+i[4 : old] https://en.wikipedia.org/wiki/William_Karlsson#Playing_career
+i[5 : old] https://en.wikipedia.org/wiki/William_Karlsson
+i[6 : new] https://www.tmz.com/watch/2023-06-14-061423-william-karlsson-1632063-358/
+i[7 : old] https://www.instagram.com/larswilliamkarlsson/?hl=en
+i[8 : new] https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=142653
+i[9 : new] https://www.eliteprospects.com/player/19432/william-karlsson
+i[10 : new] https://www.hockey-reference.com/players/k/karlswi01.html
+i[11 : new] http://hockey-reference.com/teams/VEG
+i[12 : new] https://www.spotrac.com/nhl/anaheim-ducks/william-karlsson/
+i[13 : new] https://www.capfriendly.com/players/william-karlsson
+i
+i              United Kingdom
+i              -------------
+i
+i
+i[ Oliver Burke ]
+i
+i[1 : old] https://en.wikipedia.org/wiki/Oliver_Burke
+i[2 : old] https://en.wikipedia.org/wiki/Oliver_Burke#Club_career
+i[3 : old] https://en.wikipedia.org/wiki/Oliver_Burke
+i[4 : old] https://www.dailymail.co.uk/tvshowbiz/article-12193901/Megan-McKenna-engaged-footballer-Oliver-Burke-whirlwind-five-month-romance.html
+i[5 : new] https://www.transfermarkt.us/oliver-burke/profil/spieler/341317
+i[6 : old] https://www.instagram.com/oliverjburke/?hl=en
+i[7 : new] https://www.bundesliga.com/en/bundesliga/player/oliver-burke
+i[8 : new] https://www.futhead.com/players/225632/
+i[9 : new] https://fbref.com/en/players/f631c17f/Oliver-Burke
+i[10 : old] https://www.espn.com/soccer/player/_/id/212478/oliver-burke
+i[11 : new] https://www.futbin.com/23/player/31617/oliver-burke
+i[12 : new] https://www.futwiz.com/en/player/history/225632
+i
+i              Western Europe
+i        -------------------------
+i
+i                 Austria
+i              -------------
+i
+i
+i[ Kampf der Realitystars ]
+i
+i[3 : old] https://www.imdb.com/title/tt16360218/
+i[4 : new] https://www.rtl2.de/sendungen/kampf-der-realitystars
+i[5 : new] https://www.rtl2.de/sendungen/kampf-der-realitystars/seite/kampf-der-realitystars-2023-diese-promis-sind-dabei
+i[6 : old] https://www.instagram.com/kampfderrealitystars/?hl=en
+i[7 : new] https://de.wikipedia.org/wiki/Kampf_der_Realitystars_%E2%80%93_Schiffbruch_am_Traumstrand
+i[8 : new] https://de.wikipedia.org/wiki/Kampf_der_Realitystars_%E2%80%93_Schiffbruch_am_Traumstrand#Konzept
+i[9 : old] https://www.youtube.com/channel/UC4ao0AqqpszyPiKw7yyKoPw
+i[10 : new] https://tv.apple.com/de/show/kampf-der-realitystars/umc.cmc.2alukzk80sgwoebms86wt3evo?l=en
+i[11 : new] https://open.spotify.com/playlist/4BBd5dQfgoiOWyl3NFzjBr
+i[12 : new] https://www.swp.de/unterhaltung/tv/kampf-der-realitystars-2023-sieger-steht-fest-wer-hat-die-show-gewonnen-70869385.html
+i[13 : new] https://www.swp.de/unterhaltung/tv/kampf-der-realitystars-2023-kandidaten-teilnehmer-wer-ist-dabei-staffel-4-67914619.html
+i[14 : new] https://www.abendzeitung-muenchen.de/promis/kampf-der-realitystars-2023-wer-ist-raus-welcher-promi-gewinnt-das-finale-art-893480
+i
+i                 Belgium
+i              -------------
+i
+i
+i[ Koh-Lanta ]
+i
+i[1 : old] https://en.wikipedia.org/wiki/Ko_Lanta_Yai
+i[3 : new] https://www.mondayfeelings.com/ko-lanta-the-thai-island-you-cannot-miss/
+i[4 : old] https://en.wikipedia.org/wiki/Koh-Lanta
+i[5 : old] https://en.wikipedia.org/wiki/Koh-Lanta#Format_and_rules
+i[6 : new] https://www.placesofjuma.com/koh-lanta-thailand/
+i[7 : new] https://www.tripadvisor.com/Tourism-g303905-Ko_Lanta_Krabi_Province-Vacations.html
+i[8 : new] https://www.tourismthailand.org/Destinations/Provinces/Ko-Lanta/357
+i[9 : new] https://southeastasiabackpacker.com/destinations/thailand-2/the-islands/koh-lanta-3/
+i[10 : new] https://survivor.fandom.com/wiki/Koh-Lanta
+i[11 : new] https://www.lonelyplanet.com/thailand/andaman-coast/ko-lanta
+i[12 : new] https://www.kolanta.net/
+i[13 : new] https://wikitravel.org/en/Ko_Lanta
+i
+i                  France
+i              -------------
+i
+i
+i[ Prince William ]
+i
+i[1 : new] https://www.vanityfair.com/style/2023/06/prince-william-engagement-with-his-aunt-sophie
+i[2 : old] https://en.wikipedia.org/wiki/William,_Prince_of_Wales
+i[3 : old] https://en.wikipedia.org/wiki/William,_Prince_of_Wales
+i[4 : old] https://www.dailymail.co.uk/news/prince_william/index.html
+i[5 : old] https://twitter.com/KensingtonRoyal?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+i[6 : old] https://twitter.com/KensingtonRoyal/status/1668605583530901505?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[7 : old] https://people.com/tag/prince-william/
+i[8 : new] https://www.royal.uk/the-prince-of-wales
+i[9 : new] https://www.glamour.com/about/prince-william
+i[10 : new] https://www.hellomagazine.com/tags/prince-william/
+i[11 : new] https://www.independent.co.uk/topic/prince-william
+i[12 : new] https://www.mirror.co.uk/all-about/prince-william
+i
+i                 Germany
+i              -------------
+i
+i
+i[ Angelina Jolie Brad Pitt ]
+i
+i[2 : new] https://www.vanityfair.com/hollywood/2023/06/brad-pitt-angelina-jolie-miraval-rose-divorce
+i[3 : new] https://www.etonline.com/brad-pitt-and-angelina-jolies-new-vanity-fair-expose-from-personal-emails-to-the-plane-incident
+i[4 : new] https://www.etonline.com/angelina-jolie-and-brad-pitt-a-timeline-of-their-divorce-and-high-profile-legal-battles-109957
+i[5 : new] https://www.standard.co.uk/insider/angelina-jolie-and-brad-pitt-divorce-b937745.html
+i[6 : old] https://people.com/movies/brad-pitt-angelina-jolie-relationship-timeline/
+i[7 : old] https://people.com/parents/angelina-jolie-brad-pitt-children/
+i[8 : old] https://www.nytimes.com/2022/10/04/movies/angelina-jolie-brad-pitt-lawsuit.html
+i[9 : new] https://www.vulture.com/2023/06/brad-pitt-angelina-jolie-winery-lawsuit-explained.html
+i[10 : old] https://www.dailymail.co.uk/news/article-12190501/Inside-Angelina-Jolie-Brad-Pitts-bitter-legal-battle-Chateau-Miraval-winery.html
+i
+i               Netherlands
+i              -------------
+i
+i
+i[ Modric ]
+i
+i[2 : old] https://en.wikipedia.org/wiki/Luka_Modri%C4%87
+i[3 : old] https://en.wikipedia.org/wiki/NK_Inter_Zapre%C5%A1i%C4%87
+i[4 : old] https://www.theguardian.com/football/2023/jun/14/luka-modric-nations-league-croatia-netherlands-football
+i[5 : old] https://en.wikipedia.org/wiki/Luka_Modri%C4%87
+i[6 : new] https://www.realmadrid.com/en/football/squad/luka-modric
+i[7 : old] https://www.instagram.com/lukamodric10/?hl=en
+i[8 : new] https://www.transfermarkt.us/luka-modric/profil/spieler/27992
+i[9 : old] https://www.espn.com/soccer/player/_/id/76762/luka-modric
+i[10 : new] https://fbref.com/en/players/6025fab1/Luka-Modric
+i[11 : new] https://www.whoscored.com/Players/20874/Show/Luka-Modric
+i[12 : new] http://whoscored.com/Teams/52/Show/Spain-Real-Madrid
+i[13 : new] https://www.foxsports.com/soccer/luka-modric-player
+i[14 : old] https://theathletic.com/football/player/luka-modric-X2pcWLKRmvOngwFC/
+i
+i               Switzerland
+i              -------------
+i
+i
+i[ Unia ]
+i
+i[1 : new] https://www.britannica.com/topic/Universal-Negro-Improvement-Association
+i[2 : new] http://britannica.com/biography/Marcus-Garvey
+i[3 : new] https://www.pbs.org/wgbh/americanexperience/features/garvey-unia/
+i[4 : old] https://en.wikipedia.org/wiki/Universal_Negro_Improvement_Association_and_African_Communities_League
+i[5 : old] https://en.wikipedia.org/wiki/Universal_Negro_Improvement_Association_and_African_Communities_League#First_international_convention
+i[6 : old] https://en.wikipedia.org/wiki/Universal_Negro_Improvement_Association_and_African_Communities_League
+i[7 : new] https://www.theunia-acl.com/
+i[8 : new] https://case.edu/ech/articles/u/universal-negro-improvement-assn-unia
+i[9 : new] https://nationalhumanitiescenter.org/tserve/twenty/tkeyinfo/garvey.htm
+i[10 : new] https://www.unia-aclgovernment.com/
+i[11 : new] https://www.unia-acl.org/
+i[12 : new] https://encyclopediaofarkansas.net/entries/universal-negro-improvement-association-6484/
+i[13 : new] http://www.myblackhistory.net/UNIA.htm
+i
+i              Eastern Europe
+i        -------------------------
+i
+i                 Czechia
+i              -------------
+i
+i
+i[ Vegas Golden Knights ]
+i
+i[1 : old] https://twitter.com/GoldenKnights/status/1669163228323287040?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[2 : old] https://www.nhl.com/goldenknights
+i[3 : old] https://www.nhl.com/goldenknights
+i[4 : old] https://en.wikipedia.org/wiki/Vegas_Golden_Knights
+i[6 : old] https://www.espn.com/nhl/team/_/name/vgk/vegas-golden-knights
+i[7 : old] https://en.wikipedia.org/wiki/Vegas_Golden_Knights
+i[8 : old] https://en.wikipedia.org/wiki/Vegas_Golden_Knights#History
+i[9 : old] https://www.facebook.com/vegasgoldenknights/
+i[10 : old] https://www.instagram.com/vegasgoldenknights/?hl=en
+i[11 : old] https://theathletic.com/nhl/team/golden-knights/
+i[12 : new] https://www.foxsports.com/nhl/vegas-golden-knights-team
+i[13 : old] https://www.cbssports.com/nhl/teams/LV/vegas-golden-knights/
+i[14 : old] https://www.nytimes.com/2023/06/13/sports/hockey/nhl-stanley-cup-knights-panthers.html
+i
+i                 Hungary
+i              -------------
+i
+i
+i[ Szvoboda Bence ]
+i
+i[1 : old] https://www.facebook.com/szvoboda.bence/
+i[2 : new] https://dailynewshungary.com/hungarian-motorcycle-racer-bence-szvoboda-dies-at-31/
+i[3 : old] https://www.instagram.com/benceszvoboda_521/?hl=en
+i[4 : new] https://gatedrop.com/rip-bence-szvoboda/
+i[5 : new] https://geniuscelebs.com/szvoboda-bence-accident-injury-watch-crash-video/
+i[6 : old] https://www.youtube.com/watch?v=AVGvk8TXs3Q
+i[7 : old] https://www.youtube.com/watch?v=QjVg9lG-kTM
+i[8 : new] https://hu.wikipedia.org/wiki/Szvoboda_Bence
+i[9 : new] https://www.current-affairs.org/exclusive-footage-szvoboda-bence-crash-video/
+i[10 : new] https://racerxonline.com/rider/bence-szvoboda/races
+i
+i[ Szvoboda Bence balesete ]
+i
+i[1 : new] https://www.borsonline.hu/aktualis/2023/06/elhunyt-szvoboda-bence-horrorbaleset-video
+i[2 : new] https://magyarnemzet.hu/sport/2023/06/sulyos-balesetet-szenvedett-szvoboda-bence-egy-hetvegi-motokrosszversenyen
+i[3 : new] https://hvg.hu/sport/20230613_szovoda_bence_motokrossz_sulyos_baleset_agyi_funkciok_nincs_esely
+i[4 : new] https://24.hu/sport/2023/06/12/szvoboda-bence-motorsport-baleset/
+i[5 : new] https://sportal.blikk.hu/egyeni-sportok/szvoboda-talmacsi-motokrossz-gyasz/2023061415074720535
+i[6 : new] https://nlc.hu/sztarok/20230613/szvoboda-bence-baleset-leallt-agyi-funkciok/
+i[8 : old] https://www.youtube.com/watch?v=AVGvk8TXs3Q
+i[9 : old] https://www.youtube.com/watch?v=QjVg9lG-kTM
+i[10 : new] https://www.origo.hu/sport/loero/20230612-motorsport-szvoboda-bence-baleset-fejserules-koma.html
+i
+i                  Poland
+i              -------------
+i
+i
+i[ Stulecie Winnych ]
+i
+i[2 : old] https://www.imdb.com/title/tt9040760/
+i[3 : old] https://en.wikipedia.org/wiki/Stulecie_Winnych
+i[4 : new] https://vod.tvp.pl/seriale,18/stulecie-winnych-odcinki,284482
+i[5 : new] https://vod.tvp.pl/seriale,18/stulecie-winnych-odcinki,284482/odcinek-1,S01E01,313755
+i[6 : new] https://www.amazon.com/Stulecie-Winnych-4DVD-English-subtitles/dp/B08CR416WJ
+i[7 : new] https://www.amazon.com/Stulecie-Winnych-Trylogia-Polish-Grabowska/dp/8381320593
+i[8 : new] https://tv.parrotanalytics.com/US/stulecie-winnych-tvp1
+i[9 : new] https://stulecie-winnych-pl.fandom.com/pl/wiki/I_Sezon
+i[10 : new] https://www.thriftbooks.com/series/stulecie-winnych/155705/
+i[11 : old] https://www.facebook.com/pages/Stulecie-Winnych/1602368843324524/
+i[12 : new] https://dramaquarterly.com/tag/stulecie-winnych-our-century/
+i
+i                 Romania
+i              -------------
+i
+i
+i[ Croatia ]
+i
+i[1 : old] https://maps.google.com/maps?hl=en&q=Croatia&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjz9OrTmMT_AhUIUaQEHVB5DVIQ_AUIBigB
+i[2 : old] https://en.wikipedia.org/wiki/Croatia
+i[3 : old] https://en.wikipedia.org/wiki/Croatia_national_football_team
+i[4 : new] https://croatia.hr/en-gb
+i[5 : new] https://www.state.gov/countries-areas/croatia/
+i[6 : new] https://www.britannica.com/place/Croatia
+i[8 : new] https://european-union.europa.eu/principles-countries-history/country-profiles/croatia_en
+i[9 : old] https://theathletic.com/live-blogs/netherlands-croatia-live-score-updates-result-nations-league/CTSIitOn3ZLM/
+i[10 : new] https://www.lonelyplanet.com/croatia
+i[11 : new] https://www.croatiaairlines.com/
+i[12 : new] https://www.cia.gov/the-world-factbook/countries/croatia/
+i
+i                 Ukraine
+i              -------------
+i
+i
+i[ Сочи ]
+i
+i[3 : new] https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%87%D0%B8
+i[4 : new] https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%87%D0%B8_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3)
+i[5 : new] https://kuban24.tv/item/v-sochi-reka-matsesta-vyshla-iz-beregov-posle-nochnogo-livnya-video
+i[6 : new] https://sochi.ru/
+i[7 : new] https://traveller-eu.ru/sochi
+i[8 : new] https://www.tripadvisor.ru/Tourism-g298536-Sochi_Greater_Sochi_Krasnodar_Krai_Southern_District-Vacations.html
+i[9 : new] https://sochi.com/
+i[10 : new] https://ria.ru/location_Sochi/
+i[11 : new] https://visit-sochi.com/
+i[12 : new] https://www.rbc.ru/rbcfreenews/6489774a9a7947aef894f024
+i[13 : new] https://sochi1.ru/
+i
+i             Southern Europe
+i        -------------------------
+i
+i                  Greece
+i              -------------
+i
+i
+i[ Εθνικο πενθοσ ]
+i
+i[1 : new] https://www.ethnos.gr/greece/article/266055/trihmeroethnikopenthostieinaikaitiproblepeipotekhryssetai
+i[2 : new] https://el.wikipedia.org/wiki/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C_%CF%80%CE%AD%CE%BD%CE%B8%CE%BF%CF%82
+i[3 : new] https://www.protothema.gr/politics/article/1382014/ethniko-penthos-ti-simainei-ti-ishuei-kai-oi-fores-pou-kiruhthike-stin-ellada/
+i[4 : new] https://www.aftodioikisi.gr/politiki/kirychthike-triimero-ethniko-penthos/
+i[5 : new] https://www.enikos.gr/society/ethniko-penthos-pote-kiryssetai-kai-ti-simainei/1982984/
+i[6 : new] https://www.iefimerida.gr/ellada/triimero-ethniko-penthos-ti-einai-fores-ehei-kiryhthei
+i[7 : new] https://www.dikaiologitika.gr/eidhseis/koinonia/432611/triimero-ethniko-penthos-ti-simainei-kai-poses-fores-exei-kiryxthei
+i[8 : new] https://www.cnn.gr/ellada/story/368178/ti-simainei-i-kiryksi-ethnikoy-penthous-poses-fores-exei-kiryxthei-stin-ellada
+i[9 : new] https://www.thetoc.gr/politiki/article/triimero-ethniko-penthos-ti-simainei-kai-poses-fores-exei-kiruxthei-stin-ellada/
+i[10 : new] https://www.newsbomb.gr/ellada/story/1437747/navagio-stin-pylo-ti-isxyei-gia-to-ethniko-penthos-kai-poses-fores-exei-kiryxthei-stin-ellada
+i
+i                  Italy
+i              -------------
+i
+i
+i[ Paola Di Benedetto ]
+i
+i[2 : old] https://en.wikipedia.org/wiki/Paola_Di_Benedetto
+i[3 : old] https://www.instagram.com/paodb/?hl=en
+i[4 : old] https://www.instagram.com/paodibenedetto/
+i[5 : old] https://en.wikipedia.org/wiki/Paola_Di_Benedetto
+i[6 : old] https://en.wikipedia.org/wiki/Paola_Di_Benedetto#Career
+i[7 : old] https://www.tiktok.com/@MS4wLjABAAAAjTBiWfRUij1yggqRglHTdzJDB7cN_ADY0gUMLh5BzoJNwg61yKcGTB7VaOunrvLH
+i[8 : old] https://www.imdb.com/name/nm9543922/
+i[9 : old] https://www.facebook.com/paodibe/
+i[10 : old] https://www.rottentomatoes.com/celebrity/paola_di_benedetto
+i[11 : new] https://www.celebrity-cutouts.com/product/paola-di-benedetto-blue-dress-half-body-buddy/
+i[12 : new] https://www.celebrity-cutouts.com/product/paola-di-benedetto-jumpsuit-cardboard-cutout/
+i[13 : new] https://www.pinterest.com/paoladibe09/
+i
+i                 Portugal
+i              -------------
+i
+i
+i[ Madeleine McCann ]
+i
+i[1 : old] https://en.wikipedia.org/wiki/Disappearance_of_Madeleine_McCann
+i[2 : old] https://en.wikipedia.org/wiki/Reactions_to_the_disappearance_of_Madeleine_McCann
+i[3 : new] https://www.independent.co.uk/news/world/europe/christian-brueckner-madeleine-mccann-suspect-b2355810.html
+i[4 : old] https://en.wikipedia.org/wiki/Disappearance_of_Madeleine_McCann
+i[7 : old] https://www.bbc.com/news/uk-england-52910472
+i[8 : old] https://www.dailymail.co.uk/news/madeleine-mccann/index.html
+i[9 : new] https://www.marca.com/en/lifestyle/uk-news/2023/06/11/6485acfe268e3ee84c8b45bc.html
+i[10 : new] https://www.mirror.co.uk/all-about/madeleine-mccann
+i[11 : new] https://www.jpost.com/tags/madeleine-mccann
+i[12 : old] https://www.nytimes.com/2023/05/25/world/europe/portugal-madeleine-mccann-missing-child.html
+i[13 : new] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1885328/
+i[14 : new] https://apnews.com/hub/madeleine-mccann
+i
+i                  Spain
+i              -------------
+i
+i
+i[ Plasencia ]
+i
+i[1 : old] https://maps.google.com/maps?hl=en&q=Plasencia&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjzo-PkmMT_AhWPQaQEHb94BksQ_AUIBigB
+i[3 : new] https://www.plasenciacigars.com/
+i[4 : new] https://www.plasenciacigars.com/collection/alma-fuerte/
+i[5 : new] https://www.famous-smoke.com/brandgroup/plasencia-cigars
+i[6 : old] https://en.wikipedia.org/wiki/Plasencia
+i[7 : old] https://en.wikipedia.org/wiki/Plasencia#History
+i[8 : new] https://us.davidoffgeneva.com/all-cigar-brands/plasencia-cigars/
+i[9 : new] https://www.jrcigars.com/cigars/handmade-cigars/plasencia-cigars/
+i[10 : new] https://www.cigarsinternational.com/shop/plasencia-brand/2045046/
+i[11 : new] https://www.cigars.com/cigars/handmade-cigars/plasencia-cigars/
+i[12 : new] https://www.holts.com/cigars/all-cigar-brands/brand/plasencia
+i
+i[ Begoña Villacís ]
+i
+i[2 : old] https://en.wikipedia.org/wiki/Bego%C3%B1a_Villac%C3%ADs
+i[3 : new] https://es.wikipedia.org/wiki/Bego%C3%B1a_Villac%C3%ADs
+i[4 : new] https://es.wikipedia.org/wiki/Bosque_Metropolitano
+i[5 : old] https://www.instagram.com/begonavillacis/?hl=en
+i[6 : old] https://twitter.com/begonavillacis?lang=en
+i[7 : new] https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/El-Pleno/Composicion/Corporacion-actual/Grupo-Municipal-Ciudadanos-Partido-de-la-Ciudadania/Begona-Villacis-Sanchez/?vgnextfmt=default&vgnextoid=8d436cddd264b610VgnVCM2000001f4a900aRCRD&vgnextchannel=cf2ad1cebc98d410VgnVCM1000000b205a0aRCRD
+i[8 : new] https://videos.elmundo.es/v/0_kjy507xc-la-aplaudida-despedida-de-begona-villacis-alaba-a-sus-rivales-politicos-y-les-saca-las-verguenzas
+i[9 : new] https://www.elmundo.es/loc/2023/05/29/6474740ce4d4d8620a8b4577.html
+i[10 : new] https://www.vozpopuli.com/espana/politica/elecciones-generales/begona-villacis-abandona-politica-no-listas-pp.html
+i[11 : new] https://elpais.com/noticias/begona-villacis-sanchez/
+i[12 : new] https://es.linkedin.com/in/bego%C3%B1a-villac%C3%ADs-s%C3%A1nchez-21889926
+i
+i                Australia
+i        -------------------------
+i
+i                Australia
+i            -----------------
+i
+i
+i[ Powerball ]
+i
+i[1 : new] https://www.powerball.com/
+i[2 : new] https://www.powerball.com/previous-results
+i[3 : old] https://twitter.com/WLWT/status/1669163066720673793?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[4 : new] https://www.powerball.net/
+i[5 : new] https://www.calottery.com/draw-games/powerball
+i[6 : new] https://www.texaslottery.com/export/sites/lottery/Games/Powerball/
+i[7 : new] https://www.flalottery.com/powerball
+i[8 : new] https://nylottery.ny.gov/draw-game/?game=powerball
+i[9 : new] https://www.usamega.com/powerball/jackpot
+i
+i               New Zealand
+i            -----------------
+i
+i
+i[ Nations League ]
+i
+i[2 : new] https://www.uefa.com/uefanationsleague/
+i[3 : new] https://www.uefa.com/uefanationsleague/news/0279-1632c4333a99-7f1af4781e69-1000--uefa-nations-league-finals-who-is-in-it-when-is-it-where-doe/
+i[4 : new] https://www.concacaf.com/nations-league/
+i[5 : new] https://www.concacaf.com/nations-league/schedule-results/
+i[6 : old] https://en.wikipedia.org/wiki/UEFA_Nations_League
+i[7 : old] https://en.wikipedia.org/wiki/UEFA_Nations_League#Adoption
+i[8 : old] https://www.bbc.com/sport/football/65871144
+i[9 : old] https://www.espn.com/soccer/standings/_/league/uefa.nations
+i[10 : new] https://www.ussoccer.com/competitions/concacaf-nations-league-2022-2023
+i[11 : old] https://www.espn.com/soccer/league/_/name/uefa.nations
+i[12 : new] https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-netherlands-vs-croatia-from-anywhere/
+i[13 : new] https://www.skysports.com/uefa-nations-league-table
+i[14 : old] https://www.reuters.com/sports/soccer/croatia-reach-nations-league-final-after-knocking-out-hosts-netherlands-2023-06-14/
+i
+i             Northern Africa
+i        -------------------------
+i
+i                   Egypt
+i            -----------------
+i
+i
+i[ دوري الأمم ]
+i
+i[1 : new] https://www.uefa.com/uefanationsleague/#/
+i[2 : new] https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%8A_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9
+i[3 : new] https://ar.wikipedia.org/wiki/%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A7%D8%AA_%D8%AF%D9%88%D8%B1%D9%8A_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9_2021
+i[4 : new] https://www.kooora.com/?c=23276
+i[5 : new] https://www.uefa.com/uefanationsleague/
+i[6 : new] https://www.uefa.com/uefanationsleague/fixtures-results/
+i[7 : new] https://www.aljazeera.net/sport/2023/6/15/%D9%83%D8%B1%D9%88%D8%A7%D8%AA%D9%8A%D8%A7-%D8%AA%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%85
+i[8 : new] https://www.goal.com/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-2022-23-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA/blta4f9819d1d939252
+i[9 : new] https://jdwel.com/2022-2023-uefa-nations-league-fixtures/
+i[10 : new] https://jdwel.com/2022-2023-uefa-nations-league/
+i[11 : new] https://www.365scores.com/ar/football/europe/uefa-nations-league/league/7016
+i[12 : new] https://www.365scores.com/ar/football/europe/uefa-nations-league/league/7016/standings
+i
+i[ اعدام محمد عادل ]
+i
+i[2 : new] https://mubasher.aljazeera.net/news/2023/6/14/%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%A7%D8%AF%D9%84-%D9%85%D8%B5%D8%B1-%D8%AA%D9%86%D9%81%D8%B0-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D9%81%D9%8A
+i[3 : old] https://www.youtube.com/watch?v=GIXVOMSSxOs
+i[4 : old] https://www.youtube.com/watch?v=012n7xbenLU
+i[5 : old] https://www.youtube.com/watch?v=3XilwM4SXs4
+i[6 : new] https://www.alarabiya.net/arab-and-world/egypt/2023/06/14/%D8%A7%D9%86%D9%87%D8%A7%D8%B1-%D8%A8%D8%B5%D9%88%D8%B1%D8%A9-%D9%87%D8%B3%D8%AA%D9%8A%D8%B1%D9%8A%D8%A9-%D9%87%D8%B0%D8%A7-%D8%A2%D8%AE%D8%B1-%D9%85%D8%A7-%D9%82%D8%A7%D9%84%D9%87-%D9%82%D8%A7%D8%AA%D9%84-%D9%86%D9%8A%D8%B1%D8%A9-%D9%82%D8%A8%D9%84-%D8%A7%D8%B9%D8%AF%D8%A7%D9%85%D9%87
+i[7 : new] https://www.alarabiya.net/arab-and-world/egypt/2023/06/14/%D8%B4%D8%A7%D9%87%D8%AF-%D9%84%D8%AD%D8%B8%D8%A9-%D8%A7%D8%B3%D8%AA%D9%84%D8%A7%D9%85-%D8%A3%D8%B3%D8%B1%D8%A9-%D9%82%D8%A7%D8%AA%D9%84-%D9%86%D9%8A%D8%B1%D8%A9-%D8%A3%D8%B4%D8%B1%D9%81-%D9%84%D8%AC%D8%AB%D9%85%D8%A7%D9%86%D9%87-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B9%D8%AF%D8%A7%D9%85%D9%87
+i[8 : new] https://www.elaosboa.com/964183/
+i[9 : new] https://www.almasryalyoum.com/news/details/2910851
+i[10 : new] https://www.almasryalyoum.com/news/details/2910885
+i[11 : new] https://www.cairo24.com/1815990
+i
+i              Western Africa
+i        -------------------------
+i
+i                 Nigeria
+i            -----------------
+i
+i
+i[ EFCC chairman ]
+i
+i[1 : new] https://www.efcc.gov.ng/efcc/about-us-new/leadership
+i[2 : new] https://punchng.com/breaking-tinubu-suspends-efcc-chair/
+i[3 : new] https://www.vanguardngr.com/2023/06/breaking-tinubu-suspends-efcc-chairman-abdulrasheed-bawa/
+i[4 : new] https://www.vanguardngr.com/2023/06/meet-acting-efcc-chairman-mohammed-abba/
+i[5 : old] https://en.wikipedia.org/wiki/Abdulrasheed_Bawa
+i[6 : old] https://en.wikipedia.org/wiki/Abdulrasheed_Bawa#Education
+i[7 : new] https://www.channelstv.com/2023/06/14/tinubu-suspends-efcc-chairman-bawa-over-alleged-abuse-of-office/
+i[8 : new] https://www.premiumtimesng.com/news/top-news/604534-breaking-tinubu-suspends-efcc-chair-bawa-indefinitely.html
+i[9 : new] https://www.thecable.ng/breaking-tinubu-suspends-bawa-as-efcc-chairman
+i[10 : old] https://www.bbc.com/pidgin/65910977
+i[11 : new] https://dailypost.ng/2023/06/14/tinubu-suspends-efcc-chairman-bawa/
+i
+i[ Netherlands vs Croatia ]
+i
+i[1 : old] https://theathletic.com/live-blogs/netherlands-croatia-live-score-updates-result-nations-league/CTSIitOn3ZLM/
+i[2 : new] https://www.foxsports.com/watch/play-67489781500069a
+i[3 : new] https://en.as.com/soccer/netherlands-vs-croatia-live-online-score-stats-updates-uefa-nations-league-semi-final-n/
+i[4 : old] https://www.youtube.com/watch?v=QDEFDywvqFU
+i[5 : new] https://www.vavel.com/en-us/soccer/2023/06/14/1149107-netherlands-vs-croatia-live-updates-score-streaminfo-lineups-and-how-to-watch-uefa-nations-league-2023-match.html
+i[6 : new] https://www.uefa.com/uefanationsleague/match/2035581--netherlands-vs-croatia/
+i[7 : old] https://www.espn.com/soccer/match/_/gameId/654360
+i[8 : new] https://www.marca.com/en/football/uefa-nations-league/paises-bajos-croacia/2023/06/14/01_0195_20230614_366_535-live.html
+i[9 : old] https://www.bbc.com/sport/live/football/65907796
+i[10 : new] https://www.standard.co.uk/sport/football/netherlands-vs-croatia-live-stream-nations-league-2023-latest-score-result-watch-tv-team-news-b1087882.html
+i
+i              Eastern Africa
+i        -------------------------
+i
+i                   Kenya
+i            -----------------
+i
+i
+i[ Finance Bill 2023 ]
+i
+i[1 : new] https://www.indiabudget.gov.in/doc/Finance_Bill.pdf
+i[2 : old] https://www.youtube.com/watch?v=zzlrGYs-uYg
+i[3 : old] https://www.youtube.com/watch?v=lKTAlyWBAbE
+i[4 : new] https://incometaxindia.gov.in/news/finance-bill-2023-highlights.pdf
+i[5 : new] https://incometaxindia.gov.in/pages/budget-and-bills/finance-bill.aspx
+i[6 : new] https://taxnews.ey.com/news/2023-0888-kenya-proposes-tax-changes-under-the-finance-bill-2023
+i[7 : new] https://mwangocapital.files.wordpress.com/2023/05/the-finance-bill-2023.pdf
+i[8 : new] https://kpmg.com/bd/en/home/insights/2023/06/finance-act-2023.html
+i[9 : new] https://bills.parliament.uk/bills/3435
+i[10 : new] https://fbr.gov.pk/Budget2023-24/FinanceBill/Finance-Bill-2023-24.pdf
+i
+i             Southern Africa
+i        -------------------------
+i
+i               South Africa
+i            -----------------
+i
+i
+i[ Netherlands vs Croatia ]
+i
+i[1 : old] https://theathletic.com/live-blogs/netherlands-croatia-live-score-updates-result-nations-league/CTSIitOn3ZLM/
+i[2 : new] https://www.foxsports.com/watch/play-67489781500069a
+i[3 : new] https://en.as.com/soccer/netherlands-vs-croatia-live-online-score-stats-updates-uefa-nations-league-semi-final-n/
+i[4 : old] https://www.youtube.com/watch?v=QDEFDywvqFU
+i[5 : new] https://www.vavel.com/en-us/soccer/2023/06/14/1149107-netherlands-vs-croatia-live-updates-score-streaminfo-lineups-and-how-to-watch-uefa-nations-league-2023-match.html
+i[6 : new] https://www.uefa.com/uefanationsleague/match/2035581--netherlands-vs-croatia/
+i[7 : old] https://www.espn.com/soccer/match/_/gameId/654360
+i[8 : new] https://www.marca.com/en/football/uefa-nations-league/paises-bajos-croacia/2023/06/14/01_0195_20230614_366_535-live.html
+i[9 : old] https://www.bbc.com/sport/live/football/65907796
+i[10 : new] https://www.standard.co.uk/sport/football/netherlands-vs-croatia-live-stream-nations-league-2023-latest-score-result-watch-tv-team-news-b1087882.html
+i
+i
+Bt:     June 15, 2023 (All - Both)

@@ -1,0 +1,722 @@
+i
+i=========================================
+i              LOCALIZATION
+i  -------------------------------------
+i
+i
+i             Northern America
+i        -------------------------
+i
+i              United States
+i              -------------
+i
+i
+i[ Eminem ]
+i
+i[2 : old] https://en.wikipedia.org/wiki/Eminem
+i[6 : old] https://en.wikipedia.org/wiki/Eminem
+i[7 : old] https://en.wikipedia.org/wiki/Eminem_albums_discography
+i[8 : old] https://www.today.com/popculture/news/eminems-daughter-alaina-scott-gets-married-sister-hailie-mathers-bride-rcna89186
+i[9 : old] https://www.youtube.com/channel/UCfM3zsQsOnfWNUppiycmBuw
+i[10 : old] https://www.instagram.com/eminem/?hl=en
+i[12 : old] https://www.facebook.com/eminem/
+i[13 : old] https://twitter.com/Eminem
+i
+i                  Canada
+i              -------------
+i
+i
+i[ Nations League ]
+i
+i[6 : old] https://en.wikipedia.org/wiki/UEFA_Nations_League
+i[7 : old] https://en.wikipedia.org/wiki/UEFA_Nations_League#Adoption
+i[8 : old] https://www.bbc.com/sport/football/65871144
+i[9 : old] https://www.espn.com/soccer/standings/_/league/uefa.nations
+i[11 : old] https://www.espn.com/soccer/league/_/name/uefa.nations
+i[14 : old] https://www.reuters.com/sports/soccer/croatia-reach-nations-league-final-after-knocking-out-hosts-netherlands-2023-06-14/
+i
+i                  Mexico
+i              -------------
+i
+i
+i[ Futbol ]
+i
+i[5 : old] https://en.wikipedia.org/wiki/Football
+i[6 : old] https://en.wikipedia.org/wiki/Football#Common_elements
+i[8 : old] https://www.espn.com/soccer/
+i[9 : old] https://www.espn.com/watch/catalog/b8c6d70c-c441-4042-9eea-870f6eb4d668
+i
+i[ Mexico vs USA ]
+i
+i[2 : old] https://www.cbssports.com/soccer/news/usmnt-vs-mexico-live-stream-concacaf-nations-league-prediction-how-to-watch-usa-online-time-news-odds/
+i[3 : old] https://en.wikipedia.org/wiki/Mexico%E2%80%93United_States_soccer_rivalry
+i[4 : old] http://en.wikipedia.org/wiki/Mexico_national_football_team
+i[6 : old] https://www.youtube.com/watch?v=-eooXbR-mtU
+i[10 : old] https://www.espn.com/soccer/match/_/gameId/667374
+i
+i              South America
+i        -------------------------
+i
+i                Argentina
+i              -------------
+i
+i
+i[ Argentina vs Australia ]
+i
+i[1 : old] https://www.cbssports.com/soccer/news/argentina-vs-australia-how-to-watch-odds-stream-2023-international-friendly-on-cbs-sports-golazo-network/
+i[2 : old] https://www.sportingnews.com/us/soccer/news/watch-argentina-vs-australia-live-stream-tv-channel-friendly/bedmnip2h29zlet515vgxgxj
+i[3 : old] https://www.espn.com/soccer/match/_/gameId/669280
+i
+i[ Inflacion mayo 2023 ]
+i
+i
+i                  Brazil
+i              -------------
+i
+i
+i[ Bellingham ]
+i
+i[1 : old] https://www.espn.com/soccer/story/_/id/37851149/real-madrid-confirm-signing-jude-bellingham-dortmund
+i[2 : old] https://twitter.com/BellinghamJude/status/1669061841371144198?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[6 : old] https://en.wikipedia.org/wiki/Bellingham,_Washington
+i[7 : old] https://en.wikipedia.org/wiki/Bellingham,_Washington#History
+i[8 : old] https://en.wikipedia.org/wiki/Jude_Bellingham
+i[9 : old] https://en.wikipedia.org/wiki/Jude_Bellingham#Early_life
+i
+i[ Santa Cruz ]
+i
+i[1 : old] https://maps.google.com/maps?hl=en&q=Santa Cruz&um=1&ie=UTF-8&sa=X&ved=0ahUKEwj71pDBl8T_AhUKXqQEHZDVAloQ_AUIBigB
+i[12 : old] https://en.wikipedia.org/wiki/Santa_Cruz,_California
+i[13 : old] http://en.wikipedia.org/wiki/Area_code_831
+i
+i                  Chile
+i              -------------
+i
+i
+i[ Uruguay vs ]
+i
+i[6 : old] https://www.youtube.com/watch?v=sWoSYq8Pfb0
+i[7 : old] https://www.youtube.com/watch?v=kPGE1jdOFEs
+i[8 : old] https://www.youtube.com/watch?v=dLrTH2hlhnI
+i
+i[ Luis Miguel ]
+i
+i[1 : old] https://en.wikipedia.org/wiki/Luis_Miguel
+i[2 : old] https://en.wikipedia.org/wiki/Luis_Miguel:_The_Series
+i[4 : old] https://en.wikipedia.org/wiki/Luis_Miguel
+i[12 : old] https://www.imdb.com/title/tt8045690/
+i[16 : old] https://www.imdb.com/name/nm0586064/
+i
+i                 Colombia
+i              -------------
+i
+i
+i[ Gustavo Petro ]
+i
+i[1 : old] https://en.wikipedia.org/wiki/Gustavo_Petro
+i[2 : old] https://en.wikipedia.org/wiki/Iv%C3%A1n_Duque
+i[3 : old] https://en.wikipedia.org/wiki/Gustavo_Petro
+i[4 : old] https://twitter.com/petrogustavo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+i[5 : old] https://twitter.com/petrogustavo/status/1667548616272093184?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i
+i                   Peru
+i              -------------
+i
+i
+i[ España vs ]
+i
+i[1 : old] https://www.espn.com/soccer/story/_/id/37847824/spain-end-morata-joselu-scoring-woes-nations-league-semifinal-vs-italy
+i[4 : old] https://www.youtube.com/watch?v=r11PaX16usk
+i[5 : old] https://www.youtube.com/watch?v=Hk_75DQmTzY
+i
+i                North Asia
+i        -------------------------
+i
+i                  Russia
+i              -------------
+i
+i
+i[ Река Мацеста в Сочи ]
+i
+i[1 : old] https://maps.google.com/maps?hl=en&q=Река Мацеста в Сочи&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjlodvRl8T_AhUKUKQEHYuiCtUQ_AUIBigB
+i[5 : old] https://en.wikipedia.org/wiki/Matsesta_(river)
+i[8 : old] https://www.youtube.com/watch?v=v1WnlnjGk
+i[9 : old] https://www.youtube.com/watch?v=Gzf1dLzcey0
+i
+i               Western Asia
+i        -------------------------
+i
+i                  Israel
+i              -------------
+i
+i
+i[ נרקיס ]
+i
+i[7 : old] https://www.youtube.com/watch?v=wSQCw8IEjOA
+i[8 : old] https://www.instagram.com/narkisofficial/?hl=en
+i[9 : old] https://www.facebook.com/NarkisOfficial/?locale=he_IL
+i
+i[ קארין אלהרר ]
+i
+i[4 : old] https://en.wikipedia.org/wiki/Karine_Elharrar
+i[6 : old] https://www.facebook.com/karine.elharrar/?locale=he_IL
+i[7 : old] https://twitter.com/kelharrar?lang=en
+i
+i               Saudi Arabia
+i              -------------
+i
+i
+i[ والي غرب دارفور ]
+i
+i[2 : old] https://www.youtube.com/watch?v=5MpI_LV_Rtc
+i[6 : old] https://www.bbc.com/arabic/trending-65906393
+i[8 : old] https://www.facebook.com/WestofDarfurGovernor/
+i
+i[ سيلفيو برلسكوني ]
+i
+i[2 : old] https://en.wikipedia.org/wiki/Silvio_Berlusconi
+i[6 : old] https://www.bbc.com/arabic/world-65879131
+i[7 : old] https://www.bbc.com/arabic/media-65882513
+i[9 : old] https://www.cnn.com/2023/06/12/media/berlusconi-business-empire-explainer/index.html
+i
+i                  Turkey
+i              -------------
+i
+i
+i[ Tarzan Rıfkı ]
+i
+i[3 : old] https://www.youtube.com/watch?v=WE0tU8cJ1Ps
+i[5 : old] https://www.youtube.com/watch?v=J1xZ16ou8BI
+i[6 : old] https://www.youtube.com/watch?v=fOCVDS1JigE
+i[7 : old] https://www.imdb.com/title/tt0253790/
+i[9 : old] https://www.facebook.com/gulsahfilmresmi/videos/tarzan-rifki-t%C3%BCrk-filmi-full-izle-kemal-sunal/120919993235208/
+i
+i               Eastern Asia
+i        -------------------------
+i
+i                Hong Kong
+i              -------------
+i
+i
+i[ 習近平 ]
+i
+i[3 : old] https://en.wikipedia.org/wiki/Xi_Jinping
+i[5 : old] https://www.youtube.com/watch?v=6eT5lIaAfmU
+i[6 : old] https://www.youtube.com/watch?v=qasOGI-nCY4
+i[7 : old] https://www.youtube.com/watch?v=JoHr_lHQhmE
+i[10 : old] https://www.bbc.com/zhongwen/trad/topics/c8m3qnpme6wt
+i
+i                  Japan
+i              -------------
+i
+i
+i[ 広末涼子 ]
+i
+i[4 : old] https://en.wikipedia.org/wiki/Ry%C5%8Dko_Hirosue
+i[7 : old] https://www.instagram.com/hirosue_staff/
+i[9 : old] https://twitter.com/ryoko_staff
+i
+i[ FOMC ]
+i
+i[6 : old] https://www.youtube.com/watch?v=L61NSlLRGe8
+i[7 : old] https://twitter.com/federalreserve?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+i[8 : old] https://twitter.com/federalreserve/status/1669042396678479888?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[9 : old] https://www.youtube.com/federalreserve
+i
+i               South Korea
+i              -------------
+i
+i
+i[ 김민재 맨유 ]
+i
+i[5 : old] https://www.youtube.com/watch?v=J4vJOgxO4Gc
+i[6 : old] https://www.youtube.com/watch?v=bbjflEQGF-M
+i[7 : old] https://www.youtube.com/watch?v=YZyYSbjub5A
+i[8 : old] https://www.youtube.com/watch?v=l-TM_cdzb-4
+i
+i[ 청년도약계좌 신청 ]
+i
+i[8 : old] https://www.youtube.com/watch?v=x9egXxVdE7U
+i
+i                 Taiwan
+i              -------------
+i
+i
+i[ Fed ]
+i
+i[1 : old] https://www.cnbc.com/2023/06/14/fed-rate-decision-june-2023.html
+i[4 : old] https://twitter.com/federalreserve?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+i[5 : old] https://twitter.com/federalreserve/status/1669042396678479888?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[6 : old] https://www.cnn.com/business/live-news/stock-market-fed-inflation/index.html
+i
+i                South Asia
+i        -------------------------
+i
+i                  India
+i              -------------
+i
+i
+i[ Uniform Civil Code ]
+i
+i[1 : old] https://en.wikipedia.org/wiki/Uniform_Civil_Code
+i[5 : old] https://www.bbc.com/news/world-asia-india-61589491
+i[9 : old] https://www.youtube.com/watch?v=7yixpSZKQKc
+i
+i[ Tori Bowie died ]
+i
+i[2 : old] https://www.cnn.com/2023/06/13/sport/tori-bowie-sprinter-childbirth-death-spt/index.html
+i[7 : old] https://www.nytimes.com/2023/06/13/sports/olympics/tori-bowie-death-childbirth-pregnant.html
+i[8 : old] https://www.foxnews.com/sports/olympic-gold-medalist-tori-bowie-died-childbirth-complications-autopsy-finds
+i[10 : old] https://people.com/tori-bowie-died-from-childbirth-complications-rep-confirms-7503116
+i
+i              Southeast Asia
+i        -------------------------
+i
+i                Indonesia
+i              -------------
+i
+i
+i[ Stunting adalah ]
+i
+i
+i[ Syahrul Yasin Limpo tersangka KPK ]
+i
+i
+i                 Malaysia
+i              -------------
+i
+i
+i[ Song Joong-ki ]
+i
+i[2 : old] https://en.wikipedia.org/wiki/Song_Joong-ki
+i[3 : old] https://en.wikipedia.org/wiki/Song_Joong-ki#Career
+i[4 : old] https://en.wikipedia.org/wiki/Song_Joong-ki
+i[7 : old] https://www.instagram.com/hi_songjoongki/?hl=en
+i[8 : old] https://www.imdb.com/name/nm3609366/
+i[12 : old] https://www.hindustantimes.com/entertainment/others/song-joong-ki-and-wife-katy-blessed-with-baby-boy-101686759176746.html
+i
+i[ Bangladesh vs Afghanistan ]
+i
+i[1 : old] https://www.espncricinfo.com/series/afghanistan-in-bangladesh-2023-1377001/bangladesh-vs-afghanistan-only-test-1377011/full-scorecard
+i[2 : old] https://www.espncricinfo.com/series/afghanistan-in-bangladesh-2023-1377001
+i[6 : old] https://www.cricbuzz.com/cricket-commentary/70996/ban-vs-afg-only-test-afghanistan-tour-of-bangladesh-2023
+i[7 : old] https://www.hindustantimes.com/cricket/live-scorecard-ban-vs-afg-afg-in-ban-only-test-2023-one-off-test-bangladesh-vs-afghanistan-test-live-score-baaf06142023227033/
+i
+i               Philippines
+i              -------------
+i
+i
+i[ Nick Kyrgios ]
+i
+i[1 : old] https://en.wikipedia.org/wiki/Nick_Kyrgios
+i[2 : old] https://en.wikipedia.org/wiki/Nick_Kyrgios_career_statistics
+i[3 : old] https://www.foxnews.com/sports/nick-kyrgios-checked-into-mental-ward-after-2019-wimbledon-loss
+i[4 : old] https://en.wikipedia.org/wiki/Nick_Kyrgios
+i[5 : old] https://twitter.com/NickKyrgios?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+i[6 : old] https://twitter.com/NickKyrgios/status/1668681460256231424?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[8 : old] https://www.instagram.com/k1ngkyrg1os/?hl=en
+i[10 : old] https://www.theguardian.com/sport/2023/jun/14/nick-kyrios-wimbledon-rafael-nadal-tennis
+i[11 : old] https://www.espn.com/tennis/player/_/id/1984/nick-kyrgios
+i
+i                Singapore
+i              -------------
+i
+i
+i[ FOMC ]
+i
+i[7 : old] https://twitter.com/federalreserve?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+i[8 : old] https://twitter.com/federalreserve/status/1669042396678479888?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[12 : old] https://www.youtube.com/watch?v=L61NSlLRGe8
+i
+i[ The Flash ]
+i
+i[1 : old] https://www.rottentomatoes.com/m/the_flash_2023
+i[4 : old] https://www.imdb.com/title/tt3107288/
+i[5 : old] https://www.imdb.com/title/tt0439572/
+i[6 : old] https://en.wikipedia.org/wiki/The_Flash_(film)
+i[7 : old] https://en.wikipedia.org/wiki/Sasha_Calle
+i[8 : old] https://variety.com/2023/film/news/ezra-miller-flash-premiere-speech-misconduct-dc-studios-1235641961/
+i[9 : old] https://www.youtube.com/watch?v=jprhe-cWKGs
+i[10 : old] https://www.youtube.com/watch?v=hebWYacbdvc
+i[12 : old] https://www.rottentomatoes.com/m/the_flash_2023
+i
+i                Thailand
+i              -------------
+i
+i
+i[ ซงจุงกิ ]
+i
+i[2 : old] https://en.wikipedia.org/wiki/Song_Joong-ki
+i[9 : old] https://www.instagram.com/hi_songjoongki/
+i[13 : old] https://www.youtube.com/watch?v=-l3JtRUlkGg
+i
+i                 Vietnam
+i              -------------
+i
+i
+i[ Hà Lan vs Croatia ]
+i
+i
+i             Northern Europe
+i        -------------------------
+i
+i                 Denmark
+i              -------------
+i
+i
+i[ Jude Bellingham ]
+i
+i[1 : old] https://twitter.com/BellinghamJude/status/1669061841371144198?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[2 : old] https://en.wikipedia.org/wiki/Jude_Bellingham
+i[3 : old] https://en.wikipedia.org/wiki/Jobe_Bellingham
+i[4 : old] https://www.espn.com/soccer/story/_/id/37851149/real-madrid-confirm-signing-jude-bellingham-dortmund
+i[5 : old] https://www.instagram.com/judebellingham/?hl=en
+i[6 : old] https://en.wikipedia.org/wiki/Jude_Bellingham
+i[11 : old] https://www.theguardian.com/football/2023/jun/14/real-madrid-confirm-signing-of-jude-bellingham-from-borussia-dortmund
+i[13 : old] https://theathletic.com/4593374/2023/06/14/jude-bellingham-real-madrid/
+i
+i                 Finland
+i              -------------
+i
+i
+i[ Die another day ]
+i
+i[2 : old] https://en.wikipedia.org/wiki/Die_Another_Day
+i[3 : old] https://en.wikipedia.org/wiki/Die_Another_Day_(song)
+i[4 : old] https://www.imdb.com/title/tt0246460/
+i[6 : old] https://www.rottentomatoes.com/m/die_another_day
+i[7 : old] https://www.youtube.com/watch?v=VlbaJA7aO9M
+i[8 : old] https://www.imdb.com/title/tt0246460/
+i[13 : old] https://www.theguardian.com/film/2022/nov/22/die-another-day-james-bond-movie-anniversary
+i
+i                 Ireland
+i              -------------
+i
+i
+i[ Netherlands vs Croatia ]
+i
+i[1 : old] https://theathletic.com/live-blogs/netherlands-croatia-live-score-updates-result-nations-league/CTSIitOn3ZLM/
+i[4 : old] https://www.youtube.com/watch?v=QDEFDywvqFU
+i[7 : old] https://www.espn.com/soccer/match/_/gameId/654360
+i[9 : old] https://www.bbc.com/sport/live/football/65907796
+i
+i[ Lotto results ]
+i
+i[8 : old] https://www.youtube.com/watch?v=7pU2qwTGnXg
+i[12 : old] https://apps.apple.com/us/app/lotto-results-lottery-in-us/id386505750
+i
+i                  Sweden
+i              -------------
+i
+i
+i[ Nations League ]
+i
+i[6 : old] https://en.wikipedia.org/wiki/UEFA_Nations_League
+i[7 : old] https://en.wikipedia.org/wiki/UEFA_Nations_League#Adoption
+i[8 : old] https://www.bbc.com/sport/football/65871144
+i[9 : old] https://www.espn.com/soccer/standings/_/league/uefa.nations
+i[11 : old] https://www.espn.com/soccer/league/_/name/uefa.nations
+i[14 : old] https://www.reuters.com/sports/soccer/croatia-reach-nations-league-final-after-knocking-out-hosts-netherlands-2023-06-14/
+i
+i[ William Karlsson ]
+i
+i[1 : old] https://www.nhl.com/player/william-karlsson-8476448
+i[2 : old] https://www.espn.com/nhl/player/_/id/2563057/william-karlsson
+i[3 : old] https://en.wikipedia.org/wiki/William_Karlsson
+i[4 : old] https://en.wikipedia.org/wiki/William_Karlsson#Playing_career
+i[5 : old] https://en.wikipedia.org/wiki/William_Karlsson
+i[7 : old] https://www.instagram.com/larswilliamkarlsson/?hl=en
+i
+i              United Kingdom
+i              -------------
+i
+i
+i[ Oliver Burke ]
+i
+i[1 : old] https://en.wikipedia.org/wiki/Oliver_Burke
+i[2 : old] https://en.wikipedia.org/wiki/Oliver_Burke#Club_career
+i[3 : old] https://en.wikipedia.org/wiki/Oliver_Burke
+i[4 : old] https://www.dailymail.co.uk/tvshowbiz/article-12193901/Megan-McKenna-engaged-footballer-Oliver-Burke-whirlwind-five-month-romance.html
+i[6 : old] https://www.instagram.com/oliverjburke/?hl=en
+i[10 : old] https://www.espn.com/soccer/player/_/id/212478/oliver-burke
+i
+i              Western Europe
+i        -------------------------
+i
+i                 Austria
+i              -------------
+i
+i
+i[ Kampf der Realitystars ]
+i
+i[3 : old] https://www.imdb.com/title/tt16360218/
+i[6 : old] https://www.instagram.com/kampfderrealitystars/?hl=en
+i[9 : old] https://www.youtube.com/channel/UC4ao0AqqpszyPiKw7yyKoPw
+i
+i                 Belgium
+i              -------------
+i
+i
+i[ Koh-Lanta ]
+i
+i[1 : old] https://en.wikipedia.org/wiki/Ko_Lanta_Yai
+i[4 : old] https://en.wikipedia.org/wiki/Koh-Lanta
+i[5 : old] https://en.wikipedia.org/wiki/Koh-Lanta#Format_and_rules
+i
+i                  France
+i              -------------
+i
+i
+i[ Prince William ]
+i
+i[2 : old] https://en.wikipedia.org/wiki/William,_Prince_of_Wales
+i[3 : old] https://en.wikipedia.org/wiki/William,_Prince_of_Wales
+i[4 : old] https://www.dailymail.co.uk/news/prince_william/index.html
+i[5 : old] https://twitter.com/KensingtonRoyal?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+i[6 : old] https://twitter.com/KensingtonRoyal/status/1668605583530901505?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[7 : old] https://people.com/tag/prince-william/
+i
+i                 Germany
+i              -------------
+i
+i
+i[ Angelina Jolie Brad Pitt ]
+i
+i[6 : old] https://people.com/movies/brad-pitt-angelina-jolie-relationship-timeline/
+i[7 : old] https://people.com/parents/angelina-jolie-brad-pitt-children/
+i[8 : old] https://www.nytimes.com/2022/10/04/movies/angelina-jolie-brad-pitt-lawsuit.html
+i[10 : old] https://www.dailymail.co.uk/news/article-12190501/Inside-Angelina-Jolie-Brad-Pitts-bitter-legal-battle-Chateau-Miraval-winery.html
+i
+i               Netherlands
+i              -------------
+i
+i
+i[ Modric ]
+i
+i[2 : old] https://en.wikipedia.org/wiki/Luka_Modri%C4%87
+i[3 : old] https://en.wikipedia.org/wiki/NK_Inter_Zapre%C5%A1i%C4%87
+i[4 : old] https://www.theguardian.com/football/2023/jun/14/luka-modric-nations-league-croatia-netherlands-football
+i[5 : old] https://en.wikipedia.org/wiki/Luka_Modri%C4%87
+i[7 : old] https://www.instagram.com/lukamodric10/?hl=en
+i[9 : old] https://www.espn.com/soccer/player/_/id/76762/luka-modric
+i[14 : old] https://theathletic.com/football/player/luka-modric-X2pcWLKRmvOngwFC/
+i
+i               Switzerland
+i              -------------
+i
+i
+i[ Unia ]
+i
+i[4 : old] https://en.wikipedia.org/wiki/Universal_Negro_Improvement_Association_and_African_Communities_League
+i[5 : old] https://en.wikipedia.org/wiki/Universal_Negro_Improvement_Association_and_African_Communities_League#First_international_convention
+i[6 : old] https://en.wikipedia.org/wiki/Universal_Negro_Improvement_Association_and_African_Communities_League
+i
+i              Eastern Europe
+i        -------------------------
+i
+i                 Czechia
+i              -------------
+i
+i
+i[ Vegas Golden Knights ]
+i
+i[1 : old] https://twitter.com/GoldenKnights/status/1669163228323287040?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i[2 : old] https://www.nhl.com/goldenknights
+i[3 : old] https://www.nhl.com/goldenknights
+i[4 : old] https://en.wikipedia.org/wiki/Vegas_Golden_Knights
+i[6 : old] https://www.espn.com/nhl/team/_/name/vgk/vegas-golden-knights
+i[7 : old] https://en.wikipedia.org/wiki/Vegas_Golden_Knights
+i[8 : old] https://en.wikipedia.org/wiki/Vegas_Golden_Knights#History
+i[9 : old] https://www.facebook.com/vegasgoldenknights/
+i[10 : old] https://www.instagram.com/vegasgoldenknights/?hl=en
+i[11 : old] https://theathletic.com/nhl/team/golden-knights/
+i[13 : old] https://www.cbssports.com/nhl/teams/LV/vegas-golden-knights/
+i[14 : old] https://www.nytimes.com/2023/06/13/sports/hockey/nhl-stanley-cup-knights-panthers.html
+i
+i                 Hungary
+i              -------------
+i
+i
+i[ Szvoboda Bence ]
+i
+i[1 : old] https://www.facebook.com/szvoboda.bence/
+i[3 : old] https://www.instagram.com/benceszvoboda_521/?hl=en
+i[6 : old] https://www.youtube.com/watch?v=AVGvk8TXs3Q
+i[7 : old] https://www.youtube.com/watch?v=QjVg9lG-kTM
+i
+i[ Szvoboda Bence balesete ]
+i
+i[8 : old] https://www.youtube.com/watch?v=AVGvk8TXs3Q
+i[9 : old] https://www.youtube.com/watch?v=QjVg9lG-kTM
+i
+i                  Poland
+i              -------------
+i
+i
+i[ Stulecie Winnych ]
+i
+i[2 : old] https://www.imdb.com/title/tt9040760/
+i[3 : old] https://en.wikipedia.org/wiki/Stulecie_Winnych
+i[11 : old] https://www.facebook.com/pages/Stulecie-Winnych/1602368843324524/
+i
+i                 Romania
+i              -------------
+i
+i
+i[ Croatia ]
+i
+i[1 : old] https://maps.google.com/maps?hl=en&q=Croatia&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjz9OrTmMT_AhUIUaQEHVB5DVIQ_AUIBigB
+i[2 : old] https://en.wikipedia.org/wiki/Croatia
+i[3 : old] https://en.wikipedia.org/wiki/Croatia_national_football_team
+i[9 : old] https://theathletic.com/live-blogs/netherlands-croatia-live-score-updates-result-nations-league/CTSIitOn3ZLM/
+i
+i                 Ukraine
+i              -------------
+i
+i
+i[ Сочи ]
+i
+i
+i             Southern Europe
+i        -------------------------
+i
+i                  Greece
+i              -------------
+i
+i
+i[ Εθνικο πενθοσ ]
+i
+i
+i                  Italy
+i              -------------
+i
+i
+i[ Paola Di Benedetto ]
+i
+i[2 : old] https://en.wikipedia.org/wiki/Paola_Di_Benedetto
+i[3 : old] https://www.instagram.com/paodb/?hl=en
+i[4 : old] https://www.instagram.com/paodibenedetto/
+i[5 : old] https://en.wikipedia.org/wiki/Paola_Di_Benedetto
+i[6 : old] https://en.wikipedia.org/wiki/Paola_Di_Benedetto#Career
+i[7 : old] https://www.tiktok.com/@MS4wLjABAAAAjTBiWfRUij1yggqRglHTdzJDB7cN_ADY0gUMLh5BzoJNwg61yKcGTB7VaOunrvLH
+i[8 : old] https://www.imdb.com/name/nm9543922/
+i[9 : old] https://www.facebook.com/paodibe/
+i[10 : old] https://www.rottentomatoes.com/celebrity/paola_di_benedetto
+i
+i                 Portugal
+i              -------------
+i
+i
+i[ Madeleine McCann ]
+i
+i[1 : old] https://en.wikipedia.org/wiki/Disappearance_of_Madeleine_McCann
+i[2 : old] https://en.wikipedia.org/wiki/Reactions_to_the_disappearance_of_Madeleine_McCann
+i[4 : old] https://en.wikipedia.org/wiki/Disappearance_of_Madeleine_McCann
+i[7 : old] https://www.bbc.com/news/uk-england-52910472
+i[8 : old] https://www.dailymail.co.uk/news/madeleine-mccann/index.html
+i[12 : old] https://www.nytimes.com/2023/05/25/world/europe/portugal-madeleine-mccann-missing-child.html
+i
+i                  Spain
+i              -------------
+i
+i
+i[ Plasencia ]
+i
+i[1 : old] https://maps.google.com/maps?hl=en&q=Plasencia&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjzo-PkmMT_AhWPQaQEHb94BksQ_AUIBigB
+i[6 : old] https://en.wikipedia.org/wiki/Plasencia
+i[7 : old] https://en.wikipedia.org/wiki/Plasencia#History
+i
+i[ Begoña Villacís ]
+i
+i[2 : old] https://en.wikipedia.org/wiki/Bego%C3%B1a_Villac%C3%ADs
+i[5 : old] https://www.instagram.com/begonavillacis/?hl=en
+i[6 : old] https://twitter.com/begonavillacis?lang=en
+i
+i                Australia
+i        -------------------------
+i
+i                Australia
+i            -----------------
+i
+i
+i[ Powerball ]
+i
+i[3 : old] https://twitter.com/WLWT/status/1669163066720673793?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+i
+i               New Zealand
+i            -----------------
+i
+i
+i[ Nations League ]
+i
+i[6 : old] https://en.wikipedia.org/wiki/UEFA_Nations_League
+i[7 : old] https://en.wikipedia.org/wiki/UEFA_Nations_League#Adoption
+i[8 : old] https://www.bbc.com/sport/football/65871144
+i[9 : old] https://www.espn.com/soccer/standings/_/league/uefa.nations
+i[11 : old] https://www.espn.com/soccer/league/_/name/uefa.nations
+i[14 : old] https://www.reuters.com/sports/soccer/croatia-reach-nations-league-final-after-knocking-out-hosts-netherlands-2023-06-14/
+i
+i             Northern Africa
+i        -------------------------
+i
+i                   Egypt
+i            -----------------
+i
+i
+i[ دوري الأمم ]
+i
+i
+i[ اعدام محمد عادل ]
+i
+i[3 : old] https://www.youtube.com/watch?v=GIXVOMSSxOs
+i[4 : old] https://www.youtube.com/watch?v=012n7xbenLU
+i[5 : old] https://www.youtube.com/watch?v=3XilwM4SXs4
+i
+i              Western Africa
+i        -------------------------
+i
+i                 Nigeria
+i            -----------------
+i
+i
+i[ EFCC chairman ]
+i
+i[5 : old] https://en.wikipedia.org/wiki/Abdulrasheed_Bawa
+i[6 : old] https://en.wikipedia.org/wiki/Abdulrasheed_Bawa#Education
+i[10 : old] https://www.bbc.com/pidgin/65910977
+i
+i[ Netherlands vs Croatia ]
+i
+i[1 : old] https://theathletic.com/live-blogs/netherlands-croatia-live-score-updates-result-nations-league/CTSIitOn3ZLM/
+i[4 : old] https://www.youtube.com/watch?v=QDEFDywvqFU
+i[7 : old] https://www.espn.com/soccer/match/_/gameId/654360
+i[9 : old] https://www.bbc.com/sport/live/football/65907796
+i
+i              Eastern Africa
+i        -------------------------
+i
+i                   Kenya
+i            -----------------
+i
+i
+i[ Finance Bill 2023 ]
+i
+i[2 : old] https://www.youtube.com/watch?v=zzlrGYs-uYg
+i[3 : old] https://www.youtube.com/watch?v=lKTAlyWBAbE
+i
+i             Southern Africa
+i        -------------------------
+i
+i               South Africa
+i            -----------------
+i
+i
+i[ Netherlands vs Croatia ]
+i
+i[1 : old] https://theathletic.com/live-blogs/netherlands-croatia-live-score-updates-result-nations-league/CTSIitOn3ZLM/
+i[4 : old] https://www.youtube.com/watch?v=QDEFDywvqFU
+i[7 : old] https://www.espn.com/soccer/match/_/gameId/654360
+i[9 : old] https://www.bbc.com/sport/live/football/65907796
+i
+i
+Bt:     June 15, 2023 (All - Old)
